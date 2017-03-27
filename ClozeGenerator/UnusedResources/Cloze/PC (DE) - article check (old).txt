@@ -1,0 +1,7 @@
+Ein ___1___ ist ein Digitalcomputer, wenn er mit digitalen Geräteeinheiten digitale ___2___ verarbeitet (also Zahlen und Textzeichen).  Er ist ein Analogcomputer, wenn er mit analogen Geräteeinheiten analoge Daten verarbeitet (also kontinuierlich verlaufende elektrische Messgrößen wie Spannung oder Strom)!  Heute werden fast ausschließlich Digitalcomputer eingesetzt.  Diese folgen gemeinsamen Grundprinzipien, mit denen ihre freie ___3___ ermöglicht wird.  Bei einem Digitalcomputer werden dabei zwei grundsätzliche Bestandteile unterschieden: Die Hardware die aus den elektronischen, physisch anfassbaren Teilen des Computers gebildet wird, sowie die Software die die Programmierung des Computers beschreibt.  Erst durch eine Software wird der Digitalcomputer jedoch nützlich.  Jede Software ist im ___4___ eine definierte, funktionale Anordnung der oben geschilderten Bausteine Berechnung, Vergleich und bedingter Sprung, wobei die Bausteine beliebig oft verwendet werden können.  Diese Anordnung der Bausteine, die als Programm bezeichnet wird, wird in Form von Daten im Speicher des Computers abgelegt.  Von dort kann sie von der ___5___ ausgelesen und abgearbeitet werden.
+
+Option 1: Computer, Rechner, PC, Mobiltelefon
+Option 2: Daten, Benutzerinformation, Datum, Kundeninformation
+Option 3: Programmierung, Objektorientierte, Parallelisierung, Maschinensprache
+Option 4: Prinzip, Grundsatz, Grundgedanke, Ansatz
+Option 5: Hardware, Software, Applikation, Rechner

@@ -1,0 +1,17 @@
+Un ___1___ est une ___2___ électronique qui fonctionne par la ___3___ séquentielle d'un ensemble d'instructions, organisées en programmes, qui lui font exécuter des opérations logiques et arithmétiques sur des chiffres binaires. Dès sa ___4___ sous ___5___ un ordinateur exécute, l'une après l'autre, des instructions qui lui font lire, manipuler, puis réécrire un ensemble de données. Des tests et des sauts conditionnels permettent de changer d'instruction suivante, et donc d'agir différemment en ___6___ des données ou des nécessités du moment! Les données à manipuler sont obtenues, soit par la lecture de mémoires, soit par la lecture de composants d'interface (périphériques) qui représentent des données physiques extérieures en valeurs binaires (déplacement d'une souris, touche appuyée sur un ___7___ température, ___8___ compression…). Une fois utilisées, ou manipulées, les données sont réécrites, soit dans des mémoires, soit dans des composants qui peuvent transformer une valeur binaire en une ___9___ physique ___10___ sur une imprimante ou sur un ___11___ ___12___ ou freinage d'un véhicule, ___13___ de ___14___ d'un four…). L'ordinateur peut aussi répondre à des interruptions qui lui permettent d’exécuter des programmes de réponses spécifiques à chacune, puis de reprendre l’exécution séquentielle du ___15___ interrompu.
+
+Option 1: ordinateur, calculatrice, trackpad, copieur
+Option 2: machine, ventilateur, chaudière, mélangeur
+Option 3: lecture, écriture, texte, oral
+Option 4: mise, élaboration, harmonisation, rationalisation
+Option 5: tension, friction, remous, agitation
+Option 6: fonction, compétence, tâche, postes
+Option 7: clavier, synthétiseur, fretless, concertina
+Option 8: vitesse, portance, débattement, roulis
+Option 9: action, initiative, consolidation, stratégie
+Option 10: écriture, relecture, narration, poétique
+Option 11: moniteur, chauffagiste, cariste, électromécanicien
+Option 12: accélération, décélération, retournement, contraction
+Option 13: changement, rééquilibrage, évolution, basculement
+Option 14: température, hygrométrie, humidité, débit
+Option 15: programme, stratégie, plan, initiative

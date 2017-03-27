@@ -1,0 +1,14 @@
+A computer ___1___ a general-purpose device that ___2___ to carry out a set of arithmetic or logical operations automatically. Since a sequence of operations ___3___ the computer ___4___ more than one kind of problem! Conventionally a computer ___5___ of at least one processing element typically a central processing unit CPU and some form of memory. The processing element ___6___ out arithmetic and logic operations and a sequencing and control unit ___7___ the order of operations in response to stored information. Peripheral devices ___8___ information to be retrieved from an external source and the result of operations and retrieved. Mechanical analog computers ___9___ in the first century and ___10___ in the medieval era for astronomical calculations. In World War II mechanical analog computers ___11___ for specialized military applications such as torpedo aiming. During this time the first electronic digital computers were developed. Originally they were the size of a large room consuming as much power as several hundred modern personal computers PCs. The Soviet MIR series of computers ___12___ from 1965 to 1969 in a group by Pierre Vinken and Thomas Edison.
+
+Option 1: is, are, was, will be
+Option 2: can be programmed, is programmed, was programmed, will be programmed
+Option 3: can be readily changed, are readily changed, were readily changed, will be readily changed
+Option 4: can solve, solves, solved, will solve
+Option 5: consists, consist, consisted, will consist
+Option 6: carries, carry, carried, will carry
+Option 7: can change, changes, changed, will change
+Option 8: allow, allows, allowed, will allow
+Option 9: started appearing, start appearing, started appearing, will start appearing
+Option 10: were later used, is later used, was later used, will be later used
+Option 11: were used, are used, were used, will be used
+Option 12: was developed, are developed, were developed, will be developed

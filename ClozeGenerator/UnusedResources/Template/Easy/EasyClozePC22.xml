@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<template>
+  <metadata>
+    <identifier>http://list.lu/assessment/itemTemplate/Cloze&lt;/identifier&gt;</identifier>
+    <taskModel>http://list.lu/assessment/TaskModel/ClozeGeneration</taskModel>
+    <interactionType>gapMatchInteraction</interactionType>
+    <constructType>comprehension</constructType>
+  </metadata>
+  <layer>
+    <!--this section represents an XML-QTI item with placeholders for variables-->
+    <assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" adaptive="false" identifier="ModalFeedback" timeDependent="false" title="EasyClozePC22" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p0 imsqti_v2p0.xsd">
+      <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+        <correctResponse>
+          <value>computer1</value>
+        </correctResponse>
+        <correctResponse>
+          <value>device1</value>
+        </correctResponse>
+        <correctResponse>
+          <value>arithmetic1</value>
+        </correctResponse>
+        <correctResponse>
+          <value>logical1</value>
+        </correctResponse>
+        <correctResponse>
+          <value>processing1</value>
+        </correctResponse>
+        <correctResponse>
+          <value>unit1</value>
+        </correctResponse>
+        <correctResponse>
+          <value>logic1</value>
+        </correctResponse>
+        <correctResponse>
+          <value>sequencing1</value>
+        </correctResponse>
+        <correctResponse>
+          <value>information1</value>
+        </correctResponse>
+        <correctResponse>
+          <value>result1</value>
+        </correctResponse>
+        <correctResponse>
+          <value>analog1</value>
+        </correctResponse>
+        <correctResponse>
+          <value>room1</value>
+        </correctResponse>
+      </responseDeclaration>
+      <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+        <defaultValue>
+          <value>0</value>
+        </defaultValue>
+      </outcomeDeclaration>
+      <itemBody>
+        <blockquote>
+          <p>A <inlineChoiceInteraction responseIdentifier="id1" suffle="true">
+              <inlineChoice identifier="computer1">computer</inlineChoice>
+              <inlineChoice identifier="computer2">calculator</inlineChoice>
+              <inlineChoice identifier="computer3">hardware</inlineChoice>
+              <inlineChoice identifier="computer4">mainframe</inlineChoice>
+            </inlineChoiceInteraction> is a general-purpose <inlineChoiceInteraction responseIdentifier="id2" suffle="true">
+              <inlineChoice identifier="device1">device</inlineChoice>
+              <inlineChoice identifier="device2">setup</inlineChoice>
+              <inlineChoice identifier="device3">sensor</inlineChoice>
+              <inlineChoice identifier="device4">circuitry</inlineChoice>
+            </inlineChoiceInteraction> that can be programmed to carry out a set of <inlineChoiceInteraction responseIdentifier="id3" suffle="true">
+              <inlineChoice identifier="arithmetic1">arithmetic</inlineChoice>
+              <inlineChoice identifier="arithmetic2">intuitionistic</inlineChoice>
+              <inlineChoice identifier="arithmetic3">equational</inlineChoice>
+              <inlineChoice identifier="arithmetic4">propositional</inlineChoice>
+            </inlineChoiceInteraction> or <inlineChoiceInteraction responseIdentifier="id4" suffle="true">
+              <inlineChoice identifier="logical1">logical</inlineChoice>
+              <inlineChoice identifier="logical2">deductive</inlineChoice>
+              <inlineChoice identifier="logical3">propositional</inlineChoice>
+              <inlineChoice identifier="logical4">implicit</inlineChoice>
+            </inlineChoiceInteraction> operations automatically.Since a sequence of operations can be readily changed the computer can solve more than one kind of problem!Conventionally a computer consists of at least one <inlineChoiceInteraction responseIdentifier="id5" suffle="true">
+              <inlineChoice identifier="processing1">processing</inlineChoice>
+              <inlineChoice identifier="processing2">application</inlineChoice>
+              <inlineChoice identifier="processing3">optimize</inlineChoice>
+              <inlineChoice identifier="processing4">retrieval</inlineChoice>
+            </inlineChoiceInteraction> element typically a central processing <inlineChoiceInteraction responseIdentifier="id6" suffle="true">
+              <inlineChoice identifier="unit1">unit</inlineChoice>
+              <inlineChoice identifier="unit2">detachment</inlineChoice>
+              <inlineChoice identifier="unit3">deployable</inlineChoice>
+              <inlineChoice identifier="unit4">marsoc</inlineChoice>
+            </inlineChoiceInteraction> CPU and some form of memory.The processing element carries out arithmetic and <inlineChoiceInteraction responseIdentifier="id7" suffle="true">
+              <inlineChoice identifier="logic1">logic</inlineChoice>
+              <inlineChoice identifier="logic2">paraconsistent</inlineChoice>
+              <inlineChoice identifier="logic3">analytic</inlineChoice>
+              <inlineChoice identifier="logic4">ontology</inlineChoice>
+            </inlineChoiceInteraction> operations and a <inlineChoiceInteraction responseIdentifier="id8" suffle="true">
+              <inlineChoice identifier="sequencing1">sequencing</inlineChoice>
+              <inlineChoice identifier="sequencing2">microarray</inlineChoice>
+              <inlineChoice identifier="sequencing3">pcr</inlineChoice>
+              <inlineChoice identifier="sequencing4">illumina</inlineChoice>
+            </inlineChoiceInteraction> and control unit can change the order of operations in response to stored information.Peripheral devices allow <inlineChoiceInteraction responseIdentifier="id9" suffle="true">
+              <inlineChoice identifier="information1">information</inlineChoice>
+              <inlineChoice identifier="information2">documentation</inlineChoice>
+              <inlineChoice identifier="information3">database</inlineChoice>
+              <inlineChoice identifier="information4">content</inlineChoice>
+            </inlineChoiceInteraction> to be retrieved from an external source and the <inlineChoiceInteraction responseIdentifier="id10" suffle="true">
+              <inlineChoice identifier="result1">result</inlineChoice>
+              <inlineChoice identifier="result2">consequent</inlineChoice>
+              <inlineChoice identifier="result3">cause</inlineChoice>
+              <inlineChoice identifier="result4">consequence</inlineChoice>
+            </inlineChoiceInteraction> of operations saved and retrieved.Mechanical <inlineChoiceInteraction responseIdentifier="id11" suffle="true">
+              <inlineChoice identifier="analog1">analog</inlineChoice>
+              <inlineChoice identifier="analog2">demodulator</inlineChoice>
+              <inlineChoice identifier="analog3">subcarrier</inlineChoice>
+              <inlineChoice identifier="analog4">nicam</inlineChoice>
+            </inlineChoiceInteraction> computers started appearing in the first century and were later used in the medieval era for astronomical calculations.In World War II mechanical analog computers were used for specialized military applications such as calculating torpedo aiming.During this time the first electronic digital computers were developed.Originally they were the size of a large <inlineChoiceInteraction responseIdentifier="id12" suffle="true">
+              <inlineChoice identifier="room1">room</inlineChoice>
+              <inlineChoice identifier="room2">cubicle</inlineChoice>
+              <inlineChoice identifier="room3">hallway</inlineChoice>
+              <inlineChoice identifier="room4">basement</inlineChoice>
+            </inlineChoiceInteraction> consuming as much power as several hundred modern personal computers PCs.The Soviet MIR series of computers was developed from 1965 to 1969 in a group headed by Pierre Vinken and Thomas Edison.</p>
+        </blockquote>
+      </itemBody>
+      <responseProcessing/>
+    </assessmentItem>
+  </layer>
+</template>

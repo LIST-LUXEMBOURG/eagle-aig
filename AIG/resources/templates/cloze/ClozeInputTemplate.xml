@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<template>
+	<metadata>
+		<identifier>http://list.lu/assessment/itemTemplate/Cloze</identifier>
+		<taskModel>http://list.lu/assessment/TaskModel/ClozeGeneration</taskModel>
+		<interactionType>gapMatchInteraction</interactionType>
+		<constructType>comprehension</constructType>
+		<correctResponseAttributionMode>RANDOM</correctResponseAttributionMode>
+		<distractorAttributionMode>RANDOM</distractorAttributionMode>
+		<clozeVariableKey></clozeVariableKey>
+		<clozeBlock>http://list.lu/clozeBlock</clozeBlock>
+		<correctResponseBlock>http://list.lu/correctResponseBlock</correctResponseBlock>
+	</metadata>
+
+	<layer>
+		<!-- TODO What should be the title? -->
+		<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p0 imsqti_v2p0.xsd" identifier="choice" title="Concept translation from English into French {http://list.lu/concept1}" adaptive="false" timeDependent="false">
+			{http://list.lu/correctResponseBlock}
+			<itemBody>
+				<!-- What is supposed to be printed here? -->
+				<p> Identify the gaps in the text. </p>
+				<blockquote>
+					{http://list.lu/clozeBlock}
+				</blockquote>
+			</itemBody>
+			<responseProcessing></responseProcessing>
+		</assessmentItem>
+	</layer>
+
+	<variableDefinitions>
+		<variable>
+			<identifier>http://list.lu/clozeText</identifier>
+			<initialization>http://list.lu/process1</initialization>
+			<values>
+				<value>
+					<key>http://list.lu/clozeBlock</key>
+					<type>TEXT</type>
+				</value>
+				<value>
+					<key>http://list.lu/correctResponseBlock</key>
+					<type>TEXT</type>
+				</value>
+			</values>
+		</variable>
+	</variableDefinitions>
+	<processes>
+		<process>
+			<identifier>http://list.lu/process1</identifier>
+			<type>ClozeCreationProcess</type>
+			<numberOfDistractors>3</numberOfDistractors>
+			<firstSentence>true</firstSentence>
+			<useNGramArticleCorrection>false</useNGramArticleCorrection>
+			<approach>annotation</approach>
+			<useGrammaticalDependencies>false</useGrammaticalDependencies>
+			<soundex>true</soundex>
+			<feedback>false</feedback>
+			<outcome>
+				<outcomeIdentifier>http://list.lu/clozeText</outcomeIdentifier>
+			</outcome>
+		</process>
+	</processes>
+</template>

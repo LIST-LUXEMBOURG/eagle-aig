@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE xml>
+<testRequest language="fr-FR" maxNumberOfItems="10"
+	testName="private_ol">
+	<itemType type="http://www.tao.lu/Ontologies/TAOAIGFacade.rdf#ItemCategory"
+		value="cat0" amount="40%" dataSetFactor="10" />
+	<itemType type="http://www.tao.lu/Ontologies/TAOAIGFacade.rdf#ItemCategory"
+		value="cat1" amount="2" dataSetFactor="10">
+		<criteria type="http://www.tao.lu/Ontologies/TAOAIGFacade.rdf#CreationDate"
+			value="2015-10-07 10:48:32" operator="ge" />
+	</itemType>
+	<unicity><![CDATA[http://www.tao.lu/Ontologies/TAOAIGFacade.rdf#SourceTemplate]]>
+	</unicity>
+	<unicity><![CDATA[http://www.tao.lu/Ontologies/TAOAIGFacade.rdf#RelatedConstruct]]>
+	</unicity>
+	<unicity><![CDATA[http://www.tao.lu/Ontologies/TAOAIGFacade.rdf#CorrectResponse]]>
+	</unicity>
+</testRequest>

@@ -1,0 +1,19 @@
+{
+    "itemRequest":{
+        "language":"fr-FR",
+        "referrer":"http://hermes:8086/taoAigFacade/demo/itemGeneration/",
+        "itemsPerConcept":"2",
+        "itemTemplate":"twist",
+        "conceptsPerItem":"1",
+        "itemCategory":"unitTest",
+        "parentClass":"",
+        "word":[
+            {
+                "uri":"http://www.list.lu/ontologies/2015/hermes/1.0.0#aufgabe_milestone_entscheid_zur_ausschreibung_treffen"
+            },
+            {
+                "uri":"http://www.list.lu/ontologies/2015/hermes/1.0.0#aufgabe_geschaeftsorganisation_realisieren"
+            }
+        ]
+    }
+}

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<template>
+  <metadata>
+    <identifier>http://list.lu/assessment/itemTemplate/Cloze&lt;/identifier&gt;</identifier>
+    <taskModel>http://list.lu/assessment/TaskModel/ClozeGeneration</taskModel>
+    <interactionType>gapMatchInteraction</interactionType>
+    <constructType>comprehension</constructType>
+  </metadata>
+  <layer>
+    <!--this section represents an XML-QTI item with placeholders for variables-->
+    <assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" identifier="ModalFeedback" title="MediumClozePC1" adaptive="false" timeDependent="false">
+      <responseDeclaration xmlns="" identifier="RESPONSE" cardinality="single" baseType="identifier">
+        <correctResponse>
+          <value>is1</value>
+        </correctResponse>
+        <correctResponse>
+          <value>carry1</value>
+        </correctResponse>
+        <correctResponse>
+          <value>be1</value>
+        </correctResponse>
+        <correctResponse>
+          <value>solve1</value>
+        </correctResponse>
+        <correctResponse>
+          <value>consists1</value>
+        </correctResponse>
+        <correctResponse>
+          <value>carries1</value>
+        </correctResponse>
+        <correctResponse>
+          <value>change1</value>
+        </correctResponse>
+        <correctResponse>
+          <value>allow1</value>
+        </correctResponse>
+        <correctResponse>
+          <value>appearing1</value>
+        </correctResponse>
+        <correctResponse>
+          <value>were1</value>
+        </correctResponse>
+        <correctResponse>
+          <value>calculating1</value>
+        </correctResponse>
+      </responseDeclaration>
+      <outcomeDeclaration xmlns="" identifier="SCORE" cardinality="single" baseType="float">
+        <defaultValue>
+          <value>0</value>
+        </defaultValue>
+      </outcomeDeclaration>
+      <itemBody xmlns="">
+        <blockquote>
+          <p>
+            A computer
+            <inlineChoiceInteraction responseIdentifier="id1" suffle="true">
+              <inlineChoice identifier="is1">is</inlineChoice>
+              <inlineChoice identifier="is2">was</inlineChoice>
+              <inlineChoice identifier="is3">will be</inlineChoice>
+            </inlineChoiceInteraction>
+            a general-purpose device that can be to
+            <inlineChoiceInteraction responseIdentifier="id2" suffle="true">
+              <inlineChoice identifier="carry1">carry</inlineChoice>
+              <inlineChoice identifier="carry2">carries</inlineChoice>
+              <inlineChoice identifier="carry3">carried</inlineChoice>
+              <inlineChoice identifier="carry4">will carry</inlineChoice>
+            </inlineChoiceInteraction>
+            out a set of arithmetic or logical operations automatically.Since a sequence of operations can
+            <inlineChoiceInteraction responseIdentifier="id3" suffle="true">
+              <inlineChoice identifier="be1">be</inlineChoice>
+              <inlineChoice identifier="be2">is</inlineChoice>
+              <inlineChoice identifier="be3">was</inlineChoice>
+              <inlineChoice identifier="be4">will be</inlineChoice>
+            </inlineChoiceInteraction>
+            readily the computer can
+            <inlineChoiceInteraction responseIdentifier="id4" suffle="true">
+              <inlineChoice identifier="solve1">solve</inlineChoice>
+              <inlineChoice identifier="solve2">solves</inlineChoice>
+              <inlineChoice identifier="solve3">solved</inlineChoice>
+              <inlineChoice identifier="solve4">will solve</inlineChoice>
+            </inlineChoiceInteraction>
+            more than one kind of problem!Conventionally a computer
+            <inlineChoiceInteraction responseIdentifier="id5" suffle="true">
+              <inlineChoice identifier="consists1">consists</inlineChoice>
+              <inlineChoice identifier="consists2">consisted</inlineChoice>
+              <inlineChoice identifier="consists3">will consist</inlineChoice>
+            </inlineChoiceInteraction>
+            of at least one processing element typically a central processing unit CPU and some form of memory.The processing element
+            <inlineChoiceInteraction responseIdentifier="id6" suffle="true">
+              <inlineChoice identifier="carries1">carries</inlineChoice>
+              <inlineChoice identifier="carries2">carried</inlineChoice>
+              <inlineChoice identifier="carries3">will carry</inlineChoice>
+            </inlineChoiceInteraction>
+            out arithmetic and logic operations and a sequencing and control unit can
+            <inlineChoiceInteraction responseIdentifier="id7" suffle="true">
+              <inlineChoice identifier="change1">change</inlineChoice>
+              <inlineChoice identifier="change2">changes</inlineChoice>
+              <inlineChoice identifier="change3">changed</inlineChoice>
+              <inlineChoice identifier="change4">will change</inlineChoice>
+            </inlineChoiceInteraction>
+            the order of operations in response to information.Peripheral devices
+            <inlineChoiceInteraction responseIdentifier="id8" suffle="true">
+              <inlineChoice identifier="allow1">allow</inlineChoice>
+              <inlineChoice identifier="allow2">allowed</inlineChoice>
+              <inlineChoice identifier="allow3">will allow</inlineChoice>
+            </inlineChoiceInteraction>
+            information to be from an external source and the result of operations and retrieved.Mechanical analog computers started
+            <inlineChoiceInteraction responseIdentifier="id9" suffle="true">
+              <inlineChoice identifier="appearing1">appearing</inlineChoice>
+              <inlineChoice identifier="appearing2">appears</inlineChoice>
+              <inlineChoice identifier="appearing3">appeared</inlineChoice>
+              <inlineChoice identifier="appearing4">will appear</inlineChoice>
+            </inlineChoiceInteraction>
+            in the first century and
+            <inlineChoiceInteraction responseIdentifier="id10" suffle="true">
+              <inlineChoice identifier="were1">were</inlineChoice>
+              <inlineChoice identifier="were2">is</inlineChoice>
+              <inlineChoice identifier="were3">will be</inlineChoice>
+            </inlineChoiceInteraction>
+            later in the medieval era for astronomical calculations.In World War II mechanical analog computers were for specialized military applications such as
+            <inlineChoiceInteraction responseIdentifier="id11" suffle="true">
+              <inlineChoice identifier="calculating1">calculating</inlineChoice>
+              <inlineChoice identifier="calculating2">calculates</inlineChoice>
+              <inlineChoice identifier="calculating3">calculated</inlineChoice>
+              <inlineChoice identifier="calculating4">will calculate</inlineChoice>
+            </inlineChoiceInteraction>
+            torpedo aiming.During this time the first electronic digital computers were developed.Originally they were the size of a large room consuming as much power as several hundred modern personal computers PCs.The Soviet MIR series of computers was from 1965 to 1969 in a group by Pierre Vinken and Thomas Edison.
+          </p>
+        </blockquote>
+      </itemBody>
+      <responseProcessing xmlns="" />
+    </assessmentItem>
+  </layer>
+</template>

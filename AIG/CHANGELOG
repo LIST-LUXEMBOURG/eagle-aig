@@ -1,0 +1,31 @@
+Version 0.8.0
+
+Major changes to the Variable design. Variable instances now map values to keep the values obtained form an initialization or resolution process logically bound and int he same variable space for retrieval.
+
++ Refactored Variable: They can now contain multiple keyed values that can also be referred to by type.
++ Added VariableBuilder to facilitate instantiation from an XML Element.
++ Applied changed to Template which has also been streamlined.
++ Applied changes to SimilarityProvider
++ Redesigned item generation.
+	- The ItemFactoryBuilder is used to instantiate a concrete ItemFactory, for example the ChoiceItemFactory.
+	- The concrete factory will use the resolved variables to build their items.
++ Redesigned variable resolution process
+	- The system now supports different types of ResolutionProcesses, namely OptimizationProcess and InitializationProcess.
+	- The latter, like the concrete SemanticRetrievalProcess will initialize variables.
+	- The former can be used to optimize variables or compute different metrics used to decide on items in the respective factories.
++ Added own implementation of Soundex for the custom Variable and cut ties with previously used library-
++ Added string externalization
+
++ Made some dependencies explicit (JDom2, Guava, etc) to increase maintainability.
+
+- Removed all sub-classes of Variables
+- Removed MPJTB library as it is no longer needed.
+- Removed obsolete packages and classes.
+
+Version 0.7.2
+
+Cleaned dependencies.
+
+Version 0.7.0
+
+Changed how KMedoids clustering is behaving. Added a parameterizable loop variable which will execute the code as many times as needed, up to the loop variant variable, to try and compose clusters of equal size. If this does not succeed before the loop variant is met, a ClustercompositionException is thrown.

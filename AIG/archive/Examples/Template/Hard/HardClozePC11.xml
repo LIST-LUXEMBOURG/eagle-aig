@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<template>
+  <metadata>
+    <identifier>http://list.lu/assessment/itemTemplate/Cloze&lt;/identifier&gt;</identifier>
+    <taskModel>http://list.lu/assessment/TaskModel/ClozeGeneration</taskModel>
+    <interactionType>gapMatchInteraction</interactionType>
+    <constructType>comprehension</constructType>
+  </metadata>
+  <layer>
+    <!--this section represents an XML-QTI item with placeholders for variables-->
+    <assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" adaptive="false" identifier="ModalFeedback" timeDependent="false" title="HardClozePC11" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p0 imsqti_v2p0.xsd">
+      <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+        <correctResponse>
+          <value>central1</value>
+        </correctResponse>
+        <correctResponse>
+          <value>logic1</value>
+        </correctResponse>
+        <correctResponse>
+          <value>sequencing1</value>
+        </correctResponse>
+        <correctResponse>
+          <value>room1</value>
+        </correctResponse>
+      </responseDeclaration>
+      <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+        <defaultValue>
+          <value>0</value>
+        </defaultValue>
+      </outcomeDeclaration>
+      <itemBody>
+        <blockquote>
+          <p>A computer is a general-purpose device that can be programmed to carry out a set of arithmetic or logical operations automatically.Since a sequence of operations can be readily changed the computer can solve more than one kind of problem!Conventionally a computer consists of at least one processing element typically a <inlineChoiceInteraction responseIdentifier="id1" suffle="true">
+              <inlineChoice identifier="central1">central</inlineChoice>
+              <inlineChoice identifier="central2">eastern</inlineChoice>
+              <inlineChoice identifier="central3">northern</inlineChoice>
+              <inlineChoice identifier="central4">southern</inlineChoice>
+            </inlineChoiceInteraction> processing unit CPU and some form of memory.The processing element carries out arithmetic and <inlineChoiceInteraction responseIdentifier="id2" suffle="true">
+              <inlineChoice identifier="logic1">logic</inlineChoice>
+              <inlineChoice identifier="logic2">paraconsistent</inlineChoice>
+              <inlineChoice identifier="logic3">analytic</inlineChoice>
+              <inlineChoice identifier="logic4">ontology</inlineChoice>
+            </inlineChoiceInteraction> operations and a <inlineChoiceInteraction responseIdentifier="id3" suffle="true">
+              <inlineChoice identifier="sequencing1">sequencing</inlineChoice>
+              <inlineChoice identifier="sequencing2">microarray</inlineChoice>
+              <inlineChoice identifier="sequencing3">pcr</inlineChoice>
+              <inlineChoice identifier="sequencing4">illumina</inlineChoice>
+            </inlineChoiceInteraction> and control unit can change the order of operations in response to stored information.Peripheral devices allow information to be retrieved from an external source, and the result of operations saved and retrieved.Mechanical analog computers started appearing in the first century and were later used in the medieval era for astronomical calculations.In World War II mechanical analog computers were used for specialized military applications such as calculating torpedo aiming.During this time the first electronic digital computers were developed.Originally they were the size of a large <inlineChoiceInteraction responseIdentifier="id4" suffle="true">
+              <inlineChoice identifier="room1">room</inlineChoice>
+              <inlineChoice identifier="room2">cubicle</inlineChoice>
+              <inlineChoice identifier="room3">hallway</inlineChoice>
+              <inlineChoice identifier="room4">basement</inlineChoice>
+            </inlineChoiceInteraction> consuming as much power as several hundred modern personal computers PCs.The Soviet MIR series of computers was developed from 1965 to 1969 in a group headed by Pierre Vinken and Thomas Edison.</p>
+        </blockquote>
+      </itemBody>
+      <responseProcessing/>
+    </assessmentItem>
+  </layer>
+</template>

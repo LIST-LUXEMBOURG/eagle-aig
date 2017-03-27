@@ -1,0 +1,33 @@
+{
+    "testRequest":{
+        "language":"fr-FR",
+        "maxNumberOfItems":"10",
+        "testName":"private_ol",
+        "itemType":[
+            {
+                "type":"http://www.tao.lu/Ontologies/TAOAIGFacade.rdf#ItemCategory",
+                "value":"cat0",
+                "amount":"40%",
+                "dataSetFactor":"10",
+                "criteria":[
+                    {
+                        "type":"http://www.tao.lu/Ontologies/TAOAIGFacade.rdf#CreationDate",
+                        "value":"2015-10-07 10:48:32",
+                        "operator":"ge"
+                    }
+                ]
+            },
+            {
+                "type":"http://www.tao.lu/Ontologies/TAOAIGFacade.rdf#ItemCategory",
+                "value":"cat1",
+                "amount":"2",
+                "dataSetFactor":"10"
+            }
+        ],
+        "unicity":[
+            "http://www.tao.lu/Ontologies/TAOAIGFacade.rdf#SourceTemplate",
+            "http://www.tao.lu/Ontologies/TAOAIGFacade.rdf#RelatedConstruct",
+            "http://www.tao.lu/Ontologies/TAOAIGFacade.rdf#CorrectResponse"
+        ]
+    }
+}

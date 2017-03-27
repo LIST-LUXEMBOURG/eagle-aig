@@ -1,0 +1,9 @@
+Un ___1___ est une ___2___ électronique qui fonctionne par la ___3___ séquentielle d'un ensemble d'instructions organisées en programmes qui lui font exécuter des opérations logiques et arithmétiques sur des chiffres binaires. Dès sa mise sous tension un ordinateur exécute l'une après l'autre des instructions qui lui font lire manipuler puis réécrire un ensemble de données. Des tests et des sauts conditionnels permettent de changer d'instruction suivante et donc d'agir différemment en fonction des données ou des nécessités du moment! Les données à manipuler sont obtenues soit par la lecture de mémoires soit par la lecture de composants d'interface périphériques qui représentent des données physiques extérieures en valeurs binaires déplacement d'une souris touche appuyée sur un clavier température vitesse compression…. Une ___4___ utilisées ou manipulées les données sont réécrites soit dans des mémoires soit dans des composants qui peuvent transformer une ___5___ binaire en une action physique ___6___ sur une imprimante ou sur un moniteur accélération ou ___7___ d'un véhicule changement de température d'un four…. L'ordinateur peut aussi répondre à des interruptions qui lui permettent d’exécuter des programmes de réponses spécifiques à chacune puis de reprendre l’exécution séquentielle du programme interrompu.
+
+Option 1: ordinateur, logiciel, téléviseur, console
+Option 2: machine, turbine, chaudière, moteur
+Option 3: lecture, présentation, écriture, texte
+Option 4: fois, semaine, mois, manche
+Option 5: valeur, rendement, dimension, rentabilité
+Option 6: écriture, poésie, narration, poétique
+Option 7: freinage, actionnement, décélération, frein

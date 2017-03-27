@@ -1,0 +1,14 @@
+Add these to the envirement tap in a class which should run the project!
+
+
+DISCO_DE_DIR
+
+D:/resources/DISCO/de-general-20150421-lm-word2vec-sim
+
+DISCO_EN_DIR
+
+D:/resources/DISCO/enwiki-20130403-word2vec-lm-mwl-lc-sim
+
+DISCO_FR_DIR
+
+D:/resources/DISCO/fr-general-20151126-lm-word2vec-sim

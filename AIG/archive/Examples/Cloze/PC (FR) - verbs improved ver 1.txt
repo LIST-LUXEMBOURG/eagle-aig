@@ -1,0 +1,14 @@
+Un ordinateur ___1___ une machine électronique qui ___2___ par la lecture séquentielle d'un ensemble d'instructions organisées en programmes qui lui ___3___ des opérations logiques et arithmétiques sur des binaires. Dès sa mise sous tension un ordinateur exécute l'une après des instructions qui lui ___4___ un ensemble données. Des tests et des sauts conditionnels ___5___ différemment en fonction des données ou des nécessités moment! Les données à manipuler ___6___ soit par la lecture de mémoires soit par la lecture de composants périphériques qui ___7___ des données physiques extérieures en valeurs binaires déplacement d'une souris ___8___ sur un clavier température compression…. Une fois utilisées ou les données ___9___ réécrites soit dans des mémoires soit dans des composants qui ___10___ une valeur binaire en une action physique écriture sur une imprimante ou sur un moniteur accélération ou freinage d'un véhicule changement de température four…. L'ordinateur ___11___ à des interruptions qui lui ___12___ des programmes de réponses spécifiques à chacune puis de l’exécution séquentielle du interrompu.
+
+Option 1: est, sont, as été, seras
+Option 2: fonctionne, fonctionnent, a fonctionné, fonctionnera
+Option 3: font exécuter, fait exécuter, avez fait exécuter, ferez exécuter
+Option 4: font réécrire, fait réécrire, avez fait réécrire, ferez réécrire
+Option 5: permettent d'agir, permet d'agir, avez permis d'agir, permettrez d'agir
+Option 6: sont obtenues, est obtenues, avez été obtenues, serez obtenues
+Option 7: représentent, représente, avez représenté, représenterez
+Option 8: touche appuyée, touchent appuyée, as touché appuyée, toucheras appuyée
+Option 9: sont, est, avez été, serez
+Option 10: peuvent transformer, peut transformer, avez pouvu transformer, pourrez transformer
+Option 11: peut répondre, peuvent répondre, as pouvu répondre, pourras répondre
+Option 12: permettent d’exécuter, permet d’exécuter, avez permis d’exécuter, permettrez d’exécuter

@@ -1,0 +1,375 @@
+  Transition system    : Projective
+  Parser configuration : Stack
+  Data Format          : /engmalt.linear-1.7/conllx.xml
+  Transition system    : Projective
+  Parser configuration : Stack
+  Data Format          : /engmalt.linear-1.7/conllx.xml
+  Transition system    : Projective
+  Parser configuration : Stack
+  Data Format          : /engmalt.linear-1.7/conllx.xml
+  Transition system    : Arc-Eager
+  Transition system    : Arc-Eager
+  Parser configuration : Nivre with allow_root=false, allow_reduce=false and enforce_tree=false
+  Parser configuration : Nivre with allow_root=false, allow_reduce=false and enforce_tree=false
+  Data Format          : /fremalt-1.7/conllx.xml
+  Data Format          : /fremalt-1.7/conllx.xml
+  Transition system    : Projective
+  Parser configuration : Stack
+  Data Format          : /engmalt.linear-1.7/conllx.xml
+  Transition system    : Arc-Eager
+  Transition system    : Arc-Eager
+  Parser configuration : Nivre with allow_root=false, allow_reduce=false and enforce_tree=false
+  Parser configuration : Nivre with allow_root=false, allow_reduce=false and enforce_tree=false
+  Data Format          : /fremalt-1.7/conllx.xml
+  Data Format          : /fremalt-1.7/conllx.xml
+  Transition system    : Projective
+  Parser configuration : Stack
+  Data Format          : /engmalt.linear-1.7/conllx.xml
+  Transition system    : Projective
+  Parser configuration : Stack
+  Data Format          : /engmalt.linear-1.7/conllx.xml
+  Transition system    : Arc-Eager
+  Transition system    : Arc-Eager
+  Parser configuration : Nivre with allow_root=false, allow_reduce=false and enforce_tree=false
+  Parser configuration : Nivre with allow_root=false, allow_reduce=false and enforce_tree=false
+  Data Format          : /fremalt-1.7/conllx.xml
+  Data Format          : /fremalt-1.7/conllx.xml
+  Transition system    : Projective
+  Parser configuration : Stack
+  Data Format          : /engmalt.linear-1.7/conllx.xml
+  Transition system    : Arc-Eager
+  Transition system    : Arc-Eager
+  Parser configuration : Nivre with allow_root=false, allow_reduce=false and enforce_tree=false
+  Parser configuration : Nivre with allow_root=false, allow_reduce=false and enforce_tree=false
+  Data Format          : /fremalt-1.7/conllx.xml
+  Data Format          : /fremalt-1.7/conllx.xml
+  Transition system    : Projective
+  Parser configuration : Stack
+  Data Format          : /engmalt.linear-1.7/conllx.xml
+  Transition system    : Arc-Eager
+  Transition system    : Arc-Eager
+  Parser configuration : Nivre with allow_root=false, allow_reduce=false and enforce_tree=false
+  Parser configuration : Nivre with allow_root=false, allow_reduce=false and enforce_tree=false
+  Data Format          : /fremalt-1.7/conllx.xml
+  Data Format          : /fremalt-1.7/conllx.xml
+  Transition system    : Projective
+  Parser configuration : Stack
+  Data Format          : /engmalt.linear-1.7/conllx.xml
+  Transition system    : Projective
+  Parser configuration : Stack
+  Data Format          : /engmalt.linear-1.7/conllx.xml
+  Transition system    : Arc-Eager
+  Transition system    : Arc-Eager
+  Parser configuration : Nivre with allow_root=false, allow_reduce=false and enforce_tree=false
+  Parser configuration : Nivre with allow_root=false, allow_reduce=false and enforce_tree=false
+  Data Format          : /fremalt-1.7/conllx.xml
+  Data Format          : /fremalt-1.7/conllx.xml
+  Transition system    : Projective
+  Parser configuration : Stack
+  Data Format          : /engmalt.linear-1.7/conllx.xml
+  Transition system    : Arc-Eager
+  Transition system    : Arc-Eager
+  Parser configuration : Nivre with allow_root=false, allow_reduce=false and enforce_tree=false
+  Parser configuration : Nivre with allow_root=false, allow_reduce=false and enforce_tree=false
+  Data Format          : /fremalt-1.7/conllx.xml
+  Data Format          : /fremalt-1.7/conllx.xml
+  Transition system    : Projective
+  Parser configuration : Stack
+  Data Format          : /engmalt.linear-1.7/conllx.xml
+  Transition system    : Arc-Eager
+  Transition system    : Arc-Eager
+  Parser configuration : Nivre with allow_root=false, allow_reduce=false and enforce_tree=false
+  Parser configuration : Nivre with allow_root=false, allow_reduce=false and enforce_tree=false
+  Data Format          : /fremalt-1.7/conllx.xml
+  Data Format          : /fremalt-1.7/conllx.xml
+  Transition system    : Projective
+  Parser configuration : Stack
+  Data Format          : /engmalt.linear-1.7/conllx.xml
+  Transition system    : Arc-Eager
+  Transition system    : Arc-Eager
+  Parser configuration : Nivre with allow_root=false, allow_reduce=false and enforce_tree=false
+  Parser configuration : Nivre with allow_root=false, allow_reduce=false and enforce_tree=false
+  Data Format          : /fremalt-1.7/conllx.xml
+  Data Format          : /fremalt-1.7/conllx.xml
+  Transition system    : Projective
+  Parser configuration : Stack
+  Data Format          : /engmalt.linear-1.7/conllx.xml
+  Transition system    : Arc-Eager
+  Transition system    : Arc-Eager
+  Parser configuration : Nivre with allow_root=false, allow_reduce=false and enforce_tree=false
+  Parser configuration : Nivre with allow_root=false, allow_reduce=false and enforce_tree=false
+  Data Format          : /fremalt-1.7/conllx.xml
+  Data Format          : /fremalt-1.7/conllx.xml
+  Transition system    : Projective
+  Parser configuration : Stack
+  Data Format          : /engmalt.linear-1.7/conllx.xml
+  Transition system    : Arc-Eager
+  Transition system    : Arc-Eager
+  Parser configuration : Nivre with allow_root=false, allow_reduce=false and enforce_tree=false
+  Parser configuration : Nivre with allow_root=false, allow_reduce=false and enforce_tree=false
+  Data Format          : /fremalt-1.7/conllx.xml
+  Data Format          : /fremalt-1.7/conllx.xml
+  Transition system    : Projective
+  Parser configuration : Stack
+  Data Format          : /engmalt.linear-1.7/conllx.xml
+  Transition system    : Arc-Eager
+  Transition system    : Arc-Eager
+  Parser configuration : Nivre with allow_root=false, allow_reduce=false and enforce_tree=false
+  Parser configuration : Nivre with allow_root=false, allow_reduce=false and enforce_tree=false
+  Data Format          : /fremalt-1.7/conllx.xml
+  Data Format          : /fremalt-1.7/conllx.xml
+  Transition system    : Projective
+  Parser configuration : Stack
+  Data Format          : /engmalt.linear-1.7/conllx.xml
+  Transition system    : Arc-Eager
+  Transition system    : Arc-Eager
+  Parser configuration : Nivre with allow_root=false, allow_reduce=false and enforce_tree=false
+  Parser configuration : Nivre with allow_root=false, allow_reduce=false and enforce_tree=false
+  Data Format          : /fremalt-1.7/conllx.xml
+  Data Format          : /fremalt-1.7/conllx.xml
+  Transition system    : Projective
+  Parser configuration : Stack
+  Data Format          : /engmalt.linear-1.7/conllx.xml
+  Transition system    : Arc-Eager
+  Transition system    : Arc-Eager
+  Parser configuration : Nivre with allow_root=false, allow_reduce=false and enforce_tree=false
+  Parser configuration : Nivre with allow_root=false, allow_reduce=false and enforce_tree=false
+  Data Format          : /fremalt-1.7/conllx.xml
+  Data Format          : /fremalt-1.7/conllx.xml
+  Transition system    : Projective
+  Parser configuration : Stack
+  Data Format          : /engmalt.linear-1.7/conllx.xml
+  Transition system    : Arc-Eager
+  Transition system    : Arc-Eager
+  Parser configuration : Nivre with allow_root=false, allow_reduce=false and enforce_tree=false
+  Parser configuration : Nivre with allow_root=false, allow_reduce=false and enforce_tree=false
+  Data Format          : /fremalt-1.7/conllx.xml
+  Data Format          : /fremalt-1.7/conllx.xml
+  Transition system    : Projective
+  Parser configuration : Stack
+  Data Format          : /engmalt.linear-1.7/conllx.xml
+  Transition system    : Arc-Eager
+  Transition system    : Arc-Eager
+  Parser configuration : Nivre with allow_root=false, allow_reduce=false and enforce_tree=false
+  Parser configuration : Nivre with allow_root=false, allow_reduce=false and enforce_tree=false
+  Data Format          : /fremalt-1.7/conllx.xml
+  Data Format          : /fremalt-1.7/conllx.xml
+  Transition system    : Projective
+  Parser configuration : Stack
+  Data Format          : /engmalt.linear-1.7/conllx.xml
+  Transition system    : Arc-Eager
+  Transition system    : Arc-Eager
+  Parser configuration : Nivre with allow_root=false, allow_reduce=false and enforce_tree=false
+  Parser configuration : Nivre with allow_root=false, allow_reduce=false and enforce_tree=false
+  Data Format          : /fremalt-1.7/conllx.xml
+  Data Format          : /fremalt-1.7/conllx.xml
+  Transition system    : Projective
+  Parser configuration : Stack
+  Data Format          : /engmalt.linear-1.7/conllx.xml
+  Transition system    : Arc-Eager
+  Transition system    : Arc-Eager
+  Parser configuration : Nivre with allow_root=false, allow_reduce=false and enforce_tree=false
+  Parser configuration : Nivre with allow_root=false, allow_reduce=false and enforce_tree=false
+  Data Format          : /fremalt-1.7/conllx.xml
+  Data Format          : /fremalt-1.7/conllx.xml
+  Transition system    : Projective
+  Parser configuration : Stack
+  Data Format          : /engmalt.linear-1.7/conllx.xml
+  Transition system    : Arc-Eager
+  Transition system    : Arc-Eager
+  Parser configuration : Nivre with allow_root=false, allow_reduce=false and enforce_tree=false
+  Parser configuration : Nivre with allow_root=false, allow_reduce=false and enforce_tree=false
+  Data Format          : /fremalt-1.7/conllx.xml
+  Data Format          : /fremalt-1.7/conllx.xml
+  Transition system    : Projective
+  Parser configuration : Stack
+  Data Format          : /engmalt.linear-1.7/conllx.xml
+  Transition system    : Arc-Eager
+  Transition system    : Arc-Eager
+  Parser configuration : Nivre with allow_root=false, allow_reduce=false and enforce_tree=false
+  Parser configuration : Nivre with allow_root=false, allow_reduce=false and enforce_tree=false
+  Data Format          : /fremalt-1.7/conllx.xml
+  Data Format          : /fremalt-1.7/conllx.xml
+  Transition system    : Projective
+  Parser configuration : Stack
+  Data Format          : /engmalt.linear-1.7/conllx.xml
+  Transition system    : Arc-Eager
+  Transition system    : Arc-Eager
+  Parser configuration : Nivre with allow_root=false, allow_reduce=false and enforce_tree=false
+  Parser configuration : Nivre with allow_root=false, allow_reduce=false and enforce_tree=false
+  Data Format          : /fremalt-1.7/conllx.xml
+  Data Format          : /fremalt-1.7/conllx.xml
+  Transition system    : Projective
+  Parser configuration : Stack
+  Data Format          : /engmalt.linear-1.7/conllx.xml
+  Transition system    : Arc-Eager
+  Transition system    : Arc-Eager
+  Parser configuration : Nivre with allow_root=false, allow_reduce=false and enforce_tree=false
+  Parser configuration : Nivre with allow_root=false, allow_reduce=false and enforce_tree=false
+  Data Format          : /fremalt-1.7/conllx.xml
+  Data Format          : /fremalt-1.7/conllx.xml
+  Transition system    : Projective
+  Parser configuration : Stack
+  Data Format          : /engmalt.linear-1.7/conllx.xml
+  Transition system    : Arc-Eager
+  Transition system    : Arc-Eager
+  Parser configuration : Nivre with allow_root=false, allow_reduce=false and enforce_tree=false
+  Parser configuration : Nivre with allow_root=false, allow_reduce=false and enforce_tree=false
+  Data Format          : /fremalt-1.7/conllx.xml
+  Data Format          : /fremalt-1.7/conllx.xml
+  Transition system    : Projective
+  Parser configuration : Stack
+  Data Format          : /engmalt.linear-1.7/conllx.xml
+  Transition system    : Arc-Eager
+  Transition system    : Arc-Eager
+  Parser configuration : Nivre with allow_root=false, allow_reduce=false and enforce_tree=false
+  Parser configuration : Nivre with allow_root=false, allow_reduce=false and enforce_tree=false
+  Data Format          : /fremalt-1.7/conllx.xml
+  Data Format          : /fremalt-1.7/conllx.xml
+  Transition system    : Projective
+  Parser configuration : Stack
+  Data Format          : /engmalt.linear-1.7/conllx.xml
+  Transition system    : Arc-Eager
+  Transition system    : Arc-Eager
+  Parser configuration : Nivre with allow_root=false, allow_reduce=false and enforce_tree=false
+  Parser configuration : Nivre with allow_root=false, allow_reduce=false and enforce_tree=false
+  Data Format          : /fremalt-1.7/conllx.xml
+  Data Format          : /fremalt-1.7/conllx.xml
+  Transition system    : Projective
+  Parser configuration : Stack
+  Data Format          : /engmalt.linear-1.7/conllx.xml
+  Transition system    : Arc-Eager
+  Transition system    : Arc-Eager
+  Parser configuration : Nivre with allow_root=false, allow_reduce=false and enforce_tree=false
+  Parser configuration : Nivre with allow_root=false, allow_reduce=false and enforce_tree=false
+  Data Format          : /fremalt-1.7/conllx.xml
+  Data Format          : /fremalt-1.7/conllx.xml
+  Transition system    : Projective
+  Parser configuration : Stack
+  Data Format          : /engmalt.linear-1.7/conllx.xml
+  Transition system    : Arc-Eager
+  Transition system    : Arc-Eager
+  Parser configuration : Nivre with allow_root=false, allow_reduce=false and enforce_tree=false
+  Parser configuration : Nivre with allow_root=false, allow_reduce=false and enforce_tree=false
+  Data Format          : /fremalt-1.7/conllx.xml
+  Data Format          : /fremalt-1.7/conllx.xml
+  Transition system    : Projective
+  Parser configuration : Stack
+  Data Format          : /engmalt.linear-1.7/conllx.xml
+  Transition system    : Arc-Eager
+  Transition system    : Arc-Eager
+  Parser configuration : Nivre with allow_root=false, allow_reduce=false and enforce_tree=false
+  Parser configuration : Nivre with allow_root=false, allow_reduce=false and enforce_tree=false
+  Data Format          : /fremalt-1.7/conllx.xml
+  Data Format          : /fremalt-1.7/conllx.xml
+  Transition system    : Projective
+  Parser configuration : Stack
+  Data Format          : /engmalt.linear-1.7/conllx.xml
+  Transition system    : Arc-Eager
+  Transition system    : Arc-Eager
+  Parser configuration : Nivre with allow_root=false, allow_reduce=false and enforce_tree=false
+  Parser configuration : Nivre with allow_root=false, allow_reduce=false and enforce_tree=false
+  Data Format          : /fremalt-1.7/conllx.xml
+  Data Format          : /fremalt-1.7/conllx.xml
+  Transition system    : Projective
+  Parser configuration : Stack
+  Data Format          : /engmalt.linear-1.7/conllx.xml
+  Transition system    : Arc-Eager
+  Transition system    : Arc-Eager
+  Parser configuration : Nivre with allow_root=false, allow_reduce=false and enforce_tree=false
+  Parser configuration : Nivre with allow_root=false, allow_reduce=false and enforce_tree=false
+  Data Format          : /fremalt-1.7/conllx.xml
+  Data Format          : /fremalt-1.7/conllx.xml
+  Transition system    : Projective
+  Parser configuration : Stack
+  Data Format          : /engmalt.linear-1.7/conllx.xml
+  Transition system    : Arc-Eager
+  Transition system    : Arc-Eager
+  Parser configuration : Nivre with allow_root=false, allow_reduce=false and enforce_tree=false
+  Parser configuration : Nivre with allow_root=false, allow_reduce=false and enforce_tree=false
+  Data Format          : /fremalt-1.7/conllx.xml
+  Data Format          : /fremalt-1.7/conllx.xml
+  Transition system    : Projective
+  Parser configuration : Stack
+  Data Format          : /engmalt.linear-1.7/conllx.xml
+  Transition system    : Arc-Eager
+  Transition system    : Arc-Eager
+  Parser configuration : Nivre with allow_root=false, allow_reduce=false and enforce_tree=false
+  Parser configuration : Nivre with allow_root=false, allow_reduce=false and enforce_tree=false
+  Data Format          : /fremalt-1.7/conllx.xml
+  Data Format          : /fremalt-1.7/conllx.xml
+  Transition system    : Projective
+  Parser configuration : Stack
+  Data Format          : /engmalt.linear-1.7/conllx.xml
+  Transition system    : Arc-Eager
+  Transition system    : Arc-Eager
+  Parser configuration : Nivre with allow_root=false, allow_reduce=false and enforce_tree=false
+  Parser configuration : Nivre with allow_root=false, allow_reduce=false and enforce_tree=false
+  Data Format          : /fremalt-1.7/conllx.xml
+  Data Format          : /fremalt-1.7/conllx.xml
+  Transition system    : Projective
+  Parser configuration : Stack
+  Data Format          : /engmalt.linear-1.7/conllx.xml
+  Transition system    : Arc-Eager
+  Transition system    : Arc-Eager
+  Parser configuration : Nivre with allow_root=false, allow_reduce=false and enforce_tree=false
+  Parser configuration : Nivre with allow_root=false, allow_reduce=false and enforce_tree=false
+  Data Format          : /fremalt-1.7/conllx.xml
+  Data Format          : /fremalt-1.7/conllx.xml
+  Transition system    : Projective
+  Parser configuration : Stack
+  Data Format          : /engmalt.linear-1.7/conllx.xml
+  Transition system    : Arc-Eager
+  Transition system    : Arc-Eager
+  Parser configuration : Nivre with allow_root=false, allow_reduce=false and enforce_tree=false
+  Parser configuration : Nivre with allow_root=false, allow_reduce=false and enforce_tree=false
+  Data Format          : /fremalt-1.7/conllx.xml
+  Data Format          : /fremalt-1.7/conllx.xml
+  Transition system    : Projective
+  Parser configuration : Stack
+  Data Format          : /engmalt.linear-1.7/conllx.xml
+  Transition system    : Arc-Eager
+  Transition system    : Arc-Eager
+  Parser configuration : Nivre with allow_root=false, allow_reduce=false and enforce_tree=false
+  Parser configuration : Nivre with allow_root=false, allow_reduce=false and enforce_tree=false
+  Data Format          : /fremalt-1.7/conllx.xml
+  Data Format          : /fremalt-1.7/conllx.xml
+  Transition system    : Projective
+  Parser configuration : Stack
+  Data Format          : /engmalt.linear-1.7/conllx.xml
+  Transition system    : Arc-Eager
+  Transition system    : Arc-Eager
+  Parser configuration : Nivre with allow_root=false, allow_reduce=false and enforce_tree=false
+  Parser configuration : Nivre with allow_root=false, allow_reduce=false and enforce_tree=false
+  Data Format          : /fremalt-1.7/conllx.xml
+  Data Format          : /fremalt-1.7/conllx.xml
+  Transition system    : Projective
+  Parser configuration : Stack
+  Data Format          : /engmalt.linear-1.7/conllx.xml
+  Transition system    : Projective
+  Parser configuration : Stack
+  Data Format          : /engmalt.linear-1.7/conllx.xml
+  Transition system    : Arc-Eager
+  Transition system    : Arc-Eager
+  Parser configuration : Nivre with allow_root=false, allow_reduce=false and enforce_tree=false
+  Parser configuration : Nivre with allow_root=false, allow_reduce=false and enforce_tree=false
+  Data Format          : /fremalt-1.7/conllx.xml
+  Data Format          : /fremalt-1.7/conllx.xml
+  Transition system    : Projective
+  Parser configuration : Stack
+  Data Format          : /engmalt.linear-1.7/conllx.xml
+  Transition system    : Arc-Eager
+  Transition system    : Arc-Eager
+  Parser configuration : Nivre with allow_root=false, allow_reduce=false and enforce_tree=false
+  Parser configuration : Nivre with allow_root=false, allow_reduce=false and enforce_tree=false
+  Data Format          : /fremalt-1.7/conllx.xml
+  Data Format          : /fremalt-1.7/conllx.xml
+  Transition system    : Projective
+  Parser configuration : Stack
+  Data Format          : /engmalt.linear-1.7/conllx.xml
+  Transition system    : Arc-Eager
+  Transition system    : Arc-Eager
+  Parser configuration : Nivre with allow_root=false, allow_reduce=false and enforce_tree=false
+  Parser configuration : Nivre with allow_root=false, allow_reduce=false and enforce_tree=false
+  Data Format          : /fremalt-1.7/conllx.xml
+  Data Format          : /fremalt-1.7/conllx.xml

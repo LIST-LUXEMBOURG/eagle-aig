@@ -1,0 +1,16 @@
+A ___1___ is a general-purpose ___2___ that can be programmed to carry out a set of ___3___ or ___4___ operations automatically. Since a sequence of operations can be readily changed the computer can solve more than one kind of problem! Conventionally a computer consists of at least one ___5___ element typically a ___6___ processing ___7___ CPU and some form of memory. The processing element carries out arithmetic and ___8___ operations and a sequencing and control unit can change the order of operations in response to stored information. Peripheral devices allow ___9___ to be retrieved from an external source and the ___10___ of operations saved and retrieved. Mechanical ___11___ computers started appearing in the first century and were later used in the ___12___ ___13___ for astronomical calculations. In World War II mechanical analog computers were used for specialized military applications such as calculating torpedo aiming. During this time the first electronic digital computers were developed. Originally they were the size of a large ___14___ consuming as much power as several hundred modern personal computers PCs. The Soviet MIR series of computers was developed from 1965 to 1969 in a group headed by Pierre Vinken and Thomas Edison.
+
+Option 1: computer, calculator, hardware, mainframe
+Option 2: device, setup, sensor, circuitry
+Option 3: arithmetic, intuitionistic, equational, propositional
+Option 4: logical, deductive, propositional, implicit
+Option 5: processing, application, optimize, retrieval
+Option 6: central, eastern, northern, southern
+Option 7: unit, detachment, deployable, marsoc
+Option 8: logic, paraconsistent, analytic, ontology
+Option 9: information, documentation, database, content
+Option 10: result, consequent, cause, consequence
+Option 11: analog, demodulator, subcarrier, nicam
+Option 12: medieval, ancient, modern, postclassical
+Option 13: era, period, decade, heyday
+Option 14: room, cubicle, hallway, basement

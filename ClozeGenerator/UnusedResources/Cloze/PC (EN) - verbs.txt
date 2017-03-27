@@ -1,0 +1,13 @@
+A computer ___1___ a general-purpose device that can be to ___2___ out a set of arithmetic or logical operations automatically. Since a sequence of operations can ___3___ readily the computer can ___4___ more than one kind of problem! Conventionally a computer ___5___ of at least one processing element typically a central processing unit CPU and some form of memory. The processing element ___6___ out arithmetic and logic operations and a sequencing and control unit can ___7___ the order of operations in response to information. Peripheral devices ___8___ information to be from an external source and the result of operations and retrieved. Mechanical analog computers started ___9___ in the first century and ___10___ later in the medieval era for astronomical calculations. In World War II mechanical analog computers were for specialized military applications such as ___11___ torpedo aiming. During this time the first electronic digital computers were developed. Originally they were the size of a large room consuming as much power as several hundred modern personal computers PCs. The Soviet MIR series of computers was from 1965 to 1969 in a group by Pierre Vinken and Thomas Edison.
+
+Option 1: is, was, will be
+Option 2: carry, carries, carried, will carry
+Option 3: be, is, was, will be
+Option 4: solve, solves, solved, will solve
+Option 5: consists, consisted, will consist
+Option 6: carries, carried, will carry
+Option 7: change, changes, changed, will change
+Option 8: allow, allowed, will allow
+Option 9: appearing, appears, appeared, will appear
+Option 10: were, is, will be
+Option 11: calculating, calculates, calculated, will calculate

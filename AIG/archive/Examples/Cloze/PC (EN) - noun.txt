@@ -1,0 +1,19 @@
+A ___1___ is a general-purpose ___2___ that can be programmed to carry out a set of arithmetic or logical operations automatically. Since a sequence of operations can be readily changed the computer can solve more than one ___3___ of problem! Conventionally a computer consists of at least one processing ___4___ typically a central processing unit CPU and some form of memory. The processing element carries out ___5___ and logic operations and a ___6___ and control ___7___ can change the ___8___ of operations in response to stored information. Peripheral devices allow ___9___ to be retrieved from an external ___10___ and the ___11___ of operations saved and retrieved. Mechanical analog computers started appearing in the first ___12___ and were later used in the medieval ___13___ for astronomical calculations. In World War II mechanical analog computers were used for specialized military applications such as calculating ___14___ aiming. During this ___15___ the first electronic digital computers were developed. Originally they were the ___16___ of a large room consuming as much power as several hundred modern personal computers PCs. The Soviet MIR ___17___ of computers was developed from 1965 to 1969 in a group headed by Pierre Vinken and Thomas Edison.
+
+Option 1: computer, software, hardware, mainframe
+Option 2: device, sensor, interface, application
+Option 3: kind, sort, aspect, sense
+Option 4: element, component, aspect, characteristic
+Option 5: arithmetic, algebraic, multiplication, logic
+Option 6: sequencing, microarray, proteomics, genome
+Option 7: unit, detachment, operation, hqs
+Option 8: order, attempt, oblige, compel
+Option 9: information, data, documentation, info
+Option 10: source, document, account, example
+Option 11: result, consequence, cause, likelihood
+Option 12: century, mediaeval, period, datable
+Option 13: era, period, heyday, decade
+Option 14: torpedo, sink, submarine, destroyer
+Option 15: time, juncture, glance, odds
+Option 16: size, thickness, diameter, length
+Option 17: series, serial, episode, sitcom

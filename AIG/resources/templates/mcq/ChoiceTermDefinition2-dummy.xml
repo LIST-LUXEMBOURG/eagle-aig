@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml>
+<template>
+	<metadata>
+		<identifier>http://list.lu/assessment/itemTemplate/ChoiceTermDefinition1</identifier>
+		<cognitiveModel>http://list.lu/assessment/cognitiveModel/1</cognitiveModel>
+		<cognitiveProcess>http://list.lu/assessment/cognitiveProcess/1</cognitiveProcess>
+		<constructMap>http://list.lu/assessment/constructMap/1</constructMap>
+		<constructMapComponent>http://list.lu/assessment/constructMapComponent/1</constructMapComponent>
+		<taskModel>http://list.lu/assessment/taskModel/1</taskModel>
+		<taskModelElement>http://list.lu/assessment/taskModelElement/findTermFromTermDefinition</taskModelElement>
+		<interactionType>choiceInteraction</interactionType>
+		<keyVariable>http://list.lu/term</keyVariable>
+		<correctResponseVariable>http://list.lu/term</correctResponseVariable>
+		<distractorVariable>http://list.lu/distractor</distractorVariable>
+		<correctResponseAttributionMode>RANDOM</correctResponseAttributionMode>
+		<distractorAttributionMode>RANDOM</distractorAttributionMode>
+		<inputText>http://list.lu/text</inputText>
+	</metadata>
+
+	<layer>
+		<itemMetadata>
+			<templateMetadata>true</templateMetadata>
+			<correctResponse>{http://list.lu/termLabel}</correctResponse>
+		</itemMetadata>
+		<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+			xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p0 http://www.imsglobal.org/xsd/imsqti_v2p0.xsd"
+			identifier="choice" title="Find term from its definition" adaptive="false" timeDependent="false">
+			<responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+				<correctResponse>
+					<value>{http://list.lu/termCode}</value>
+				</correctResponse>
+			</responseDeclaration>
+			<outcomeDeclaration identifier="SCORE" cardinality="single" baseType="integer">
+				<defaultValue>
+					<value>0</value>
+				</defaultValue>
+			</outcomeDeclaration>
+			<itemBody>
+				<choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+					<prompt>
+						Which term corresponds to the following definition?
+						<br />
+						<br />
+						"{http://list.lu/termDefinition}"
+					</prompt>
+					<simpleChoice identifier="{http://list.lu/optionCode1}">{http://list.lu/optionLabel1}</simpleChoice>
+					<simpleChoice identifier="{http://list.lu/optionCode2}">{http://list.lu/optionLabel2}</simpleChoice>
+					<simpleChoice identifier="{http://list.lu/optionCode3}">{http://list.lu/optionLabel3}</simpleChoice>
+					<simpleChoice identifier="{http://list.lu/optionCode4}">{http://list.lu/optionLabel4}</simpleChoice>
+				</choiceInteraction>
+			</itemBody>
+			<responseProcessing template="http://www.imsglobal.org/question/qti_v2p0/rptemplates/match_correct" />
+		</assessmentItem>
+	</layer>
+
+	<variableDefinitions>
+		<variable>
+			<identifier>http://list.lu/term</identifier>
+			<language>en</language>
+			<range>http://list.lu/option1, http://list.lu/option2, http://list.lu/option3,
+				http://list.lu/option4
+			</range>
+			<initialization>http://list.lu/process2</initialization>
+			<values>
+				<value>
+					<key>http://list.lu/termURI</key>
+					<type>URI</type>
+				</value>
+				<value>
+					<key>http://list.lu/termLabel</key>
+					<type>TEXT</type>
+				</value>
+				<value>
+					<key>http://list.lu/termCode</key>
+					<type>CODE</type>
+				</value>
+			</values>
+		</variable>
+
+		<variable>
+			<identifier>http://list.lu/termDefinition</identifier>
+			<language>en</language>
+			<initialization>http://list.lu/process2</initialization>
+			<values>
+				<value>
+					<key>http://list.lu/termDefinitionURI</key>
+					<type>URI</type>
+				</value>
+				<value>
+					<key>http://list.lu/termDefinitionLabel</key>
+					<type>TEXT</type>
+				</value>
+			</values>
+		</variable>
+
+		<variable>
+			<identifier>http://list.lu/distractor</identifier>
+			<language>en</language>
+			<range>http://list.lu/option1, http://list.lu/option2, http://list.lu/option3,
+				http://list.lu/option4
+			</range>
+			<initialization>http://list.lu/process3</initialization>
+			<values>
+				<value>
+					<key>http://list.lu/distractorURI</key>
+					<type>URI</type>
+				</value>
+				<value>
+					<key>http://list.lu/distractorLabel</key>
+					<type>TEXT</type>
+				</value>
+			</values>
+		</variable>
+
+		<variable>
+			<identifier>http://list.lu/onDemandTextOntology</identifier>
+			<initialization>http://list.lu/process1</initialization>
+			<values>
+				<value>
+					<key>http://list.lu/onDemandTextOntologyDataSource</key>
+					<type>TEXT</type>
+				</value>
+			</values>
+		</variable>
+
+		<variable>
+			<identifier>http://list.lu/option1</identifier>
+			<values>
+				<value>
+					<key>http://list.lu/optionCode1</key>
+					<type>CODE</type>
+				</value>
+				<value>
+					<key>http://list.lu/optionLabel1</key>
+					<type>TEXT</type>
+				</value>
+			</values>
+		</variable>
+
+		<variable>
+			<identifier>http://list.lu/option2</identifier>
+			<values>
+				<value>
+					<key>http://list.lu/optionCode2</key>
+					<type>CODE</type>
+				</value>
+				<value>
+					<key>http://list.lu/optionLabel2</key>
+					<type>TEXT</type>
+				</value>
+			</values>
+		</variable>
+
+		<variable>
+			<identifier>http://list.lu/option3</identifier>
+			<values>
+				<value>
+					<key>http://list.lu/optionCode3</key>
+					<type>CODE</type>
+				</value>
+				<value>
+					<key>http://list.lu/optionLabel3</key>
+					<type>TEXT</type>
+				</value>
+			</values>
+		</variable>
+
+		<variable>
+			<identifier>http://list.lu/option4</identifier>
+			<values>
+				<value>
+					<key>http://list.lu/optionCode4</key>
+					<type>CODE</type>
+				</value>
+				<value>
+					<key>http://list.lu/optionLabel4</key>
+					<type>TEXT</type>
+				</value>
+			</values>
+		</variable>
+	</variableDefinitions>
+
+	<variableDependencies>
+		<dependency>
+			<priority>1</priority>
+			<head>http://list.lu/distractor</head>
+			<type>ASSIGNMENT</type>
+			<cardinality>3</cardinality>
+			<tail>http://list.lu/option1, http://list.lu/option2, http://list.lu/option3,
+				http://list.lu/option4
+			</tail>
+		</dependency>
+		<dependency>
+			<priority>0</priority>
+			<head>http://list.lu/term</head>
+			<type>ASSIGNMENT</type>
+			<cardinality>1</cardinality>
+			<tail>http://list.lu/option1, http://list.lu/option2, http://list.lu/option3,
+				http://list.lu/option4
+			</tail>
+		</dependency>
+	</variableDependencies>
+
+	<processes>
+		<process>
+			<identifier>http://list.lu/process1</identifier>
+			<type>OnDemandTextOntologyCreationProcess</type>
+			<datasourceKey>http://list.lu/onDemandTextOntologyDataSource</datasourceKey>
+			<numberOfDistractors>3</numberOfDistractors>
+			<firstSentence>false</firstSentence>
+			<useNGramArticleCorrection>false</useNGramArticleCorrection>
+			<approach>definition</approach>
+			<useGrammaticalDependencies>false</useGrammaticalDependencies>
+			<soundex>true</soundex>
+			<feedback>true</feedback>
+			<difficulty>medium</difficulty>
+			<input>
+				<inputIdentifier>http://list.lu/text</inputIdentifier>
+			</input>
+			<outcome>
+				<outcomeIdentifier>http://list.lu/onDemandTextOntology</outcomeIdentifier>
+			</outcome>
+		</process>
+		<process>
+			<identifier>http://list.lu/process2</identifier>
+			<type>SemanticRetrievalProcess</type>
+			<datasource>http://list.lu/onDemandTextOntologyDataSource</datasource>
+			<datasourceType>identifier</datasourceType>
+			<query><![CDATA[
+				PREFIX : <http://www.list.lu/list-parser#>
+				
+				SELECT DISTINCT ?http://list.lu/termURI	(str(?termLabel) as ?http://list.lu/termLabel ) ?http://list.lu/termDefinitionURI
+					   (str(?termDefinitionLabel) as ?http://list.lu/termDefinitionLabel )
+				WHERE
+				  {
+				  	?http://list.lu/termURI	a :Word;
+				  							:content ?termLabel.
+				  	?http://list.lu/termDefinitionURI	a :Sentence;
+				  										:content ?termDefinitionLabel;
+				  										:hasWord ?http://list.lu/termURI.
+				  }
+				  LIMIT 1
+				  ]]>
+			</query>
+			<input />
+			<outcome>
+				<outcomeIdentifier>http://list.lu/term</outcomeIdentifier>
+				<outcomeIdentifier>http://list.lu/termDefinition</outcomeIdentifier>
+			</outcome>
+		</process>
+		<process>
+			<identifier>http://list.lu/process3</identifier>
+			<type>SemanticRetrievalProcess</type>
+			<datasource>http://list.lu/onDemandTextOntologyDataSource</datasource>
+			<datasourceType>identifier</datasourceType>
+			<query><![CDATA[
+				PREFIX : <http://www.list.lu/list-parser#>
+				
+				SELECT DISTINCT ?http://list.lu/distractorURI (str(?distractorLabel ) AS ?http://list.lu/distractorLabel )
+				WHERE
+				  {
+				    ?http://list.lu/distractorURI	a :Word;
+				    								:content ?distractorLabel.
+				   	FILTER (?http://list.lu/distractorURI != [http://list.lu/termURI] )
+				   	FILTER (?definition != [http://list.lu/termDefinitionURI] )
+				  }
+				  ]]>
+			</query>
+			<input>
+				<inputIdentifier>http://list.lu/term</inputIdentifier>
+				<inputIdentifier>http://list.lu/termDefinition</inputIdentifier>
+			</input>
+			<outcome>
+				<outcomeIdentifier>http://list.lu/distractor</outcomeIdentifier>
+			</outcome>
+		</process>
+	</processes>
+</template>

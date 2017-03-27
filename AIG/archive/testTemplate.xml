@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<template>
+	<metadata>
+		<identifier>http://list.lu/assessment/itemTemplate/ChoiceVocabulary</identifier>
+		<taskModel>http://list.lu/assessment/TaskModel/TranslatingStatisticsConcepts</taskModel>
+		<interactionType>choiceInteraction</interactionType>
+		<constructType>vocabulary</constructType>
+		<keyVariable>http://list.lu/concept</keyVariable>
+		<correctResponseVariable>http://list.lu/correctResponse</correctResponseVariable>
+		<distractorVariable>http://list.lu/distractor</distractorVariable>
+		<correctResponseAttributionMode>RANDOM</correctResponseAttributionMode>
+		<distractorAttributionMode>RANDOM</distractorAttributionMode>
+
+	</metadata>
+
+	<layer>
+		<itemMetadata>
+			<dummyData>This is dummy data!</dummyData>
+			<dummyVariable>{http://list.lu/correctResponseOption}</dummyVariable>
+		</itemMetadata>
+
+		<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+			xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p0 imsqti_v2p0.xsd" identifier="choice"
+			title="Concept translation from English into French {http://list.lu/concept1}" adaptive="false" timeDependent="false">
+			<responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+				<correctResponse>
+					<value>{http://list.lu/correctResponseCode}</value>
+				</correctResponse>
+			</responseDeclaration>
+			<outcomeDeclaration identifier="SCORE" cardinality="single" baseType="integer">
+				<defaultValue>
+					<value>0</value>
+				</defaultValue>
+			</outcomeDeclaration>
+			<itemBody>
+				<choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+					<prompt>What is the translation of {http://list.lu/conceptLabel} into French?</prompt>
+					<simpleChoice identifier="{http://list.lu/optionCode1}">{http://list.lu/optionLabel1}</simpleChoice>
+					<simpleChoice identifier="{http://list.lu/optionCode2}">{http://list.lu/optionLabel2}</simpleChoice>
+					<simpleChoice identifier="{http://list.lu/optionCode3}">{http://list.lu/optionLabel3}</simpleChoice>
+				</choiceInteraction>
+			</itemBody>
+			<responseProcessing template="http://www.imsglobal.org/question/qti_v2p0/rptemplates/match_correct" />
+		</assessmentItem>
+	</layer>
+
+	<variableDefinitions>
+		<variable>
+			<identifier>http://list.lu/concept</identifier>
+			<language>en</language>
+			<initialization>http://list.lu/process1</initialization>
+			<values>
+				<value>
+					<key>http://list.lu/conceptURI</key>
+					<type>URI</type>
+				</value>
+				<value>
+					<key>http://list.lu/conceptLabel</key>
+					<type>TEXT</type>
+				</value>
+			</values>
+		</variable>
+
+		<variable>
+			<identifier>http://list.lu/distractor</identifier>
+			<language>en</language>
+			<range>http://list.lu/option1, http://list.lu/option2, http://list.lu/option3</range>
+			<initialization>http://list.lu/process2</initialization>
+			<values>
+				<value>
+					<key>http://list.lu/distractorURI</key>
+					<type>URI</type>
+				</value>
+				<value>
+					<key>http://list.lu/distractorLabel</key>
+					<type>TEXT</type>
+				</value>
+			</values>
+		</variable>
+
+		<variable>
+			<identifier>http://list.lu/correctResponse</identifier>
+			<language>en</language>
+			<range>http://list.lu/option1, http://list.lu/option2, http://list.lu/option3</range>
+			<initialization>http://list.lu/process1</initialization>
+			<values>
+				<value>
+					<key>http://list.lu/correctResponseURI</key>
+					<type>URI</type>
+				</value>
+				<value>
+					<key>http://list.lu/correctResponseLabel</key>
+					<type>TEXT</type>
+				</value>
+				<value>
+					<key>http://list.lu/correctResponseCode</key>
+					<type>CODE</type>
+				</value>
+			</values>
+		</variable>
+
+		<variable>
+			<identifier>http://list.lu/option1</identifier>
+			<values>
+				<value>
+					<key>http://list.lu/optionCode1</key>
+					<type>CODE</type>
+				</value>
+				<value>
+					<key>http://list.lu/optionLabel1</key>
+					<type>TEXT</type>
+				</value>
+			</values>
+		</variable>
+
+		<variable>
+			<identifier>http://list.lu/option2</identifier>
+			<values>
+				<value>
+					<key>http://list.lu/optionCode2</key>
+					<type>CODE</type>
+				</value>
+				<value>
+					<key>http://list.lu/optionLabel2</key>
+					<type>TEXT</type>
+				</value>
+			</values>
+		</variable>
+
+		<variable>
+			<identifier>http://list.lu/option3</identifier>
+			<values>
+				<value>
+					<key>http://list.lu/optionCode3</key>
+					<type>CODE</type>
+				</value>
+				<value>
+					<key>http://list.lu/optionLabel3</key>
+					<type>TEXT</type>
+				</value>
+			</values>
+		</variable>
+
+		<!--<variable> <identifier>http://list.lu/optionCode1</identifier> <type>TextVariable</type> <language>en</language> <range>http://list.lu/distractorCode, 
+			http://list.lu/correctResponseCode</range> </variable> <variable> <identifier>http://list.lu/optionCode2</identifier> <type>TextVariable</type> 
+			<language>en</language> <range>http://list.lu/distractorCode, http://list.lu/correctResponseCode</range> </variable> <variable> 
+			<identifier>http://list.lu/optionCode3</identifier> <type>TextVariable</type> <language>en</language> <range>http://list.lu/distractorCode, 
+			http://list.lu/correctResponseCode</range> </variable> <variable> <identifier>http://list.lu/correctResponseURI</identifier> 
+			<type>SemanticVariable</type> <language>en</language> <range>http://list.lu/option1, http://list.lu/option2, http://list.lu/option3</range> 
+			<initialization>http://list.lu/process1</initialization> </variable> <variable> <identifier>http://list.lu/option1</identifier> 
+			<type>TextVariable</type> <language>en</language> <range>http://list.lu/correctResponseOption, http://list.lu/distractorLabel</range> 
+			</variable> <variable> <identifier>http://list.lu/option2</identifier> <type>TextVariable</type> <language>en</language> 
+			<range>http://list.lu/correctResponseOption, http://list.lu/distractorLabel</range> </variable> <variable> <identifier>http://list.lu/option3</identifier> 
+			<type>TextVariable</type> <language>en</language> <range>http://list.lu/correctResponseOption, http://list.lu/distractorLabel</range> 
+			</variable> <variable> <identifier>http://list.lu/option1Uri</identifier> <type>SemanticVariable</type> <language>en</language> 
+			<range>http://list.lu/correctResponseURI, http://list.lu/distractorURI</range> </variable> <variable> <identifier>http://list.lu/option2Uri</identifier> 
+			<type>SemanticVariable</type> <language>en</language> <range>http://list.lu/correctResponseURI, http://list.lu/distractorURI</range> 
+			</variable> <variable> <identifier>http://list.lu/option3Uri</identifier> <type>SemanticVariable</type> <language>en</language> 
+			<range>http://list.lu/correctResponseURI, http://list.lu/distractorURI</range> </variable> <variable> <identifier>http://list.lu/conceptUri</identifier> 
+			<type>SemanticVariable</type> <language>en</language> </variable> <variable> <identifier>http://list.lu/correctResponse</identifier> 
+			<type>IdentifierVariable</type> </variable> <variable> <identifier>http://list.lu/distractorURI</identifier> <type>SemanticVariable</type> 
+			<language>en</language> <initialization>http://list.lu/process2</initialization> </variable> <variable> <identifier>http://list.lu/distractorLabel</identifier> 
+			<type>TextVariable</type> <language>en</language> <initialization>http://list.lu/process2</initialization> </variable> <variable> 
+			<identifier>http://list.lu/distractorCode</identifier> <type>TextVariable</type> <language>en</language> <initialization>http://list.lu/process3</initialization> 
+			</variable> <variable> <identifier>http://list.lu/multimedia1</identifier> <type>MultimediaVariable</type> <dcmiType>dummyDcmiType</dcmiType> 
+			<language>en</language> <initialization>http://list.lu/process3</initialization> <supportedMimeTypes> <supportedMimeType>text/plain</supportedMimeType> 
+			<supportedMimeType>audio/aiff</supportedMimeType> </supportedMimeTypes> </variable> <variable> <identifier>http://list.lu/created1</identifier> 
+			<type>TextVariable</type> <language>en</language> </variable> -->
+	</variableDefinitions>
+
+	<variableDependencies>
+		<dependency>
+			<priority>1</priority>
+			<head>http://list.lu/distractor</head>
+			<type>ASSIGNMENT</type>
+			<cardinality>2</cardinality>
+			<tail>http://list.lu/option1, http://list.lu/option2, http://list.lu/option3</tail>
+		</dependency>
+		<dependency>
+			<priority>0</priority>
+			<head>http://list.lu/correctResponse</head>
+			<type>ASSIGNMENT</type>
+			<cardinality>1</cardinality>
+			<tail>http://list.lu/option1, http://list.lu/option2, http://list.lu/option3</tail>
+		</dependency>
+	</variableDependencies>
+
+	<processes>
+		<process>
+			<identifier>http://list.lu/process1</identifier>
+			<type>SemanticRetrievalProcess</type>
+			<datasource>http://dbpedia.org/sparql</datasource>
+			<graph />
+			<query>select ?http://list.lu/conceptLabel ?http://list.lu/correctResponseURI ?http://list.lu/correctResponseLabel
+				where {
+				[http://list.lu/conceptURI] ?p ?o .
+
+				[http://list.lu/conceptURI]
+				&lt;http://www.w3.org/2000/01/rdf-schema#label&gt; ?http://list.lu/conceptLabel .
+
+				[http://list.lu/conceptURI]
+				&lt;http://www.w3.org/2002/07/owl#sameAs&gt; ?http://list.lu/correctResponseURI .
+
+				?http://list.lu/correctResponseURI
+				&lt;http://www.w3.org/2000/01/rdf-schema#label&gt; ?http://list.lu/correctResponseLabel
+
+				FILTER (
+				lang(?http://list.lu/conceptLabel) = "en" )
+
+				FILTER (
+				lang(?http://list.lu/correctResponseLabel) = "fr" )}
+			</query>
+			<!-- #http://dbpedia.org/resource/Nigeria select ?conceptLabel ?conceptLabelTyped ?correctResponseURI ?correctResponseLabel 
+				where { <http://dbpedia.org/resource/Nigeria> <http://www.w3.org/2000/01/rdf-schema#label> ?conceptLabelTyped . #filter by 
+				language filter (lang(?conceptLabelTyped ) = "en") #remove the type ( i.e. the "@lang" part of the string) bind(str(?conceptLabelTyped 
+				) as ?conceptLabel) } -->
+			<input>
+				<inputIdentifier>http://list.lu/conceptURI</inputIdentifier>
+			</input>
+			<outcome>
+				<outcomeIdentifier>http://list.lu/correctResponse</outcomeIdentifier>
+				<outcomeIdentifier>http://list.lu/concept</outcomeIdentifier>
+			</outcome>
+		</process>
+		<process>
+			<identifier>http://list.lu/process2</identifier>
+			<type>SemanticRetrievalProcess</type>
+			<datasource>http://dbpedia.org/sparql</datasource>
+			<query>select ?http://list.lu/distractorURI ?http://list.lu/distractorLabel where { [http://list.lu/conceptURI]
+				&lt;http://purl.org/dc/terms/subject&gt; ?subject . ?http://list.lu/distractorURI
+				&lt;http://purl.org/dc/terms/subject&gt; ?subject . ?http://list.lu/distractorURI
+				&lt;http://www.w3.org/2000/01/rdf-schema#label&gt; ?http://list.lu/distractorLabel
+				FILTER (
+				?http://list.lu/distractorURI != [http://list.lu/conceptURI] ) FILTER (
+				lang(?http://list.lu/distractorLabel ) = "fr"
+				)}
+			</query>
+			<input>
+				<inputIdentifier>http://list.lu/conceptURI</inputIdentifier>
+			</input>
+			<outcome>
+				<outcomeIdentifier>http://list.lu/distractor</outcomeIdentifier>
+			</outcome>
+		</process>
+
+
+		<!-- <process> <identifier>http://list.lu/creation1</identifier> <type>CreationProcess</type> <parameters> <parameter>one=1</parameter> 
+			<parameter>two=2</parameter> <parameter>three=three</parameter> </parameters> <outcome> <outcomeIdentifier>http://list.lu/created</outcomeIdentifier> 
+			</outcome> </process> -->
+	</processes>
+</template>

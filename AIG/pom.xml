@@ -1,0 +1,103 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>lu.list.itis.dkd.aig</groupId>
+	<artifactId>Automatic-Item-Generation</artifactId>
+	<version>0.8.2</version>
+	<name>Automatic Item Generation</name>
+	<properties>
+		<maven.compiler.target>1.8</maven.compiler.target>
+		<maven.compiler.source>1.8</maven.compiler.source>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+	</properties>
+	<build>
+		<plugins>
+			<plugin>
+				<artifactId>maven-compiler-plugin</artifactId>
+				<version>3.1</version>
+				<configuration>
+					<source>1.8</source>
+					<target>1.8</target>
+					<compilerArgument>-Xlint:unchecked</compilerArgument>
+				</configuration>
+			</plugin>
+		</plugins>
+	</build>
+	<!-- TODO move this repository in LIST repository when it will be available -->
+	<repositories>
+		<repository>
+			<id>ProjectRepository</id>
+			<name>ProjectRepository</name>
+			<url>file://${project.basedir}/project_m2</url>
+		</repository>
+	</repositories>
+	<dependencies>
+		<dependency>
+			<groupId>de.linguatools</groupId>
+			<artifactId>disco</artifactId>
+			<version>2.1.lu.list.itis.dkd.assess</version>
+		</dependency>
+		<dependency>
+			<groupId>com.google.guava</groupId>
+			<artifactId>guava</artifactId>
+			<version>18.0</version>
+		</dependency>
+		<dependency>
+			<groupId>xmlunit</groupId>
+			<artifactId>xmlunit</artifactId>
+			<version>1.6</version>
+			<scope>test</scope>
+		</dependency>
+		<dependency>
+			<groupId>junit</groupId>
+			<artifactId>junit</artifactId>
+			<version>4.12</version>
+			<scope>test</scope>
+		</dependency>
+		<dependency>
+			<groupId>org.apache.jena</groupId>
+			<artifactId>jena-arq</artifactId>
+			<version>3.0.0</version>
+		</dependency>
+		<dependency>
+			<groupId>lu.list.itis.dkd.dbc.annotation</groupId>
+			<artifactId>dbc-annotation</artifactId>
+			<version>1.2</version>
+		</dependency>
+		<dependency>
+			<groupId>org.eclipse.osgi</groupId>
+			<artifactId>org.eclipse.osgi</artifactId>
+			<version>3.7.1</version>
+		</dependency>
+		<!-- <dependency> -->
+		<!-- <groupId>lu.list.itis.dkd.semantic</groupId> -->
+		<!-- <artifactId>semantic-similarity</artifactId> -->
+		<!-- <version>1.9.1</version> -->
+		<!-- </dependency> -->
+		<dependency>
+			<groupId>org.jdom</groupId>
+			<artifactId>jdom2</artifactId>
+			<version>2.0.6</version>
+		</dependency>
+		<dependency>
+			<groupId>jaxen</groupId>
+			<artifactId>jaxen</artifactId>
+			<version>1.1.6</version>
+		</dependency>
+		<dependency>
+			<groupId>lu.list.itis.dkd.assess</groupId>
+			<artifactId>ClozeGenerator</artifactId>
+			<version>1.0.2</version>
+		</dependency>
+		<dependency>
+			<groupId>commons-io</groupId>
+			<artifactId>commons-io</artifactId>
+			<version>2.5</version>
+		</dependency>
+		<dependency>
+			<groupId>org.apache.lucene</groupId>
+			<artifactId>lucene-suggest</artifactId>
+			<version>5.1.0</version>
+		</dependency>
+	</dependencies>
+</project>

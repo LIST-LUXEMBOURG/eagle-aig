@@ -1,0 +1,2900 @@
+
+<layer>
+  <itemMetadata>
+    <dummyData>This is dummy data!</dummyData>
+    <dummyVariable>Nigeria</dummyVariable>
+  <disparity>0.1741071</disparity></itemMetadata>
+  <assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p0 imsqti_v2p0.xsd" identifier="choice" title="Concept translation from English into French Nigeria" adaptive="false" timeDependent="false">
+    <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+      <correctResponse>
+        <value>cf59115c-b6c1-4d4d-b370-b5e466fc30d3</value>
+      </correctResponse>
+    </responseDeclaration>
+    <outcomeDeclaration identifier="SCORE" cardinality="single" baseType="integer">
+      <defaultValue>
+        <value>0</value>
+      </defaultValue>
+    </outcomeDeclaration>
+    <itemBody>
+      <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+        <prompt>What is the translation of Nigeria into French?</prompt>
+        <simpleChoice identifier="cf59115c-b6c1-4d4d-b370-b5e466fc30d3">Nigeria</simpleChoice>
+        <simpleChoice identifier="cfb6b14a-f3f7-40a9-b391-3d594376d536">Buggerru</simpleChoice>
+        <simpleChoice identifier="e2e55d7c-b24c-42b3-ba56-2b90448516a0">Niger</simpleChoice>
+      </choiceInteraction>
+    </itemBody>
+    <responseProcessing template="http://www.imsglobal.org/question/qti_v2p0/rptemplates/match_correct" />
+  </assessmentItem>
+</layer>
+
+
+<layer>
+  <itemMetadata>
+    <dummyData>This is dummy data!</dummyData>
+    <dummyVariable>Nigeria</dummyVariable>
+  <disparity>0.3337963</disparity></itemMetadata>
+  <assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p0 imsqti_v2p0.xsd" identifier="choice" title="Concept translation from English into French Nigeria" adaptive="false" timeDependent="false">
+    <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+      <correctResponse>
+        <value>cf59115c-b6c1-4d4d-b370-b5e466fc30d3</value>
+      </correctResponse>
+    </responseDeclaration>
+    <outcomeDeclaration identifier="SCORE" cardinality="single" baseType="integer">
+      <defaultValue>
+        <value>0</value>
+      </defaultValue>
+    </outcomeDeclaration>
+    <itemBody>
+      <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+        <prompt>What is the translation of Nigeria into French?</prompt>
+        <simpleChoice identifier="cf59115c-b6c1-4d4d-b370-b5e466fc30d3">Nigeria</simpleChoice>
+        <simpleChoice identifier="a7a9e5d0-52cb-4265-9ea3-c2582bb95629">New Jersey</simpleChoice>
+        <simpleChoice identifier="d7d755b6-a9f7-41a2-9bf6-eb3d0a81ec9e">Nicaragua</simpleChoice>
+      </choiceInteraction>
+    </itemBody>
+    <responseProcessing template="http://www.imsglobal.org/question/qti_v2p0/rptemplates/match_correct" />
+  </assessmentItem>
+</layer>
+
+
+<layer>
+  <itemMetadata>
+    <dummyData>This is dummy data!</dummyData>
+    <dummyVariable>Nigeria</dummyVariable>
+  <disparity>0.35238093</disparity></itemMetadata>
+  <assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p0 imsqti_v2p0.xsd" identifier="choice" title="Concept translation from English into French Nigeria" adaptive="false" timeDependent="false">
+    <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+      <correctResponse>
+        <value>cf59115c-b6c1-4d4d-b370-b5e466fc30d3</value>
+      </correctResponse>
+    </responseDeclaration>
+    <outcomeDeclaration identifier="SCORE" cardinality="single" baseType="integer">
+      <defaultValue>
+        <value>0</value>
+      </defaultValue>
+    </outcomeDeclaration>
+    <itemBody>
+      <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+        <prompt>What is the translation of Nigeria into French?</prompt>
+        <simpleChoice identifier="cf59115c-b6c1-4d4d-b370-b5e466fc30d3">Nigeria</simpleChoice>
+        <simpleChoice identifier="c17fdcbe-c35e-48e7-b3e4-4492b14f4982">Niue</simpleChoice>
+        <simpleChoice identifier="29853997-9c30-4ebe-98fb-ce5a66eb0d31">Liberia</simpleChoice>
+      </choiceInteraction>
+    </itemBody>
+    <responseProcessing template="http://www.imsglobal.org/question/qti_v2p0/rptemplates/match_correct" />
+  </assessmentItem>
+</layer>
+
+
+<layer>
+  <itemMetadata>
+    <dummyData>This is dummy data!</dummyData>
+    <dummyVariable>Nigeria</dummyVariable>
+  <disparity>0.44047618</disparity></itemMetadata>
+  <assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p0 imsqti_v2p0.xsd" identifier="choice" title="Concept translation from English into French Nigeria" adaptive="false" timeDependent="false">
+    <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+      <correctResponse>
+        <value>cf59115c-b6c1-4d4d-b370-b5e466fc30d3</value>
+      </correctResponse>
+    </responseDeclaration>
+    <outcomeDeclaration identifier="SCORE" cardinality="single" baseType="integer">
+      <defaultValue>
+        <value>0</value>
+      </defaultValue>
+    </outcomeDeclaration>
+    <itemBody>
+      <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+        <prompt>What is the translation of Nigeria into French?</prompt>
+        <simpleChoice identifier="cf59115c-b6c1-4d4d-b370-b5e466fc30d3">Nigeria</simpleChoice>
+        <simpleChoice identifier="f97fd664-df68-41b6-b636-fb0ad737cbd8">Mizoram</simpleChoice>
+        <simpleChoice identifier="9d1f54dc-fe53-4765-8d7c-61df087f9d4b">Namibie</simpleChoice>
+      </choiceInteraction>
+    </itemBody>
+    <responseProcessing template="http://www.imsglobal.org/question/qti_v2p0/rptemplates/match_correct" />
+  </assessmentItem>
+</layer>
+
+
+<layer>
+  <itemMetadata>
+    <dummyData>This is dummy data!</dummyData>
+    <dummyVariable>Nigeria</dummyVariable>
+  <disparity>0.4490021</disparity></itemMetadata>
+  <assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p0 imsqti_v2p0.xsd" identifier="choice" title="Concept translation from English into French Nigeria" adaptive="false" timeDependent="false">
+    <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+      <correctResponse>
+        <value>cf59115c-b6c1-4d4d-b370-b5e466fc30d3</value>
+      </correctResponse>
+    </responseDeclaration>
+    <outcomeDeclaration identifier="SCORE" cardinality="single" baseType="integer">
+      <defaultValue>
+        <value>0</value>
+      </defaultValue>
+    </outcomeDeclaration>
+    <itemBody>
+      <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+        <prompt>What is the translation of Nigeria into French?</prompt>
+        <simpleChoice identifier="cf59115c-b6c1-4d4d-b370-b5e466fc30d3">Nigeria</simpleChoice>
+        <simpleChoice identifier="8964b830-54e3-46db-832f-41894e6688c3">Nagaland</simpleChoice>
+        <simpleChoice identifier="bd430713-6c08-47a9-a495-b15b9cd195b5">Micronésie (pays)</simpleChoice>
+      </choiceInteraction>
+    </itemBody>
+    <responseProcessing template="http://www.imsglobal.org/question/qti_v2p0/rptemplates/match_correct" />
+  </assessmentItem>
+</layer>
+
+
+<layer>
+  <itemMetadata>
+    <dummyData>This is dummy data!</dummyData>
+    <dummyVariable>Nigeria</dummyVariable>
+  <disparity>0.46774894</disparity></itemMetadata>
+  <assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p0 imsqti_v2p0.xsd" identifier="choice" title="Concept translation from English into French Nigeria" adaptive="false" timeDependent="false">
+    <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+      <correctResponse>
+        <value>cf59115c-b6c1-4d4d-b370-b5e466fc30d3</value>
+      </correctResponse>
+    </responseDeclaration>
+    <outcomeDeclaration identifier="SCORE" cardinality="single" baseType="integer">
+      <defaultValue>
+        <value>0</value>
+      </defaultValue>
+    </outcomeDeclaration>
+    <itemBody>
+      <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+        <prompt>What is the translation of Nigeria into French?</prompt>
+        <simpleChoice identifier="cf59115c-b6c1-4d4d-b370-b5e466fc30d3">Nigeria</simpleChoice>
+        <simpleChoice identifier="c6a02910-09b5-45dd-9bf1-68ab7d25e021">Nauru</simpleChoice>
+        <simpleChoice identifier="351b6618-bcb4-4000-9803-481d463e0d03">Azerbaïdjan</simpleChoice>
+      </choiceInteraction>
+    </itemBody>
+    <responseProcessing template="http://www.imsglobal.org/question/qti_v2p0/rptemplates/match_correct" />
+  </assessmentItem>
+</layer>
+
+
+<layer>
+  <itemMetadata>
+    <dummyData>This is dummy data!</dummyData>
+    <dummyVariable>Nigeria</dummyVariable>
+  <disparity>0.48412699</disparity></itemMetadata>
+  <assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p0 imsqti_v2p0.xsd" identifier="choice" title="Concept translation from English into French Nigeria" adaptive="false" timeDependent="false">
+    <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+      <correctResponse>
+        <value>cf59115c-b6c1-4d4d-b370-b5e466fc30d3</value>
+      </correctResponse>
+    </responseDeclaration>
+    <outcomeDeclaration identifier="SCORE" cardinality="single" baseType="integer">
+      <defaultValue>
+        <value>0</value>
+      </defaultValue>
+    </outcomeDeclaration>
+    <itemBody>
+      <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+        <prompt>What is the translation of Nigeria into French?</prompt>
+        <simpleChoice identifier="cf59115c-b6c1-4d4d-b370-b5e466fc30d3">Nigeria</simpleChoice>
+        <simpleChoice identifier="d86eee0b-e34a-4db8-a322-d2f57346f59c">Ukraine</simpleChoice>
+        <simpleChoice identifier="bf863704-0946-4af2-a75d-a4f3912acf2f">Suisse</simpleChoice>
+      </choiceInteraction>
+    </itemBody>
+    <responseProcessing template="http://www.imsglobal.org/question/qti_v2p0/rptemplates/match_correct" />
+  </assessmentItem>
+</layer>
+
+
+<layer>
+  <itemMetadata>
+    <dummyData>This is dummy data!</dummyData>
+    <dummyVariable>Nigeria</dummyVariable>
+  <disparity>0.48809528</disparity></itemMetadata>
+  <assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p0 imsqti_v2p0.xsd" identifier="choice" title="Concept translation from English into French Nigeria" adaptive="false" timeDependent="false">
+    <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+      <correctResponse>
+        <value>cf59115c-b6c1-4d4d-b370-b5e466fc30d3</value>
+      </correctResponse>
+    </responseDeclaration>
+    <outcomeDeclaration identifier="SCORE" cardinality="single" baseType="integer">
+      <defaultValue>
+        <value>0</value>
+      </defaultValue>
+    </outcomeDeclaration>
+    <itemBody>
+      <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+        <prompt>What is the translation of Nigeria into French?</prompt>
+        <simpleChoice identifier="cf59115c-b6c1-4d4d-b370-b5e466fc30d3">Nigeria</simpleChoice>
+        <simpleChoice identifier="67d358ae-823b-428b-af3c-658559508e36">Gujarat</simpleChoice>
+        <simpleChoice identifier="d5426750-5cc4-4f34-a182-73c935baa7aa">Tokelau</simpleChoice>
+      </choiceInteraction>
+    </itemBody>
+    <responseProcessing template="http://www.imsglobal.org/question/qti_v2p0/rptemplates/match_correct" />
+  </assessmentItem>
+</layer>
+
+
+<layer>
+  <itemMetadata>
+    <dummyData>This is dummy data!</dummyData>
+    <dummyVariable>Nigeria</dummyVariable>
+  <disparity>0.50367063</disparity></itemMetadata>
+  <assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p0 imsqti_v2p0.xsd" identifier="choice" title="Concept translation from English into French Nigeria" adaptive="false" timeDependent="false">
+    <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+      <correctResponse>
+        <value>cf59115c-b6c1-4d4d-b370-b5e466fc30d3</value>
+      </correctResponse>
+    </responseDeclaration>
+    <outcomeDeclaration identifier="SCORE" cardinality="single" baseType="integer">
+      <defaultValue>
+        <value>0</value>
+      </defaultValue>
+    </outcomeDeclaration>
+    <itemBody>
+      <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+        <prompt>What is the translation of Nigeria into French?</prompt>
+        <simpleChoice identifier="cf59115c-b6c1-4d4d-b370-b5e466fc30d3">Nigeria</simpleChoice>
+        <simpleChoice identifier="c1f239f1-a8eb-4db0-9bcc-b549c4bb51a1">Delaware</simpleChoice>
+        <simpleChoice identifier="a06589cb-f54e-4ec0-b3cc-2c0f5df1ee9d">Nyassaland</simpleChoice>
+      </choiceInteraction>
+    </itemBody>
+    <responseProcessing template="http://www.imsglobal.org/question/qti_v2p0/rptemplates/match_correct" />
+  </assessmentItem>
+</layer>
+
+
+<layer>
+  <itemMetadata>
+    <dummyData>This is dummy data!</dummyData>
+    <dummyVariable>Nigeria</dummyVariable>
+  <disparity>0.51488096</disparity></itemMetadata>
+  <assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p0 imsqti_v2p0.xsd" identifier="choice" title="Concept translation from English into French Nigeria" adaptive="false" timeDependent="false">
+    <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+      <correctResponse>
+        <value>cf59115c-b6c1-4d4d-b370-b5e466fc30d3</value>
+      </correctResponse>
+    </responseDeclaration>
+    <outcomeDeclaration identifier="SCORE" cardinality="single" baseType="integer">
+      <defaultValue>
+        <value>0</value>
+      </defaultValue>
+    </outcomeDeclaration>
+    <itemBody>
+      <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+        <prompt>What is the translation of Nigeria into French?</prompt>
+        <simpleChoice identifier="cf59115c-b6c1-4d4d-b370-b5e466fc30d3">Nigeria</simpleChoice>
+        <simpleChoice identifier="42573004-db40-4726-8e54-f26ac5e67fb4">Togo</simpleChoice>
+        <simpleChoice identifier="98a29ac2-289c-47cc-9f02-d77a8202e3e4">Meghalaya</simpleChoice>
+      </choiceInteraction>
+    </itemBody>
+    <responseProcessing template="http://www.imsglobal.org/question/qti_v2p0/rptemplates/match_correct" />
+  </assessmentItem>
+</layer>
+
+
+<layer>
+  <itemMetadata>
+    <dummyData>This is dummy data!</dummyData>
+    <dummyVariable>Nigeria</dummyVariable>
+  <disparity>0.52619046</disparity></itemMetadata>
+  <assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p0 imsqti_v2p0.xsd" identifier="choice" title="Concept translation from English into French Nigeria" adaptive="false" timeDependent="false">
+    <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+      <correctResponse>
+        <value>cf59115c-b6c1-4d4d-b370-b5e466fc30d3</value>
+      </correctResponse>
+    </responseDeclaration>
+    <outcomeDeclaration identifier="SCORE" cardinality="single" baseType="integer">
+      <defaultValue>
+        <value>0</value>
+      </defaultValue>
+    </outcomeDeclaration>
+    <itemBody>
+      <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+        <prompt>What is the translation of Nigeria into French?</prompt>
+        <simpleChoice identifier="cf59115c-b6c1-4d4d-b370-b5e466fc30d3">Nigeria</simpleChoice>
+        <simpleChoice identifier="57458c7d-8ff5-4e3c-8767-5060ab83646e">Népal</simpleChoice>
+        <simpleChoice identifier="297d3957-11d1-4a1c-9eaa-842b3a97ee93">Qatar</simpleChoice>
+      </choiceInteraction>
+    </itemBody>
+    <responseProcessing template="http://www.imsglobal.org/question/qti_v2p0/rptemplates/match_correct" />
+  </assessmentItem>
+</layer>
+
+
+<layer>
+  <itemMetadata>
+    <dummyData>This is dummy data!</dummyData>
+    <dummyVariable>Nigeria</dummyVariable>
+  <disparity>0.5289682</disparity></itemMetadata>
+  <assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p0 imsqti_v2p0.xsd" identifier="choice" title="Concept translation from English into French Nigeria" adaptive="false" timeDependent="false">
+    <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+      <correctResponse>
+        <value>cf59115c-b6c1-4d4d-b370-b5e466fc30d3</value>
+      </correctResponse>
+    </responseDeclaration>
+    <outcomeDeclaration identifier="SCORE" cardinality="single" baseType="integer">
+      <defaultValue>
+        <value>0</value>
+      </defaultValue>
+    </outcomeDeclaration>
+    <itemBody>
+      <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+        <prompt>What is the translation of Nigeria into French?</prompt>
+        <simpleChoice identifier="cf59115c-b6c1-4d4d-b370-b5e466fc30d3">Nigeria</simpleChoice>
+        <simpleChoice identifier="e4ef8d77-0c1e-41c7-b4cd-0b47edd986e9">Écosse</simpleChoice>
+        <simpleChoice identifier="d0604143-6a08-484e-82d3-cdb704633bb9">Lagos</simpleChoice>
+      </choiceInteraction>
+    </itemBody>
+    <responseProcessing template="http://www.imsglobal.org/question/qti_v2p0/rptemplates/match_correct" />
+  </assessmentItem>
+</layer>
+
+
+<layer>
+  <itemMetadata>
+    <dummyData>This is dummy data!</dummyData>
+    <dummyVariable>Nigeria</dummyVariable>
+  <disparity>0.53373015</disparity></itemMetadata>
+  <assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p0 imsqti_v2p0.xsd" identifier="choice" title="Concept translation from English into French Nigeria" adaptive="false" timeDependent="false">
+    <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+      <correctResponse>
+        <value>cf59115c-b6c1-4d4d-b370-b5e466fc30d3</value>
+      </correctResponse>
+    </responseDeclaration>
+    <outcomeDeclaration identifier="SCORE" cardinality="single" baseType="integer">
+      <defaultValue>
+        <value>0</value>
+      </defaultValue>
+    </outcomeDeclaration>
+    <itemBody>
+      <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+        <prompt>What is the translation of Nigeria into French?</prompt>
+        <simpleChoice identifier="cf59115c-b6c1-4d4d-b370-b5e466fc30d3">Nigeria</simpleChoice>
+        <simpleChoice identifier="345a909f-74e4-4036-88a3-895e7cf32001">Lesotho</simpleChoice>
+        <simpleChoice identifier="321ab807-2764-4ae2-8f74-3d72adc6227e">Israël</simpleChoice>
+      </choiceInteraction>
+    </itemBody>
+    <responseProcessing template="http://www.imsglobal.org/question/qti_v2p0/rptemplates/match_correct" />
+  </assessmentItem>
+</layer>
+
+
+<layer>
+  <itemMetadata>
+    <dummyData>This is dummy data!</dummyData>
+    <dummyVariable>Nigeria</dummyVariable>
+  <disparity>0.54583335</disparity></itemMetadata>
+  <assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p0 imsqti_v2p0.xsd" identifier="choice" title="Concept translation from English into French Nigeria" adaptive="false" timeDependent="false">
+    <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+      <correctResponse>
+        <value>cf59115c-b6c1-4d4d-b370-b5e466fc30d3</value>
+      </correctResponse>
+    </responseDeclaration>
+    <outcomeDeclaration identifier="SCORE" cardinality="single" baseType="integer">
+      <defaultValue>
+        <value>0</value>
+      </defaultValue>
+    </outcomeDeclaration>
+    <itemBody>
+      <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+        <prompt>What is the translation of Nigeria into French?</prompt>
+        <simpleChoice identifier="cf59115c-b6c1-4d4d-b370-b5e466fc30d3">Nigeria</simpleChoice>
+        <simpleChoice identifier="41dc08c3-e1fb-4fac-883f-bf8d21abd7f0">Serbie</simpleChoice>
+        <simpleChoice identifier="27df531c-4e19-4c33-9ad2-9b26300bdc72">Akrotiri et Dhekelia</simpleChoice>
+      </choiceInteraction>
+    </itemBody>
+    <responseProcessing template="http://www.imsglobal.org/question/qti_v2p0/rptemplates/match_correct" />
+  </assessmentItem>
+</layer>
+
+
+<layer>
+  <itemMetadata>
+    <dummyData>This is dummy data!</dummyData>
+    <dummyVariable>Nigeria</dummyVariable>
+  <disparity>0.5624542</disparity></itemMetadata>
+  <assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p0 imsqti_v2p0.xsd" identifier="choice" title="Concept translation from English into French Nigeria" adaptive="false" timeDependent="false">
+    <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+      <correctResponse>
+        <value>cf59115c-b6c1-4d4d-b370-b5e466fc30d3</value>
+      </correctResponse>
+    </responseDeclaration>
+    <outcomeDeclaration identifier="SCORE" cardinality="single" baseType="integer">
+      <defaultValue>
+        <value>0</value>
+      </defaultValue>
+    </outcomeDeclaration>
+    <itemBody>
+      <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+        <prompt>What is the translation of Nigeria into French?</prompt>
+        <simpleChoice identifier="cf59115c-b6c1-4d4d-b370-b5e466fc30d3">Nigeria</simpleChoice>
+        <simpleChoice identifier="e0bb569a-b220-4639-8fc7-f3dc5a65243b">Timor oriental</simpleChoice>
+        <simpleChoice identifier="93fe52d7-efc8-4485-84c8-11af96098103">Rivers (État)</simpleChoice>
+      </choiceInteraction>
+    </itemBody>
+    <responseProcessing template="http://www.imsglobal.org/question/qti_v2p0/rptemplates/match_correct" />
+  </assessmentItem>
+</layer>
+
+
+<layer>
+  <itemMetadata>
+    <dummyData>This is dummy data!</dummyData>
+    <dummyVariable>Nigeria</dummyVariable>
+  <disparity>0.5660714</disparity></itemMetadata>
+  <assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p0 imsqti_v2p0.xsd" identifier="choice" title="Concept translation from English into French Nigeria" adaptive="false" timeDependent="false">
+    <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+      <correctResponse>
+        <value>cf59115c-b6c1-4d4d-b370-b5e466fc30d3</value>
+      </correctResponse>
+    </responseDeclaration>
+    <outcomeDeclaration identifier="SCORE" cardinality="single" baseType="integer">
+      <defaultValue>
+        <value>0</value>
+      </defaultValue>
+    </outcomeDeclaration>
+    <itemBody>
+      <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+        <prompt>What is the translation of Nigeria into French?</prompt>
+        <simpleChoice identifier="cf59115c-b6c1-4d4d-b370-b5e466fc30d3">Nigeria</simpleChoice>
+        <simpleChoice identifier="c3885b0d-42e7-4395-9c00-b48284f58132">Victoria (État)</simpleChoice>
+        <simpleChoice identifier="2c7c0959-0dab-4b74-a258-1306971bd429">Russie</simpleChoice>
+      </choiceInteraction>
+    </itemBody>
+    <responseProcessing template="http://www.imsglobal.org/question/qti_v2p0/rptemplates/match_correct" />
+  </assessmentItem>
+</layer>
+
+
+<layer>
+  <itemMetadata>
+    <dummyData>This is dummy data!</dummyData>
+    <dummyVariable>Nigeria</dummyVariable>
+  <disparity>0.57638896</disparity></itemMetadata>
+  <assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p0 imsqti_v2p0.xsd" identifier="choice" title="Concept translation from English into French Nigeria" adaptive="false" timeDependent="false">
+    <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+      <correctResponse>
+        <value>cf59115c-b6c1-4d4d-b370-b5e466fc30d3</value>
+      </correctResponse>
+    </responseDeclaration>
+    <outcomeDeclaration identifier="SCORE" cardinality="single" baseType="integer">
+      <defaultValue>
+        <value>0</value>
+      </defaultValue>
+    </outcomeDeclaration>
+    <itemBody>
+      <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+        <prompt>What is the translation of Nigeria into French?</prompt>
+        <simpleChoice identifier="cf59115c-b6c1-4d4d-b370-b5e466fc30d3">Nigeria</simpleChoice>
+        <simpleChoice identifier="d1c35e2d-71fc-4344-8c36-783178ca1e5c">Gibraltar</simpleChoice>
+        <simpleChoice identifier="649361b6-f3d0-42ea-b999-14abe6e965c5">Mexique</simpleChoice>
+      </choiceInteraction>
+    </itemBody>
+    <responseProcessing template="http://www.imsglobal.org/question/qti_v2p0/rptemplates/match_correct" />
+  </assessmentItem>
+</layer>
+
+
+<layer>
+  <itemMetadata>
+    <dummyData>This is dummy data!</dummyData>
+    <dummyVariable>Nigeria</dummyVariable>
+  <disparity>0.58893937</disparity></itemMetadata>
+  <assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p0 imsqti_v2p0.xsd" identifier="choice" title="Concept translation from English into French Nigeria" adaptive="false" timeDependent="false">
+    <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+      <correctResponse>
+        <value>cf59115c-b6c1-4d4d-b370-b5e466fc30d3</value>
+      </correctResponse>
+    </responseDeclaration>
+    <outcomeDeclaration identifier="SCORE" cardinality="single" baseType="integer">
+      <defaultValue>
+        <value>0</value>
+      </defaultValue>
+    </outcomeDeclaration>
+    <itemBody>
+      <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+        <prompt>What is the translation of Nigeria into French?</prompt>
+        <simpleChoice identifier="cf59115c-b6c1-4d4d-b370-b5e466fc30d3">Nigeria</simpleChoice>
+        <simpleChoice identifier="5bd3bbbf-9766-4eb3-ab50-4c66d81894f5">Biélorussie</simpleChoice>
+        <simpleChoice identifier="d0690b6b-7a96-44bf-8041-1d14b72d6840">District fédéral (Brésil)</simpleChoice>
+      </choiceInteraction>
+    </itemBody>
+    <responseProcessing template="http://www.imsglobal.org/question/qti_v2p0/rptemplates/match_correct" />
+  </assessmentItem>
+</layer>
+
+
+<layer>
+  <itemMetadata>
+    <dummyData>This is dummy data!</dummyData>
+    <dummyVariable>Nigeria</dummyVariable>
+  <disparity>0.59325397</disparity></itemMetadata>
+  <assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p0 imsqti_v2p0.xsd" identifier="choice" title="Concept translation from English into French Nigeria" adaptive="false" timeDependent="false">
+    <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+      <correctResponse>
+        <value>cf59115c-b6c1-4d4d-b370-b5e466fc30d3</value>
+      </correctResponse>
+    </responseDeclaration>
+    <outcomeDeclaration identifier="SCORE" cardinality="single" baseType="integer">
+      <defaultValue>
+        <value>0</value>
+      </defaultValue>
+    </outcomeDeclaration>
+    <itemBody>
+      <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+        <prompt>What is the translation of Nigeria into French?</prompt>
+        <simpleChoice identifier="cf59115c-b6c1-4d4d-b370-b5e466fc30d3">Nigeria</simpleChoice>
+        <simpleChoice identifier="9f7aa852-df1c-460d-b405-bc3ea220f85e">Tonga</simpleChoice>
+        <simpleChoice identifier="813a536d-080f-41c0-a72c-973d4861b36e">Syrie</simpleChoice>
+      </choiceInteraction>
+    </itemBody>
+    <responseProcessing template="http://www.imsglobal.org/question/qti_v2p0/rptemplates/match_correct" />
+  </assessmentItem>
+</layer>
+
+
+<layer>
+  <itemMetadata>
+    <dummyData>This is dummy data!</dummyData>
+    <dummyVariable>Nigeria</dummyVariable>
+  <disparity>0.59404767</disparity></itemMetadata>
+  <assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p0 imsqti_v2p0.xsd" identifier="choice" title="Concept translation from English into French Nigeria" adaptive="false" timeDependent="false">
+    <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+      <correctResponse>
+        <value>cf59115c-b6c1-4d4d-b370-b5e466fc30d3</value>
+      </correctResponse>
+    </responseDeclaration>
+    <outcomeDeclaration identifier="SCORE" cardinality="single" baseType="integer">
+      <defaultValue>
+        <value>0</value>
+      </defaultValue>
+    </outcomeDeclaration>
+    <itemBody>
+      <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+        <prompt>What is the translation of Nigeria into French?</prompt>
+        <simpleChoice identifier="cf59115c-b6c1-4d4d-b370-b5e466fc30d3">Nigeria</simpleChoice>
+        <simpleChoice identifier="85c29a98-71b5-42e2-b90b-04e54770628f">Kenya</simpleChoice>
+        <simpleChoice identifier="89c059fa-150e-4c23-bf2f-42bff124e908">Libye</simpleChoice>
+      </choiceInteraction>
+    </itemBody>
+    <responseProcessing template="http://www.imsglobal.org/question/qti_v2p0/rptemplates/match_correct" />
+  </assessmentItem>
+</layer>
+
+
+<layer>
+  <itemMetadata>
+    <dummyData>This is dummy data!</dummyData>
+    <dummyVariable>Nigeria</dummyVariable>
+  <disparity>0.59404767</disparity></itemMetadata>
+  <assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p0 imsqti_v2p0.xsd" identifier="choice" title="Concept translation from English into French Nigeria" adaptive="false" timeDependent="false">
+    <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+      <correctResponse>
+        <value>cf59115c-b6c1-4d4d-b370-b5e466fc30d3</value>
+      </correctResponse>
+    </responseDeclaration>
+    <outcomeDeclaration identifier="SCORE" cardinality="single" baseType="integer">
+      <defaultValue>
+        <value>0</value>
+      </defaultValue>
+    </outcomeDeclaration>
+    <itemBody>
+      <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+        <prompt>What is the translation of Nigeria into French?</prompt>
+        <simpleChoice identifier="cf59115c-b6c1-4d4d-b370-b5e466fc30d3">Nigeria</simpleChoice>
+        <simpleChoice identifier="dd743f9e-2ee8-4da3-9631-1f1fdf793f98">Delhi</simpleChoice>
+        <simpleChoice identifier="bcd21375-ef18-4329-8af3-0a1d394288a7">Fidji</simpleChoice>
+      </choiceInteraction>
+    </itemBody>
+    <responseProcessing template="http://www.imsglobal.org/question/qti_v2p0/rptemplates/match_correct" />
+  </assessmentItem>
+</layer>
+
+
+<layer>
+  <itemMetadata>
+    <dummyData>This is dummy data!</dummyData>
+    <dummyVariable>Nigeria</dummyVariable>
+  <disparity>0.59404767</disparity></itemMetadata>
+  <assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p0 imsqti_v2p0.xsd" identifier="choice" title="Concept translation from English into French Nigeria" adaptive="false" timeDependent="false">
+    <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+      <correctResponse>
+        <value>cf59115c-b6c1-4d4d-b370-b5e466fc30d3</value>
+      </correctResponse>
+    </responseDeclaration>
+    <outcomeDeclaration identifier="SCORE" cardinality="single" baseType="integer">
+      <defaultValue>
+        <value>0</value>
+      </defaultValue>
+    </outcomeDeclaration>
+    <itemBody>
+      <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+        <prompt>What is the translation of Nigeria into French?</prompt>
+        <simpleChoice identifier="cf59115c-b6c1-4d4d-b370-b5e466fc30d3">Nigeria</simpleChoice>
+        <simpleChoice identifier="1eb0ca78-245f-42b5-a3ec-e3ca14400eb4">Chili</simpleChoice>
+        <simpleChoice identifier="caae5a86-e054-4871-9e10-9f758132b49d">Chine</simpleChoice>
+      </choiceInteraction>
+    </itemBody>
+    <responseProcessing template="http://www.imsglobal.org/question/qti_v2p0/rptemplates/match_correct" />
+  </assessmentItem>
+</layer>
+
+
+<layer>
+  <itemMetadata>
+    <dummyData>This is dummy data!</dummyData>
+    <dummyVariable>Nigeria</dummyVariable>
+  <disparity>0.5990156</disparity></itemMetadata>
+  <assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p0 imsqti_v2p0.xsd" identifier="choice" title="Concept translation from English into French Nigeria" adaptive="false" timeDependent="false">
+    <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+      <correctResponse>
+        <value>cf59115c-b6c1-4d4d-b370-b5e466fc30d3</value>
+      </correctResponse>
+    </responseDeclaration>
+    <outcomeDeclaration identifier="SCORE" cardinality="single" baseType="integer">
+      <defaultValue>
+        <value>0</value>
+      </defaultValue>
+    </outcomeDeclaration>
+    <itemBody>
+      <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+        <prompt>What is the translation of Nigeria into French?</prompt>
+        <simpleChoice identifier="cf59115c-b6c1-4d4d-b370-b5e466fc30d3">Nigeria</simpleChoice>
+        <simpleChoice identifier="987ef15b-29ee-4366-89df-96ce1f2d5603">A History of the English-Speaking Peoples</simpleChoice>
+        <simpleChoice identifier="0bdab06c-9b82-4ee0-bcec-43c1bb16ddac">Afrique occidentale britannique</simpleChoice>
+      </choiceInteraction>
+    </itemBody>
+    <responseProcessing template="http://www.imsglobal.org/question/qti_v2p0/rptemplates/match_correct" />
+  </assessmentItem>
+</layer>
+
+
+<layer>
+  <itemMetadata>
+    <dummyData>This is dummy data!</dummyData>
+    <dummyVariable>Nigeria</dummyVariable>
+  <disparity>0.6043193</disparity></itemMetadata>
+  <assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p0 imsqti_v2p0.xsd" identifier="choice" title="Concept translation from English into French Nigeria" adaptive="false" timeDependent="false">
+    <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+      <correctResponse>
+        <value>cf59115c-b6c1-4d4d-b370-b5e466fc30d3</value>
+      </correctResponse>
+    </responseDeclaration>
+    <outcomeDeclaration identifier="SCORE" cardinality="single" baseType="integer">
+      <defaultValue>
+        <value>0</value>
+      </defaultValue>
+    </outcomeDeclaration>
+    <itemBody>
+      <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+        <prompt>What is the translation of Nigeria into French?</prompt>
+        <simpleChoice identifier="cf59115c-b6c1-4d4d-b370-b5e466fc30d3">Nigeria</simpleChoice>
+        <simpleChoice identifier="ffc580dd-e788-47f0-aa78-ac3ad3c5dfa6">Égypte</simpleChoice>
+        <simpleChoice identifier="7d002cec-89e1-4fb6-a4fe-7889455d24be">New Hampshire</simpleChoice>
+      </choiceInteraction>
+    </itemBody>
+    <responseProcessing template="http://www.imsglobal.org/question/qti_v2p0/rptemplates/match_correct" />
+  </assessmentItem>
+</layer>
+
+
+<layer>
+  <itemMetadata>
+    <dummyData>This is dummy data!</dummyData>
+    <dummyVariable>Nigeria</dummyVariable>
+  <disparity>0.6051587</disparity></itemMetadata>
+  <assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p0 imsqti_v2p0.xsd" identifier="choice" title="Concept translation from English into French Nigeria" adaptive="false" timeDependent="false">
+    <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+      <correctResponse>
+        <value>cf59115c-b6c1-4d4d-b370-b5e466fc30d3</value>
+      </correctResponse>
+    </responseDeclaration>
+    <outcomeDeclaration identifier="SCORE" cardinality="single" baseType="integer">
+      <defaultValue>
+        <value>0</value>
+      </defaultValue>
+    </outcomeDeclaration>
+    <itemBody>
+      <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+        <prompt>What is the translation of Nigeria into French?</prompt>
+        <simpleChoice identifier="cf59115c-b6c1-4d4d-b370-b5e466fc30d3">Nigeria</simpleChoice>
+        <simpleChoice identifier="54e1475f-541b-4755-a145-cd07324d92cd">Guinée</simpleChoice>
+        <simpleChoice identifier="58509078-1e58-4c54-a8ca-7814fca69d9d">Jersey</simpleChoice>
+      </choiceInteraction>
+    </itemBody>
+    <responseProcessing template="http://www.imsglobal.org/question/qti_v2p0/rptemplates/match_correct" />
+  </assessmentItem>
+</layer>
+
+
+<layer>
+  <itemMetadata>
+    <dummyData>This is dummy data!</dummyData>
+    <dummyVariable>Nigeria</dummyVariable>
+  <disparity>0.6054067</disparity></itemMetadata>
+  <assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p0 imsqti_v2p0.xsd" identifier="choice" title="Concept translation from English into French Nigeria" adaptive="false" timeDependent="false">
+    <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+      <correctResponse>
+        <value>cf59115c-b6c1-4d4d-b370-b5e466fc30d3</value>
+      </correctResponse>
+    </responseDeclaration>
+    <outcomeDeclaration identifier="SCORE" cardinality="single" baseType="integer">
+      <defaultValue>
+        <value>0</value>
+      </defaultValue>
+    </outcomeDeclaration>
+    <itemBody>
+      <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+        <prompt>What is the translation of Nigeria into French?</prompt>
+        <simpleChoice identifier="cf59115c-b6c1-4d4d-b370-b5e466fc30d3">Nigeria</simpleChoice>
+        <simpleChoice identifier="7aee10f3-8ca3-42b1-b797-f2a8f8647319">Nouvelle-Zélande</simpleChoice>
+        <simpleChoice identifier="7e22b8b8-9e87-40f2-9fdc-476a787ffcda">Brunei</simpleChoice>
+      </choiceInteraction>
+    </itemBody>
+    <responseProcessing template="http://www.imsglobal.org/question/qti_v2p0/rptemplates/match_correct" />
+  </assessmentItem>
+</layer>
+
+
+<layer>
+  <itemMetadata>
+    <dummyData>This is dummy data!</dummyData>
+    <dummyVariable>Nigeria</dummyVariable>
+  <disparity>0.60946274</disparity></itemMetadata>
+  <assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p0 imsqti_v2p0.xsd" identifier="choice" title="Concept translation from English into French Nigeria" adaptive="false" timeDependent="false">
+    <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+      <correctResponse>
+        <value>cf59115c-b6c1-4d4d-b370-b5e466fc30d3</value>
+      </correctResponse>
+    </responseDeclaration>
+    <outcomeDeclaration identifier="SCORE" cardinality="single" baseType="integer">
+      <defaultValue>
+        <value>0</value>
+      </defaultValue>
+    </outcomeDeclaration>
+    <itemBody>
+      <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+        <prompt>What is the translation of Nigeria into French?</prompt>
+        <simpleChoice identifier="cf59115c-b6c1-4d4d-b370-b5e466fc30d3">Nigeria</simpleChoice>
+        <simpleChoice identifier="ee7ec3de-9eb7-40f1-8112-f23ef0a915dc">Mission internationale de soutien au Mali sous conduite africaine</simpleChoice>
+        <simpleChoice identifier="ba5b1e31-2f8c-4127-b369-12f016b30873">Bosnie-Herzégovine</simpleChoice>
+      </choiceInteraction>
+    </itemBody>
+    <responseProcessing template="http://www.imsglobal.org/question/qti_v2p0/rptemplates/match_correct" />
+  </assessmentItem>
+</layer>
+
+
+<layer>
+  <itemMetadata>
+    <dummyData>This is dummy data!</dummyData>
+    <dummyVariable>Nigeria</dummyVariable>
+  <disparity>0.6105653</disparity></itemMetadata>
+  <assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p0 imsqti_v2p0.xsd" identifier="choice" title="Concept translation from English into French Nigeria" adaptive="false" timeDependent="false">
+    <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+      <correctResponse>
+        <value>cf59115c-b6c1-4d4d-b370-b5e466fc30d3</value>
+      </correctResponse>
+    </responseDeclaration>
+    <outcomeDeclaration identifier="SCORE" cardinality="single" baseType="integer">
+      <defaultValue>
+        <value>0</value>
+      </defaultValue>
+    </outcomeDeclaration>
+    <itemBody>
+      <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+        <prompt>What is the translation of Nigeria into French?</prompt>
+        <simpleChoice identifier="cf59115c-b6c1-4d4d-b370-b5e466fc30d3">Nigeria</simpleChoice>
+        <simpleChoice identifier="6613e77b-593b-4650-905a-e03a75d5064c">Émirats arabes unis</simpleChoice>
+        <simpleChoice identifier="b0c1a835-3f39-458e-a58a-7fa1fe7cee1a">Economic Community of West African States Cease-fire Monitoring Group</simpleChoice>
+      </choiceInteraction>
+    </itemBody>
+    <responseProcessing template="http://www.imsglobal.org/question/qti_v2p0/rptemplates/match_correct" />
+  </assessmentItem>
+</layer>
+
+
+<layer>
+  <itemMetadata>
+    <dummyData>This is dummy data!</dummyData>
+    <dummyVariable>Nigeria</dummyVariable>
+  <disparity>0.6130953</disparity></itemMetadata>
+  <assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p0 imsqti_v2p0.xsd" identifier="choice" title="Concept translation from English into French Nigeria" adaptive="false" timeDependent="false">
+    <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+      <correctResponse>
+        <value>cf59115c-b6c1-4d4d-b370-b5e466fc30d3</value>
+      </correctResponse>
+    </responseDeclaration>
+    <outcomeDeclaration identifier="SCORE" cardinality="single" baseType="integer">
+      <defaultValue>
+        <value>0</value>
+      </defaultValue>
+    </outcomeDeclaration>
+    <itemBody>
+      <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+        <prompt>What is the translation of Nigeria into French?</prompt>
+        <simpleChoice identifier="cf59115c-b6c1-4d4d-b370-b5e466fc30d3">Nigeria</simpleChoice>
+        <simpleChoice identifier="dc2e5da3-69ca-4a7e-8d0f-ce6925430af6">Uruguay</simpleChoice>
+        <simpleChoice identifier="ed3ac598-86cc-44c0-b0f5-e33d60dce0c1">Émirat de Koweït</simpleChoice>
+      </choiceInteraction>
+    </itemBody>
+    <responseProcessing template="http://www.imsglobal.org/question/qti_v2p0/rptemplates/match_correct" />
+  </assessmentItem>
+</layer>
+
+
+<layer>
+  <itemMetadata>
+    <dummyData>This is dummy data!</dummyData>
+    <dummyVariable>Nigeria</dummyVariable>
+  <disparity>0.6130953</disparity></itemMetadata>
+  <assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p0 imsqti_v2p0.xsd" identifier="choice" title="Concept translation from English into French Nigeria" adaptive="false" timeDependent="false">
+    <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+      <correctResponse>
+        <value>cf59115c-b6c1-4d4d-b370-b5e466fc30d3</value>
+      </correctResponse>
+    </responseDeclaration>
+    <outcomeDeclaration identifier="SCORE" cardinality="single" baseType="integer">
+      <defaultValue>
+        <value>0</value>
+      </defaultValue>
+    </outcomeDeclaration>
+    <itemBody>
+      <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+        <prompt>What is the translation of Nigeria into French?</prompt>
+        <simpleChoice identifier="cf59115c-b6c1-4d4d-b370-b5e466fc30d3">Nigeria</simpleChoice>
+        <simpleChoice identifier="5d1e3b16-fb72-4737-ac77-b4623337ae12">Tunisie</simpleChoice>
+        <simpleChoice identifier="703a61f2-477a-4552-9e9e-1b71970aa0d2">Turquie</simpleChoice>
+      </choiceInteraction>
+    </itemBody>
+    <responseProcessing template="http://www.imsglobal.org/question/qti_v2p0/rptemplates/match_correct" />
+  </assessmentItem>
+</layer>
+
+
+<layer>
+  <itemMetadata>
+    <dummyData>This is dummy data!</dummyData>
+    <dummyVariable>Nigeria</dummyVariable>
+  <disparity>0.6130953</disparity></itemMetadata>
+  <assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p0 imsqti_v2p0.xsd" identifier="choice" title="Concept translation from English into French Nigeria" adaptive="false" timeDependent="false">
+    <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+      <correctResponse>
+        <value>cf59115c-b6c1-4d4d-b370-b5e466fc30d3</value>
+      </correctResponse>
+    </responseDeclaration>
+    <outcomeDeclaration identifier="SCORE" cardinality="single" baseType="integer">
+      <defaultValue>
+        <value>0</value>
+      </defaultValue>
+    </outcomeDeclaration>
+    <itemBody>
+      <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+        <prompt>What is the translation of Nigeria into French?</prompt>
+        <simpleChoice identifier="cf59115c-b6c1-4d4d-b370-b5e466fc30d3">Nigeria</simpleChoice>
+        <simpleChoice identifier="9727a769-0af3-4a51-bb74-e6a543fc1aed">Ouganda</simpleChoice>
+        <simpleChoice identifier="4f5027af-b349-4b76-8d59-e6edb8a6ace9">Sarawak</simpleChoice>
+      </choiceInteraction>
+    </itemBody>
+    <responseProcessing template="http://www.imsglobal.org/question/qti_v2p0/rptemplates/match_correct" />
+  </assessmentItem>
+</layer>
+
+
+<layer>
+  <itemMetadata>
+    <dummyData>This is dummy data!</dummyData>
+    <dummyVariable>Nigeria</dummyVariable>
+  <disparity>0.6130953</disparity></itemMetadata>
+  <assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p0 imsqti_v2p0.xsd" identifier="choice" title="Concept translation from English into French Nigeria" adaptive="false" timeDependent="false">
+    <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+      <correctResponse>
+        <value>cf59115c-b6c1-4d4d-b370-b5e466fc30d3</value>
+      </correctResponse>
+    </responseDeclaration>
+    <outcomeDeclaration identifier="SCORE" cardinality="single" baseType="integer">
+      <defaultValue>
+        <value>0</value>
+      </defaultValue>
+    </outcomeDeclaration>
+    <itemBody>
+      <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+        <prompt>What is the translation of Nigeria into French?</prompt>
+        <simpleChoice identifier="cf59115c-b6c1-4d4d-b370-b5e466fc30d3">Nigeria</simpleChoice>
+        <simpleChoice identifier="0566d1de-9d7e-42c7-93cf-d84ed856407f">Floride</simpleChoice>
+        <simpleChoice identifier="b3b32ab0-486e-4cba-b404-504cb66eaa20">Norvège</simpleChoice>
+      </choiceInteraction>
+    </itemBody>
+    <responseProcessing template="http://www.imsglobal.org/question/qti_v2p0/rptemplates/match_correct" />
+  </assessmentItem>
+</layer>
+
+
+<layer>
+  <itemMetadata>
+    <dummyData>This is dummy data!</dummyData>
+    <dummyVariable>Nigeria</dummyVariable>
+  <disparity>0.6136364</disparity></itemMetadata>
+  <assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p0 imsqti_v2p0.xsd" identifier="choice" title="Concept translation from English into French Nigeria" adaptive="false" timeDependent="false">
+    <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+      <correctResponse>
+        <value>cf59115c-b6c1-4d4d-b370-b5e466fc30d3</value>
+      </correctResponse>
+    </responseDeclaration>
+    <outcomeDeclaration identifier="SCORE" cardinality="single" baseType="integer">
+      <defaultValue>
+        <value>0</value>
+      </defaultValue>
+    </outcomeDeclaration>
+    <itemBody>
+      <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+        <prompt>What is the translation of Nigeria into French?</prompt>
+        <simpleChoice identifier="cf59115c-b6c1-4d4d-b370-b5e466fc30d3">Nigeria</simpleChoice>
+        <simpleChoice identifier="6a3a8d13-21f1-4f0b-a990-fef4ba853e27">Nouvelle-Galles du Sud</simpleChoice>
+        <simpleChoice identifier="02daf868-bf29-4ade-b9c5-ae9210ec19ea">Bolivie</simpleChoice>
+      </choiceInteraction>
+    </itemBody>
+    <responseProcessing template="http://www.imsglobal.org/question/qti_v2p0/rptemplates/match_correct" />
+  </assessmentItem>
+</layer>
+
+
+<layer>
+  <itemMetadata>
+    <dummyData>This is dummy data!</dummyData>
+    <dummyVariable>Nigeria</dummyVariable>
+  <disparity>0.61491597</disparity></itemMetadata>
+  <assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p0 imsqti_v2p0.xsd" identifier="choice" title="Concept translation from English into French Nigeria" adaptive="false" timeDependent="false">
+    <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+      <correctResponse>
+        <value>cf59115c-b6c1-4d4d-b370-b5e466fc30d3</value>
+      </correctResponse>
+    </responseDeclaration>
+    <outcomeDeclaration identifier="SCORE" cardinality="single" baseType="integer">
+      <defaultValue>
+        <value>0</value>
+      </defaultValue>
+    </outcomeDeclaration>
+    <itemBody>
+      <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+        <prompt>What is the translation of Nigeria into French?</prompt>
+        <simpleChoice identifier="cf59115c-b6c1-4d4d-b370-b5e466fc30d3">Nigeria</simpleChoice>
+        <simpleChoice identifier="8276e330-4a14-4acb-b024-b8d566dc4b52">Nouveau-Brunswick</simpleChoice>
+        <simpleChoice identifier="9ffea7bc-b4b0-4511-8928-bc2ca5fd04cf">Cafrerie britannique</simpleChoice>
+      </choiceInteraction>
+    </itemBody>
+    <responseProcessing template="http://www.imsglobal.org/question/qti_v2p0/rptemplates/match_correct" />
+  </assessmentItem>
+</layer>
+
+
+<layer>
+  <itemMetadata>
+    <dummyData>This is dummy data!</dummyData>
+    <dummyVariable>Nigeria</dummyVariable>
+  <disparity>0.615908</disparity></itemMetadata>
+  <assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p0 imsqti_v2p0.xsd" identifier="choice" title="Concept translation from English into French Nigeria" adaptive="false" timeDependent="false">
+    <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+      <correctResponse>
+        <value>cf59115c-b6c1-4d4d-b370-b5e466fc30d3</value>
+      </correctResponse>
+    </responseDeclaration>
+    <outcomeDeclaration identifier="SCORE" cardinality="single" baseType="integer">
+      <defaultValue>
+        <value>0</value>
+      </defaultValue>
+    </outcomeDeclaration>
+    <itemBody>
+      <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+        <prompt>What is the translation of Nigeria into French?</prompt>
+        <simpleChoice identifier="cf59115c-b6c1-4d4d-b370-b5e466fc30d3">Nigeria</simpleChoice>
+        <simpleChoice identifier="1dfa8b2c-3a89-4a6e-b92e-8a1ff9343ec3">Dadra et Nagar Haveli</simpleChoice>
+        <simpleChoice identifier="831b4a95-7d73-4a7e-bd6d-1397f2d8b617">Luxembourg (pays)</simpleChoice>
+      </choiceInteraction>
+    </itemBody>
+    <responseProcessing template="http://www.imsglobal.org/question/qti_v2p0/rptemplates/match_correct" />
+  </assessmentItem>
+</layer>
+
+
+<layer>
+  <itemMetadata>
+    <dummyData>This is dummy data!</dummyData>
+    <dummyVariable>Nigeria</dummyVariable>
+  <disparity>0.6162698</disparity></itemMetadata>
+  <assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p0 imsqti_v2p0.xsd" identifier="choice" title="Concept translation from English into French Nigeria" adaptive="false" timeDependent="false">
+    <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+      <correctResponse>
+        <value>cf59115c-b6c1-4d4d-b370-b5e466fc30d3</value>
+      </correctResponse>
+    </responseDeclaration>
+    <outcomeDeclaration identifier="SCORE" cardinality="single" baseType="integer">
+      <defaultValue>
+        <value>0</value>
+      </defaultValue>
+    </outcomeDeclaration>
+    <itemBody>
+      <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+        <prompt>What is the translation of Nigeria into French?</prompt>
+        <simpleChoice identifier="cf59115c-b6c1-4d4d-b370-b5e466fc30d3">Nigeria</simpleChoice>
+        <simpleChoice identifier="b51d0d06-6dd8-4a26-af9f-3112935a26d3">Australie-Méridionale</simpleChoice>
+        <simpleChoice identifier="14eaae60-4f41-4c09-8ec2-8af8a1497377">Australie-Occidentale</simpleChoice>
+      </choiceInteraction>
+    </itemBody>
+    <responseProcessing template="http://www.imsglobal.org/question/qti_v2p0/rptemplates/match_correct" />
+  </assessmentItem>
+</layer>
+
+
+<layer>
+  <itemMetadata>
+    <dummyData>This is dummy data!</dummyData>
+    <dummyVariable>Nigeria</dummyVariable>
+  <disparity>0.6177249</disparity></itemMetadata>
+  <assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p0 imsqti_v2p0.xsd" identifier="choice" title="Concept translation from English into French Nigeria" adaptive="false" timeDependent="false">
+    <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+      <correctResponse>
+        <value>cf59115c-b6c1-4d4d-b370-b5e466fc30d3</value>
+      </correctResponse>
+    </responseDeclaration>
+    <outcomeDeclaration identifier="SCORE" cardinality="single" baseType="integer">
+      <defaultValue>
+        <value>0</value>
+      </defaultValue>
+    </outcomeDeclaration>
+    <itemBody>
+      <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+        <prompt>What is the translation of Nigeria into French?</prompt>
+        <simpleChoice identifier="cf59115c-b6c1-4d4d-b370-b5e466fc30d3">Nigeria</simpleChoice>
+        <simpleChoice identifier="cd68b547-de7b-40fe-bdb0-0446d30a960d">Histoire de l'Ohio</simpleChoice>
+        <simpleChoice identifier="3ec1ffcb-7a2d-4969-9e0e-fc4837339c02">Histoire du Belize</simpleChoice>
+      </choiceInteraction>
+    </itemBody>
+    <responseProcessing template="http://www.imsglobal.org/question/qti_v2p0/rptemplates/match_correct" />
+  </assessmentItem>
+</layer>
+
+
+<layer>
+  <itemMetadata>
+    <dummyData>This is dummy data!</dummyData>
+    <dummyVariable>Nigeria</dummyVariable>
+  <disparity>0.61904764</disparity></itemMetadata>
+  <assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p0 imsqti_v2p0.xsd" identifier="choice" title="Concept translation from English into French Nigeria" adaptive="false" timeDependent="false">
+    <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+      <correctResponse>
+        <value>cf59115c-b6c1-4d4d-b370-b5e466fc30d3</value>
+      </correctResponse>
+    </responseDeclaration>
+    <outcomeDeclaration identifier="SCORE" cardinality="single" baseType="integer">
+      <defaultValue>
+        <value>0</value>
+      </defaultValue>
+    </outcomeDeclaration>
+    <itemBody>
+      <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+        <prompt>What is the translation of Nigeria into French?</prompt>
+        <simpleChoice identifier="cf59115c-b6c1-4d4d-b370-b5e466fc30d3">Nigeria</simpleChoice>
+        <simpleChoice identifier="0e28f3c3-0ad9-4976-8c9d-c9570e5e8f30">Pakistan</simpleChoice>
+        <simpleChoice identifier="9204c167-1d3a-46b1-b1d8-c64aaeaef96e">Éthiopie</simpleChoice>
+      </choiceInteraction>
+    </itemBody>
+    <responseProcessing template="http://www.imsglobal.org/question/qti_v2p0/rptemplates/match_correct" />
+  </assessmentItem>
+</layer>
+
+
+<layer>
+  <itemMetadata>
+    <dummyData>This is dummy data!</dummyData>
+    <dummyVariable>Nigeria</dummyVariable>
+  <disparity>0.61904764</disparity></itemMetadata>
+  <assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p0 imsqti_v2p0.xsd" identifier="choice" title="Concept translation from English into French Nigeria" adaptive="false" timeDependent="false">
+    <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+      <correctResponse>
+        <value>cf59115c-b6c1-4d4d-b370-b5e466fc30d3</value>
+      </correctResponse>
+    </responseDeclaration>
+    <outcomeDeclaration identifier="SCORE" cardinality="single" baseType="integer">
+      <defaultValue>
+        <value>0</value>
+      </defaultValue>
+    </outcomeDeclaration>
+    <itemBody>
+      <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+        <prompt>What is the translation of Nigeria into French?</prompt>
+        <simpleChoice identifier="cf59115c-b6c1-4d4d-b370-b5e466fc30d3">Nigeria</simpleChoice>
+        <simpleChoice identifier="d1153a87-cc3e-4734-8e6f-06bcfa8da3cf">Lettonie</simpleChoice>
+        <simpleChoice identifier="5b3903d3-be46-4899-b88b-e43cc77d4083">Minorque</simpleChoice>
+      </choiceInteraction>
+    </itemBody>
+    <responseProcessing template="http://www.imsglobal.org/question/qti_v2p0/rptemplates/match_correct" />
+  </assessmentItem>
+</layer>
+
+
+<layer>
+  <itemMetadata>
+    <dummyData>This is dummy data!</dummyData>
+    <dummyVariable>Nigeria</dummyVariable>
+  <disparity>0.61904764</disparity></itemMetadata>
+  <assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p0 imsqti_v2p0.xsd" identifier="choice" title="Concept translation from English into French Nigeria" adaptive="false" timeDependent="false">
+    <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+      <correctResponse>
+        <value>cf59115c-b6c1-4d4d-b370-b5e466fc30d3</value>
+      </correctResponse>
+    </responseDeclaration>
+    <outcomeDeclaration identifier="SCORE" cardinality="single" baseType="integer">
+      <defaultValue>
+        <value>0</value>
+      </defaultValue>
+    </outcomeDeclaration>
+    <itemBody>
+      <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+        <prompt>What is the translation of Nigeria into French?</prompt>
+        <simpleChoice identifier="cf59115c-b6c1-4d4d-b370-b5e466fc30d3">Nigeria</simpleChoice>
+        <simpleChoice identifier="8dc41e4c-33ba-4aac-b72d-938e9925b081">Djibouti</simpleChoice>
+        <simpleChoice identifier="0d5a87a3-86e3-4e21-8e01-b2c82ea5355b">Démérara</simpleChoice>
+      </choiceInteraction>
+    </itemBody>
+    <responseProcessing template="http://www.imsglobal.org/question/qti_v2p0/rptemplates/match_correct" />
+  </assessmentItem>
+</layer>
+
+
+<layer>
+  <itemMetadata>
+    <dummyData>This is dummy data!</dummyData>
+    <dummyVariable>Nigeria</dummyVariable>
+  <disparity>0.61904764</disparity></itemMetadata>
+  <assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p0 imsqti_v2p0.xsd" identifier="choice" title="Concept translation from English into French Nigeria" adaptive="false" timeDependent="false">
+    <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+      <correctResponse>
+        <value>cf59115c-b6c1-4d4d-b370-b5e466fc30d3</value>
+      </correctResponse>
+    </responseDeclaration>
+    <outcomeDeclaration identifier="SCORE" cardinality="single" baseType="integer">
+      <defaultValue>
+        <value>0</value>
+      </defaultValue>
+    </outcomeDeclaration>
+    <itemBody>
+      <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+        <prompt>What is the translation of Nigeria into French?</prompt>
+        <simpleChoice identifier="cf59115c-b6c1-4d4d-b370-b5e466fc30d3">Nigeria</simpleChoice>
+        <simpleChoice identifier="bc1f736f-9c80-4a75-9ffd-2041d12df8e6">Cameroun</simpleChoice>
+        <simpleChoice identifier="2b7fa159-0e1d-4e0a-8408-5023ce50031a">Cap-Vert</simpleChoice>
+      </choiceInteraction>
+    </itemBody>
+    <responseProcessing template="http://www.imsglobal.org/question/qti_v2p0/rptemplates/match_correct" />
+  </assessmentItem>
+</layer>
+
+
+<layer>
+  <itemMetadata>
+    <dummyData>This is dummy data!</dummyData>
+    <dummyVariable>Nigeria</dummyVariable>
+  <disparity>0.6268188</disparity></itemMetadata>
+  <assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p0 imsqti_v2p0.xsd" identifier="choice" title="Concept translation from English into French Nigeria" adaptive="false" timeDependent="false">
+    <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+      <correctResponse>
+        <value>cf59115c-b6c1-4d4d-b370-b5e466fc30d3</value>
+      </correctResponse>
+    </responseDeclaration>
+    <outcomeDeclaration identifier="SCORE" cardinality="single" baseType="integer">
+      <defaultValue>
+        <value>0</value>
+      </defaultValue>
+    </outcomeDeclaration>
+    <itemBody>
+      <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+        <prompt>What is the translation of Nigeria into French?</prompt>
+        <simpleChoice identifier="cf59115c-b6c1-4d4d-b370-b5e466fc30d3">Nigeria</simpleChoice>
+        <simpleChoice identifier="a712c81e-5c1c-4e08-a135-f9af7fff727d">Paraguay</simpleChoice>
+        <simpleChoice identifier="052bc87b-20fe-46b7-beaa-bcc386bdaac7">Swaziland</simpleChoice>
+      </choiceInteraction>
+    </itemBody>
+    <responseProcessing template="http://www.imsglobal.org/question/qti_v2p0/rptemplates/match_correct" />
+  </assessmentItem>
+</layer>
+
+
+<layer>
+  <itemMetadata>
+    <dummyData>This is dummy data!</dummyData>
+    <dummyVariable>Nigeria</dummyVariable>
+  <disparity>0.6299603</disparity></itemMetadata>
+  <assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p0 imsqti_v2p0.xsd" identifier="choice" title="Concept translation from English into French Nigeria" adaptive="false" timeDependent="false">
+    <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+      <correctResponse>
+        <value>cf59115c-b6c1-4d4d-b370-b5e466fc30d3</value>
+      </correctResponse>
+    </responseDeclaration>
+    <outcomeDeclaration identifier="SCORE" cardinality="single" baseType="integer">
+      <defaultValue>
+        <value>0</value>
+      </defaultValue>
+    </outcomeDeclaration>
+    <itemBody>
+      <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+        <prompt>What is the translation of Nigeria into French?</prompt>
+        <simpleChoice identifier="cf59115c-b6c1-4d4d-b370-b5e466fc30d3">Nigeria</simpleChoice>
+        <simpleChoice identifier="9645e30d-57a6-4a92-beb3-712368af4a47">Lituanie</simpleChoice>
+        <simpleChoice identifier="236a9cbe-2566-4170-a285-322c21848dbd">Malaisie</simpleChoice>
+      </choiceInteraction>
+    </itemBody>
+    <responseProcessing template="http://www.imsglobal.org/question/qti_v2p0/rptemplates/match_correct" />
+  </assessmentItem>
+</layer>
+
+
+<layer>
+  <itemMetadata>
+    <dummyData>This is dummy data!</dummyData>
+    <dummyVariable>Nigeria</dummyVariable>
+  <disparity>0.6309269</disparity></itemMetadata>
+  <assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p0 imsqti_v2p0.xsd" identifier="choice" title="Concept translation from English into French Nigeria" adaptive="false" timeDependent="false">
+    <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+      <correctResponse>
+        <value>cf59115c-b6c1-4d4d-b370-b5e466fc30d3</value>
+      </correctResponse>
+    </responseDeclaration>
+    <outcomeDeclaration identifier="SCORE" cardinality="single" baseType="integer">
+      <defaultValue>
+        <value>0</value>
+      </defaultValue>
+    </outcomeDeclaration>
+    <itemBody>
+      <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+        <prompt>What is the translation of Nigeria into French?</prompt>
+        <simpleChoice identifier="cf59115c-b6c1-4d4d-b370-b5e466fc30d3">Nigeria</simpleChoice>
+        <simpleChoice identifier="416d3059-0a1f-4c63-af60-998bc0bf4f0c">Régions historiques des États-Unis</simpleChoice>
+        <simpleChoice identifier="8285492c-ae72-4ce5-8b60-e8f2b663f7fc">Ouzbékistan</simpleChoice>
+      </choiceInteraction>
+    </itemBody>
+    <responseProcessing template="http://www.imsglobal.org/question/qti_v2p0/rptemplates/match_correct" />
+  </assessmentItem>
+</layer>
+
+
+<layer>
+  <itemMetadata>
+    <dummyData>This is dummy data!</dummyData>
+    <dummyVariable>Nigeria</dummyVariable>
+  <disparity>0.6345009</disparity></itemMetadata>
+  <assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p0 imsqti_v2p0.xsd" identifier="choice" title="Concept translation from English into French Nigeria" adaptive="false" timeDependent="false">
+    <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+      <correctResponse>
+        <value>cf59115c-b6c1-4d4d-b370-b5e466fc30d3</value>
+      </correctResponse>
+    </responseDeclaration>
+    <outcomeDeclaration identifier="SCORE" cardinality="single" baseType="integer">
+      <defaultValue>
+        <value>0</value>
+      </defaultValue>
+    </outcomeDeclaration>
+    <itemBody>
+      <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+        <prompt>What is the translation of Nigeria into French?</prompt>
+        <simpleChoice identifier="cf59115c-b6c1-4d4d-b370-b5e466fc30d3">Nigeria</simpleChoice>
+        <simpleChoice identifier="d356c0ef-48f2-4c36-8e2c-2e932f3054e8">Liechtenstein</simpleChoice>
+        <simpleChoice identifier="80bdee94-8492-4bb2-bd82-b521c48114d5">Histoire de l'Afrique de l'Ouest</simpleChoice>
+      </choiceInteraction>
+    </itemBody>
+    <responseProcessing template="http://www.imsglobal.org/question/qti_v2p0/rptemplates/match_correct" />
+  </assessmentItem>
+</layer>
+
+
+<layer>
+  <itemMetadata>
+    <dummyData>This is dummy data!</dummyData>
+    <dummyVariable>Nigeria</dummyVariable>
+  <disparity>0.6369048</disparity></itemMetadata>
+  <assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p0 imsqti_v2p0.xsd" identifier="choice" title="Concept translation from English into French Nigeria" adaptive="false" timeDependent="false">
+    <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+      <correctResponse>
+        <value>cf59115c-b6c1-4d4d-b370-b5e466fc30d3</value>
+      </correctResponse>
+    </responseDeclaration>
+    <outcomeDeclaration identifier="SCORE" cardinality="single" baseType="integer">
+      <defaultValue>
+        <value>0</value>
+      </defaultValue>
+    </outcomeDeclaration>
+    <itemBody>
+      <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+        <prompt>What is the translation of Nigeria into French?</prompt>
+        <simpleChoice identifier="cf59115c-b6c1-4d4d-b370-b5e466fc30d3">Nigeria</simpleChoice>
+        <simpleChoice identifier="8dfbc3f6-384b-44cd-a293-6f61431498a4">Australie</simpleChoice>
+        <simpleChoice identifier="1d9fc7d6-bce6-4eb0-a4a0-cba9621ac647">Rodrigues</simpleChoice>
+      </choiceInteraction>
+    </itemBody>
+    <responseProcessing template="http://www.imsglobal.org/question/qti_v2p0/rptemplates/match_correct" />
+  </assessmentItem>
+</layer>
+
+
+<layer>
+  <itemMetadata>
+    <dummyData>This is dummy data!</dummyData>
+    <dummyVariable>Nigeria</dummyVariable>
+  <disparity>0.6403439</disparity></itemMetadata>
+  <assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p0 imsqti_v2p0.xsd" identifier="choice" title="Concept translation from English into French Nigeria" adaptive="false" timeDependent="false">
+    <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+      <correctResponse>
+        <value>cf59115c-b6c1-4d4d-b370-b5e466fc30d3</value>
+      </correctResponse>
+    </responseDeclaration>
+    <outcomeDeclaration identifier="SCORE" cardinality="single" baseType="integer">
+      <defaultValue>
+        <value>0</value>
+      </defaultValue>
+    </outcomeDeclaration>
+    <itemBody>
+      <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+        <prompt>What is the translation of Nigeria into French?</prompt>
+        <simpleChoice identifier="cf59115c-b6c1-4d4d-b370-b5e466fc30d3">Nigeria</simpleChoice>
+        <simpleChoice identifier="7689c1ba-ce6f-4a88-9dab-7525bf7e32d2">Mississippi (État)</simpleChoice>
+        <simpleChoice identifier="98eb0758-fe26-4479-bc4b-7efb1567c2fe">Nouvelle-Écosse</simpleChoice>
+      </choiceInteraction>
+    </itemBody>
+    <responseProcessing template="http://www.imsglobal.org/question/qti_v2p0/rptemplates/match_correct" />
+  </assessmentItem>
+</layer>
+
+
+<layer>
+  <itemMetadata>
+    <dummyData>This is dummy data!</dummyData>
+    <dummyVariable>Nigeria</dummyVariable>
+  <disparity>0.64285713</disparity></itemMetadata>
+  <assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p0 imsqti_v2p0.xsd" identifier="choice" title="Concept translation from English into French Nigeria" adaptive="false" timeDependent="false">
+    <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+      <correctResponse>
+        <value>cf59115c-b6c1-4d4d-b370-b5e466fc30d3</value>
+      </correctResponse>
+    </responseDeclaration>
+    <outcomeDeclaration identifier="SCORE" cardinality="single" baseType="integer">
+      <defaultValue>
+        <value>0</value>
+      </defaultValue>
+    </outcomeDeclaration>
+    <itemBody>
+      <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+        <prompt>What is the translation of Nigeria into French?</prompt>
+        <simpleChoice identifier="cf59115c-b6c1-4d4d-b370-b5e466fc30d3">Nigeria</simpleChoice>
+        <simpleChoice identifier="9fb17ef1-f2dd-424b-af28-0432dc5de689">Mali</simpleChoice>
+        <simpleChoice identifier="d9f63fc9-703d-455d-bbfe-41306872e09f">Ohio</simpleChoice>
+      </choiceInteraction>
+    </itemBody>
+    <responseProcessing template="http://www.imsglobal.org/question/qti_v2p0/rptemplates/match_correct" />
+  </assessmentItem>
+</layer>
+
+
+<layer>
+  <itemMetadata>
+    <dummyData>This is dummy data!</dummyData>
+    <dummyVariable>Nigeria</dummyVariable>
+  <disparity>0.6431598</disparity></itemMetadata>
+  <assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p0 imsqti_v2p0.xsd" identifier="choice" title="Concept translation from English into French Nigeria" adaptive="false" timeDependent="false">
+    <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+      <correctResponse>
+        <value>cf59115c-b6c1-4d4d-b370-b5e466fc30d3</value>
+      </correctResponse>
+    </responseDeclaration>
+    <outcomeDeclaration identifier="SCORE" cardinality="single" baseType="integer">
+      <defaultValue>
+        <value>0</value>
+      </defaultValue>
+    </outcomeDeclaration>
+    <itemBody>
+      <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+        <prompt>What is the translation of Nigeria into French?</prompt>
+        <simpleChoice identifier="cf59115c-b6c1-4d4d-b370-b5e466fc30d3">Nigeria</simpleChoice>
+        <simpleChoice identifier="d13c7827-88b3-4b3e-81f4-89b9439cdad3">Liste des États membres de l'Organisation des Nations unies</simpleChoice>
+        <simpleChoice identifier="6dd282df-1c19-42c6-99bd-b3d7f00cbb1f">Inde</simpleChoice>
+      </choiceInteraction>
+    </itemBody>
+    <responseProcessing template="http://www.imsglobal.org/question/qti_v2p0/rptemplates/match_correct" />
+  </assessmentItem>
+</layer>
+
+
+<layer>
+  <itemMetadata>
+    <dummyData>This is dummy data!</dummyData>
+    <dummyVariable>Nigeria</dummyVariable>
+  <disparity>0.65119046</disparity></itemMetadata>
+  <assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p0 imsqti_v2p0.xsd" identifier="choice" title="Concept translation from English into French Nigeria" adaptive="false" timeDependent="false">
+    <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+      <correctResponse>
+        <value>cf59115c-b6c1-4d4d-b370-b5e466fc30d3</value>
+      </correctResponse>
+    </responseDeclaration>
+    <outcomeDeclaration identifier="SCORE" cardinality="single" baseType="integer">
+      <defaultValue>
+        <value>0</value>
+      </defaultValue>
+    </outcomeDeclaration>
+    <itemBody>
+      <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+        <prompt>What is the translation of Nigeria into French?</prompt>
+        <simpleChoice identifier="cf59115c-b6c1-4d4d-b370-b5e466fc30d3">Nigeria</simpleChoice>
+        <simpleChoice identifier="7c2a7ba6-14d1-46ad-864e-93d5218472b8">Suède</simpleChoice>
+        <simpleChoice identifier="9d8e927b-39fb-4618-8065-74b2c1874c2e">Yémen</simpleChoice>
+      </choiceInteraction>
+    </itemBody>
+    <responseProcessing template="http://www.imsglobal.org/question/qti_v2p0/rptemplates/match_correct" />
+  </assessmentItem>
+</layer>
+
+
+<layer>
+  <itemMetadata>
+    <dummyData>This is dummy data!</dummyData>
+    <dummyVariable>Nigeria</dummyVariable>
+  <disparity>0.65119046</disparity></itemMetadata>
+  <assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p0 imsqti_v2p0.xsd" identifier="choice" title="Concept translation from English into French Nigeria" adaptive="false" timeDependent="false">
+    <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+      <correctResponse>
+        <value>cf59115c-b6c1-4d4d-b370-b5e466fc30d3</value>
+      </correctResponse>
+    </responseDeclaration>
+    <outcomeDeclaration identifier="SCORE" cardinality="single" baseType="integer">
+      <defaultValue>
+        <value>0</value>
+      </defaultValue>
+    </outcomeDeclaration>
+    <itemBody>
+      <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+        <prompt>What is the translation of Nigeria into French?</prompt>
+        <simpleChoice identifier="cf59115c-b6c1-4d4d-b370-b5e466fc30d3">Nigeria</simpleChoice>
+        <simpleChoice identifier="9cff2a8f-4c55-4189-93fd-8ce99cc2bec6">Pérou</simpleChoice>
+        <simpleChoice identifier="1126b335-03f3-4b72-937e-ac158a641d34">Samoa</simpleChoice>
+      </choiceInteraction>
+    </itemBody>
+    <responseProcessing template="http://www.imsglobal.org/question/qti_v2p0/rptemplates/match_correct" />
+  </assessmentItem>
+</layer>
+
+
+<layer>
+  <itemMetadata>
+    <dummyData>This is dummy data!</dummyData>
+    <dummyVariable>Nigeria</dummyVariable>
+  <disparity>0.65119046</disparity></itemMetadata>
+  <assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p0 imsqti_v2p0.xsd" identifier="choice" title="Concept translation from English into French Nigeria" adaptive="false" timeDependent="false">
+    <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+      <correctResponse>
+        <value>cf59115c-b6c1-4d4d-b370-b5e466fc30d3</value>
+      </correctResponse>
+    </responseDeclaration>
+    <outcomeDeclaration identifier="SCORE" cardinality="single" baseType="integer">
+      <defaultValue>
+        <value>0</value>
+      </defaultValue>
+    </outcomeDeclaration>
+    <itemBody>
+      <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+        <prompt>What is the translation of Nigeria into French?</prompt>
+        <simpleChoice identifier="cf59115c-b6c1-4d4d-b370-b5e466fc30d3">Nigeria</simpleChoice>
+        <simpleChoice identifier="ce736999-e304-4810-9d1f-3d76ad44800e">Malte</simpleChoice>
+        <simpleChoice identifier="902d2b9b-0653-4fe8-86ab-3d04030f6d7e">Maroc</simpleChoice>
+      </choiceInteraction>
+    </itemBody>
+    <responseProcessing template="http://www.imsglobal.org/question/qti_v2p0/rptemplates/match_correct" />
+  </assessmentItem>
+</layer>
+
+
+<layer>
+  <itemMetadata>
+    <dummyData>This is dummy data!</dummyData>
+    <dummyVariable>Nigeria</dummyVariable>
+  <disparity>0.65119046</disparity></itemMetadata>
+  <assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p0 imsqti_v2p0.xsd" identifier="choice" title="Concept translation from English into French Nigeria" adaptive="false" timeDependent="false">
+    <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+      <correctResponse>
+        <value>cf59115c-b6c1-4d4d-b370-b5e466fc30d3</value>
+      </correctResponse>
+    </responseDeclaration>
+    <outcomeDeclaration identifier="SCORE" cardinality="single" baseType="integer">
+      <defaultValue>
+        <value>0</value>
+      </defaultValue>
+    </outcomeDeclaration>
+    <itemBody>
+      <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+        <prompt>What is the translation of Nigeria into French?</prompt>
+        <simpleChoice identifier="cf59115c-b6c1-4d4d-b370-b5e466fc30d3">Nigeria</simpleChoice>
+        <simpleChoice identifier="25b8afb4-680d-4b37-8f28-a69472f9ba68">Haïti</simpleChoice>
+        <simpleChoice identifier="bc6fc140-0c57-4461-9e6c-df3407a16546">Liban</simpleChoice>
+      </choiceInteraction>
+    </itemBody>
+    <responseProcessing template="http://www.imsglobal.org/question/qti_v2p0/rptemplates/match_correct" />
+  </assessmentItem>
+</layer>
+
+
+<layer>
+  <itemMetadata>
+    <dummyData>This is dummy data!</dummyData>
+    <dummyVariable>Nigeria</dummyVariable>
+  <disparity>0.65119046</disparity></itemMetadata>
+  <assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p0 imsqti_v2p0.xsd" identifier="choice" title="Concept translation from English into French Nigeria" adaptive="false" timeDependent="false">
+    <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+      <correctResponse>
+        <value>cf59115c-b6c1-4d4d-b370-b5e466fc30d3</value>
+      </correctResponse>
+    </responseDeclaration>
+    <outcomeDeclaration identifier="SCORE" cardinality="single" baseType="integer">
+      <defaultValue>
+        <value>0</value>
+      </defaultValue>
+    </outcomeDeclaration>
+    <itemBody>
+      <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+        <prompt>What is the translation of Nigeria into French?</prompt>
+        <simpleChoice identifier="cf59115c-b6c1-4d4d-b370-b5e466fc30d3">Nigeria</simpleChoice>
+        <simpleChoice identifier="3828012d-cbac-4595-b333-c79889d85a64">Ghana</simpleChoice>
+        <simpleChoice identifier="97fb2ea1-0108-4eef-99e7-42521303102e">Grèce</simpleChoice>
+      </choiceInteraction>
+    </itemBody>
+    <responseProcessing template="http://www.imsglobal.org/question/qti_v2p0/rptemplates/match_correct" />
+  </assessmentItem>
+</layer>
+
+
+<layer>
+  <itemMetadata>
+    <dummyData>This is dummy data!</dummyData>
+    <dummyVariable>Nigeria</dummyVariable>
+  <disparity>0.6525946</disparity></itemMetadata>
+  <assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p0 imsqti_v2p0.xsd" identifier="choice" title="Concept translation from English into French Nigeria" adaptive="false" timeDependent="false">
+    <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+      <correctResponse>
+        <value>cf59115c-b6c1-4d4d-b370-b5e466fc30d3</value>
+      </correctResponse>
+    </responseDeclaration>
+    <outcomeDeclaration identifier="SCORE" cardinality="single" baseType="integer">
+      <defaultValue>
+        <value>0</value>
+      </defaultValue>
+    </outcomeDeclaration>
+    <itemBody>
+      <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+        <prompt>What is the translation of Nigeria into French?</prompt>
+        <simpleChoice identifier="cf59115c-b6c1-4d4d-b370-b5e466fc30d3">Nigeria</simpleChoice>
+        <simpleChoice identifier="97ac1362-cab5-48ae-b98b-f087bfd27a6d">Chypre (pays)</simpleChoice>
+        <simpleChoice identifier="8b6140ce-15f6-4b2d-a58a-5399f9af228f">Bénin</simpleChoice>
+      </choiceInteraction>
+    </itemBody>
+    <responseProcessing template="http://www.imsglobal.org/question/qti_v2p0/rptemplates/match_correct" />
+  </assessmentItem>
+</layer>
+
+
+<layer>
+  <itemMetadata>
+    <dummyData>This is dummy data!</dummyData>
+    <dummyVariable>Nigeria</dummyVariable>
+  <disparity>0.65575397</disparity></itemMetadata>
+  <assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p0 imsqti_v2p0.xsd" identifier="choice" title="Concept translation from English into French Nigeria" adaptive="false" timeDependent="false">
+    <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+      <correctResponse>
+        <value>cf59115c-b6c1-4d4d-b370-b5e466fc30d3</value>
+      </correctResponse>
+    </responseDeclaration>
+    <outcomeDeclaration identifier="SCORE" cardinality="single" baseType="integer">
+      <defaultValue>
+        <value>0</value>
+      </defaultValue>
+    </outcomeDeclaration>
+    <itemBody>
+      <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+        <prompt>What is the translation of Nigeria into French?</prompt>
+        <simpleChoice identifier="cf59115c-b6c1-4d4d-b370-b5e466fc30d3">Nigeria</simpleChoice>
+        <simpleChoice identifier="103609c8-286e-496e-aa3c-3972147f8456">Tobago</simpleChoice>
+        <simpleChoice identifier="5ffff889-41fb-487b-ac58-f26179db2a1c">Kiribati</simpleChoice>
+      </choiceInteraction>
+    </itemBody>
+    <responseProcessing template="http://www.imsglobal.org/question/qti_v2p0/rptemplates/match_correct" />
+  </assessmentItem>
+</layer>
+
+
+<layer>
+  <itemMetadata>
+    <dummyData>This is dummy data!</dummyData>
+    <dummyVariable>Nigeria</dummyVariable>
+  <disparity>0.65674603</disparity></itemMetadata>
+  <assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p0 imsqti_v2p0.xsd" identifier="choice" title="Concept translation from English into French Nigeria" adaptive="false" timeDependent="false">
+    <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+      <correctResponse>
+        <value>cf59115c-b6c1-4d4d-b370-b5e466fc30d3</value>
+      </correctResponse>
+    </responseDeclaration>
+    <outcomeDeclaration identifier="SCORE" cardinality="single" baseType="integer">
+      <defaultValue>
+        <value>0</value>
+      </defaultValue>
+    </outcomeDeclaration>
+    <itemBody>
+      <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+        <prompt>What is the translation of Nigeria into French?</prompt>
+        <simpleChoice identifier="cf59115c-b6c1-4d4d-b370-b5e466fc30d3">Nigeria</simpleChoice>
+        <simpleChoice identifier="91a36b8a-3c21-4115-8bd2-9e282b57cf02">Soudan</simpleChoice>
+        <simpleChoice identifier="def89dc5-9a6f-4df0-af5c-29add2cf62aa">Taïwan</simpleChoice>
+      </choiceInteraction>
+    </itemBody>
+    <responseProcessing template="http://www.imsglobal.org/question/qti_v2p0/rptemplates/match_correct" />
+  </assessmentItem>
+</layer>
+
+
+<layer>
+  <itemMetadata>
+    <dummyData>This is dummy data!</dummyData>
+    <dummyVariable>Nigeria</dummyVariable>
+  <disparity>0.65674603</disparity></itemMetadata>
+  <assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p0 imsqti_v2p0.xsd" identifier="choice" title="Concept translation from English into French Nigeria" adaptive="false" timeDependent="false">
+    <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+      <correctResponse>
+        <value>cf59115c-b6c1-4d4d-b370-b5e466fc30d3</value>
+      </correctResponse>
+    </responseDeclaration>
+    <outcomeDeclaration identifier="SCORE" cardinality="single" baseType="integer">
+      <defaultValue>
+        <value>0</value>
+      </defaultValue>
+    </outcomeDeclaration>
+    <itemBody>
+      <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+        <prompt>What is the translation of Nigeria into French?</prompt>
+        <simpleChoice identifier="cf59115c-b6c1-4d4d-b370-b5e466fc30d3">Nigeria</simpleChoice>
+        <simpleChoice identifier="66bd9f00-6e74-4e6f-afc8-ad47fc270b1f">Panama</simpleChoice>
+        <simpleChoice identifier="51bba61f-d3fe-4d99-85be-5d6ed3d96813">Rwanda</simpleChoice>
+      </choiceInteraction>
+    </itemBody>
+    <responseProcessing template="http://www.imsglobal.org/question/qti_v2p0/rptemplates/match_correct" />
+  </assessmentItem>
+</layer>
+
+
+<layer>
+  <itemMetadata>
+    <dummyData>This is dummy data!</dummyData>
+    <dummyVariable>Nigeria</dummyVariable>
+  <disparity>0.65674603</disparity></itemMetadata>
+  <assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p0 imsqti_v2p0.xsd" identifier="choice" title="Concept translation from English into French Nigeria" adaptive="false" timeDependent="false">
+    <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+      <correctResponse>
+        <value>cf59115c-b6c1-4d4d-b370-b5e466fc30d3</value>
+      </correctResponse>
+    </responseDeclaration>
+    <outcomeDeclaration identifier="SCORE" cardinality="single" baseType="integer">
+      <defaultValue>
+        <value>0</value>
+      </defaultValue>
+    </outcomeDeclaration>
+    <itemBody>
+      <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+        <prompt>What is the translation of Nigeria into French?</prompt>
+        <simpleChoice identifier="cf59115c-b6c1-4d4d-b370-b5e466fc30d3">Nigeria</simpleChoice>
+        <simpleChoice identifier="01fd680f-e650-42d9-b239-798995314739">Koweït</simpleChoice>
+        <simpleChoice identifier="788f4277-f79b-4bd7-86b4-d59a25edeaee">Malawi</simpleChoice>
+      </choiceInteraction>
+    </itemBody>
+    <responseProcessing template="http://www.imsglobal.org/question/qti_v2p0/rptemplates/match_correct" />
+  </assessmentItem>
+</layer>
+
+
+<layer>
+  <itemMetadata>
+    <dummyData>This is dummy data!</dummyData>
+    <dummyVariable>Nigeria</dummyVariable>
+  <disparity>0.65674603</disparity></itemMetadata>
+  <assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p0 imsqti_v2p0.xsd" identifier="choice" title="Concept translation from English into French Nigeria" adaptive="false" timeDependent="false">
+    <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+      <correctResponse>
+        <value>cf59115c-b6c1-4d4d-b370-b5e466fc30d3</value>
+      </correctResponse>
+    </responseDeclaration>
+    <outcomeDeclaration identifier="SCORE" cardinality="single" baseType="integer">
+      <defaultValue>
+        <value>0</value>
+      </defaultValue>
+    </outcomeDeclaration>
+    <itemBody>
+      <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+        <prompt>What is the translation of Nigeria into French?</prompt>
+        <simpleChoice identifier="cf59115c-b6c1-4d4d-b370-b5e466fc30d3">Nigeria</simpleChoice>
+        <simpleChoice identifier="f5d07659-09d0-49f8-83a8-662b4e0e46c7">Comores (pays)</simpleChoice>
+        <simpleChoice identifier="e8129f2e-20ba-48cb-a63d-e856d6403cc3">Guyana</simpleChoice>
+      </choiceInteraction>
+    </itemBody>
+    <responseProcessing template="http://www.imsglobal.org/question/qti_v2p0/rptemplates/match_correct" />
+  </assessmentItem>
+</layer>
+
+
+<layer>
+  <itemMetadata>
+    <dummyData>This is dummy data!</dummyData>
+    <dummyVariable>Nigeria</dummyVariable>
+  <disparity>0.65674603</disparity></itemMetadata>
+  <assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p0 imsqti_v2p0.xsd" identifier="choice" title="Concept translation from English into French Nigeria" adaptive="false" timeDependent="false">
+    <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+      <correctResponse>
+        <value>cf59115c-b6c1-4d4d-b370-b5e466fc30d3</value>
+      </correctResponse>
+    </responseDeclaration>
+    <outcomeDeclaration identifier="SCORE" cardinality="single" baseType="integer">
+      <defaultValue>
+        <value>0</value>
+      </defaultValue>
+    </outcomeDeclaration>
+    <itemBody>
+      <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+        <prompt>What is the translation of Nigeria into French?</prompt>
+        <simpleChoice identifier="cf59115c-b6c1-4d4d-b370-b5e466fc30d3">Nigeria</simpleChoice>
+        <simpleChoice identifier="2a2d7c08-31ba-4097-85d8-c32c3ba84f61">Afrique du Sud</simpleChoice>
+        <simpleChoice identifier="f4d87896-7381-4011-b0a6-eba6cbe3b091">Canada</simpleChoice>
+      </choiceInteraction>
+    </itemBody>
+    <responseProcessing template="http://www.imsglobal.org/question/qti_v2p0/rptemplates/match_correct" />
+  </assessmentItem>
+</layer>
+
+
+<layer>
+  <itemMetadata>
+    <dummyData>This is dummy data!</dummyData>
+    <dummyVariable>Nigeria</dummyVariable>
+  <disparity>0.65992063</disparity></itemMetadata>
+  <assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p0 imsqti_v2p0.xsd" identifier="choice" title="Concept translation from English into French Nigeria" adaptive="false" timeDependent="false">
+    <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+      <correctResponse>
+        <value>cf59115c-b6c1-4d4d-b370-b5e466fc30d3</value>
+      </correctResponse>
+    </responseDeclaration>
+    <outcomeDeclaration identifier="SCORE" cardinality="single" baseType="integer">
+      <defaultValue>
+        <value>0</value>
+      </defaultValue>
+    </outcomeDeclaration>
+    <itemBody>
+      <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+        <prompt>What is the translation of Nigeria into French?</prompt>
+        <simpleChoice identifier="cf59115c-b6c1-4d4d-b370-b5e466fc30d3">Nigeria</simpleChoice>
+        <simpleChoice identifier="e1d3d07a-53a1-454f-8bb0-2d39bb9fc923">Vanuatu</simpleChoice>
+        <simpleChoice identifier="c55ad277-5ffa-4dd2-84a8-f5ec65b773b2">Équateur (pays)</simpleChoice>
+      </choiceInteraction>
+    </itemBody>
+    <responseProcessing template="http://www.imsglobal.org/question/qti_v2p0/rptemplates/match_correct" />
+  </assessmentItem>
+</layer>
+
+
+<layer>
+  <itemMetadata>
+    <dummyData>This is dummy data!</dummyData>
+    <dummyVariable>Nigeria</dummyVariable>
+  <disparity>0.66071427</disparity></itemMetadata>
+  <assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p0 imsqti_v2p0.xsd" identifier="choice" title="Concept translation from English into French Nigeria" adaptive="false" timeDependent="false">
+    <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+      <correctResponse>
+        <value>cf59115c-b6c1-4d4d-b370-b5e466fc30d3</value>
+      </correctResponse>
+    </responseDeclaration>
+    <outcomeDeclaration identifier="SCORE" cardinality="single" baseType="integer">
+      <defaultValue>
+        <value>0</value>
+      </defaultValue>
+    </outcomeDeclaration>
+    <itemBody>
+      <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+        <prompt>What is the translation of Nigeria into French?</prompt>
+        <simpleChoice identifier="cf59115c-b6c1-4d4d-b370-b5e466fc30d3">Nigeria</simpleChoice>
+        <simpleChoice identifier="fac2ef44-1925-4691-820f-c9235efae798">Estonie</simpleChoice>
+        <simpleChoice identifier="7bef57e6-f85d-4144-a1f3-d927f5a53c81">Somalie</simpleChoice>
+      </choiceInteraction>
+    </itemBody>
+    <responseProcessing template="http://www.imsglobal.org/question/qti_v2p0/rptemplates/match_correct" />
+  </assessmentItem>
+</layer>
+
+
+<layer>
+  <itemMetadata>
+    <dummyData>This is dummy data!</dummyData>
+    <dummyVariable>Nigeria</dummyVariable>
+  <disparity>0.66071427</disparity></itemMetadata>
+  <assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p0 imsqti_v2p0.xsd" identifier="choice" title="Concept translation from English into French Nigeria" adaptive="false" timeDependent="false">
+    <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+      <correctResponse>
+        <value>cf59115c-b6c1-4d4d-b370-b5e466fc30d3</value>
+      </correctResponse>
+    </responseDeclaration>
+    <outcomeDeclaration identifier="SCORE" cardinality="single" baseType="integer">
+      <defaultValue>
+        <value>0</value>
+      </defaultValue>
+    </outcomeDeclaration>
+    <itemBody>
+      <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+        <prompt>What is the translation of Nigeria into French?</prompt>
+        <simpleChoice identifier="cf59115c-b6c1-4d4d-b370-b5e466fc30d3">Nigeria</simpleChoice>
+        <simpleChoice identifier="b1b40509-2cb4-414f-963b-51f835cb6e69">Croatie</simpleChoice>
+        <simpleChoice identifier="98472369-8775-4053-a600-141ecbdac392">Espagne</simpleChoice>
+      </choiceInteraction>
+    </itemBody>
+    <responseProcessing template="http://www.imsglobal.org/question/qti_v2p0/rptemplates/match_correct" />
+  </assessmentItem>
+</layer>
+
+
+<layer>
+  <itemMetadata>
+    <dummyData>This is dummy data!</dummyData>
+    <dummyVariable>Nigeria</dummyVariable>
+  <disparity>0.66071427</disparity></itemMetadata>
+  <assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p0 imsqti_v2p0.xsd" identifier="choice" title="Concept translation from English into French Nigeria" adaptive="false" timeDependent="false">
+    <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+      <correctResponse>
+        <value>cf59115c-b6c1-4d4d-b370-b5e466fc30d3</value>
+      </correctResponse>
+    </responseDeclaration>
+    <outcomeDeclaration identifier="SCORE" cardinality="single" baseType="integer">
+      <defaultValue>
+        <value>0</value>
+      </defaultValue>
+    </outcomeDeclaration>
+    <itemBody>
+      <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+        <prompt>What is the translation of Nigeria into French?</prompt>
+        <simpleChoice identifier="cf59115c-b6c1-4d4d-b370-b5e466fc30d3">Nigeria</simpleChoice>
+        <simpleChoice identifier="28adf162-4b43-4169-b9b9-1d6526be3fd1">Bahamas</simpleChoice>
+        <simpleChoice identifier="0222ade0-97aa-49b4-a45d-efb154b18382">Bhoutan</simpleChoice>
+      </choiceInteraction>
+    </itemBody>
+    <responseProcessing template="http://www.imsglobal.org/question/qti_v2p0/rptemplates/match_correct" />
+  </assessmentItem>
+</layer>
+
+
+<layer>
+  <itemMetadata>
+    <dummyData>This is dummy data!</dummyData>
+    <dummyVariable>Nigeria</dummyVariable>
+  <disparity>0.66245043</disparity></itemMetadata>
+  <assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p0 imsqti_v2p0.xsd" identifier="choice" title="Concept translation from English into French Nigeria" adaptive="false" timeDependent="false">
+    <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+      <correctResponse>
+        <value>cf59115c-b6c1-4d4d-b370-b5e466fc30d3</value>
+      </correctResponse>
+    </responseDeclaration>
+    <outcomeDeclaration identifier="SCORE" cardinality="single" baseType="integer">
+      <defaultValue>
+        <value>0</value>
+      </defaultValue>
+    </outcomeDeclaration>
+    <itemBody>
+      <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+        <prompt>What is the translation of Nigeria into French?</prompt>
+        <simpleChoice identifier="cf59115c-b6c1-4d4d-b370-b5e466fc30d3">Nigeria</simpleChoice>
+        <simpleChoice identifier="34a7616c-c20a-403f-85fb-f2c5751daa06">Jamaïque</simpleChoice>
+        <simpleChoice identifier="d43be88e-a911-49a7-bb7f-bec0fbdc2f2e">Macédoine (pays)</simpleChoice>
+      </choiceInteraction>
+    </itemBody>
+    <responseProcessing template="http://www.imsglobal.org/question/qti_v2p0/rptemplates/match_correct" />
+  </assessmentItem>
+</layer>
+
+
+<layer>
+  <itemMetadata>
+    <dummyData>This is dummy data!</dummyData>
+    <dummyVariable>Nigeria</dummyVariable>
+  <disparity>0.66626984</disparity></itemMetadata>
+  <assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p0 imsqti_v2p0.xsd" identifier="choice" title="Concept translation from English into French Nigeria" adaptive="false" timeDependent="false">
+    <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+      <correctResponse>
+        <value>cf59115c-b6c1-4d4d-b370-b5e466fc30d3</value>
+      </correctResponse>
+    </responseDeclaration>
+    <outcomeDeclaration identifier="SCORE" cardinality="single" baseType="integer">
+      <defaultValue>
+        <value>0</value>
+      </defaultValue>
+    </outcomeDeclaration>
+    <itemBody>
+      <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+        <prompt>What is the translation of Nigeria into French?</prompt>
+        <simpleChoice identifier="cf59115c-b6c1-4d4d-b370-b5e466fc30d3">Nigeria</simpleChoice>
+        <simpleChoice identifier="c5d93582-a255-4750-bf5e-072efe9b6c93">Seychelles</simpleChoice>
+        <simpleChoice identifier="bda75a13-995b-4da3-bda1-7dde8c96b3ba">Fédération du Mali</simpleChoice>
+      </choiceInteraction>
+    </itemBody>
+    <responseProcessing template="http://www.imsglobal.org/question/qti_v2p0/rptemplates/match_correct" />
+  </assessmentItem>
+</layer>
+
+
+<layer>
+  <itemMetadata>
+    <dummyData>This is dummy data!</dummyData>
+    <dummyVariable>Nigeria</dummyVariable>
+  <disparity>0.6678571</disparity></itemMetadata>
+  <assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p0 imsqti_v2p0.xsd" identifier="choice" title="Concept translation from English into French Nigeria" adaptive="false" timeDependent="false">
+    <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+      <correctResponse>
+        <value>cf59115c-b6c1-4d4d-b370-b5e466fc30d3</value>
+      </correctResponse>
+    </responseDeclaration>
+    <outcomeDeclaration identifier="SCORE" cardinality="single" baseType="integer">
+      <defaultValue>
+        <value>0</value>
+      </defaultValue>
+    </outcomeDeclaration>
+    <itemBody>
+      <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+        <prompt>What is the translation of Nigeria into French?</prompt>
+        <simpleChoice identifier="cf59115c-b6c1-4d4d-b370-b5e466fc30d3">Nigeria</simpleChoice>
+        <simpleChoice identifier="4b11f475-e1c9-460e-9d5d-07dce822ac55">Bas-Canada</simpleChoice>
+        <simpleChoice identifier="ef822c40-ebea-4223-86e0-9917a9dac739">Kazakhstan</simpleChoice>
+      </choiceInteraction>
+    </itemBody>
+    <responseProcessing template="http://www.imsglobal.org/question/qti_v2p0/rptemplates/match_correct" />
+  </assessmentItem>
+</layer>
+
+
+<layer>
+  <itemMetadata>
+    <dummyData>This is dummy data!</dummyData>
+    <dummyVariable>Nigeria</dummyVariable>
+  <disparity>0.67040044</disparity></itemMetadata>
+  <assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p0 imsqti_v2p0.xsd" identifier="choice" title="Concept translation from English into French Nigeria" adaptive="false" timeDependent="false">
+    <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+      <correctResponse>
+        <value>cf59115c-b6c1-4d4d-b370-b5e466fc30d3</value>
+      </correctResponse>
+    </responseDeclaration>
+    <outcomeDeclaration identifier="SCORE" cardinality="single" baseType="integer">
+      <defaultValue>
+        <value>0</value>
+      </defaultValue>
+    </outcomeDeclaration>
+    <itemBody>
+      <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+        <prompt>What is the translation of Nigeria into French?</prompt>
+        <simpleChoice identifier="cf59115c-b6c1-4d4d-b370-b5e466fc30d3">Nigeria</simpleChoice>
+        <simpleChoice identifier="c33d9330-52dd-4d85-91fc-10663ee4890c">Valledoria</simpleChoice>
+        <simpleChoice identifier="89a79f02-b931-47f6-b324-5afc30bd38a1">Lakshadweep</simpleChoice>
+      </choiceInteraction>
+    </itemBody>
+    <responseProcessing template="http://www.imsglobal.org/question/qti_v2p0/rptemplates/match_correct" />
+  </assessmentItem>
+</layer>
+
+
+<layer>
+  <itemMetadata>
+    <dummyData>This is dummy data!</dummyData>
+    <dummyVariable>Nigeria</dummyVariable>
+  <disparity>0.6731533</disparity></itemMetadata>
+  <assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p0 imsqti_v2p0.xsd" identifier="choice" title="Concept translation from English into French Nigeria" adaptive="false" timeDependent="false">
+    <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+      <correctResponse>
+        <value>cf59115c-b6c1-4d4d-b370-b5e466fc30d3</value>
+      </correctResponse>
+    </responseDeclaration>
+    <outcomeDeclaration identifier="SCORE" cardinality="single" baseType="integer">
+      <defaultValue>
+        <value>0</value>
+      </defaultValue>
+    </outcomeDeclaration>
+    <itemBody>
+      <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+        <prompt>What is the translation of Nigeria into French?</prompt>
+        <simpleChoice identifier="cf59115c-b6c1-4d4d-b370-b5e466fc30d3">Nigeria</simpleChoice>
+        <simpleChoice identifier="4f7c0f16-2b5e-4472-a75a-16c6b06ed41c">Antilles britanniques</simpleChoice>
+        <simpleChoice identifier="7697a171-0b00-4d64-bd8d-c3b0dc5e9525">Massachusetts</simpleChoice>
+      </choiceInteraction>
+    </itemBody>
+    <responseProcessing template="http://www.imsglobal.org/question/qti_v2p0/rptemplates/match_correct" />
+  </assessmentItem>
+</layer>
+
+
+<layer>
+  <itemMetadata>
+    <dummyData>This is dummy data!</dummyData>
+    <dummyVariable>Nigeria</dummyVariable>
+  <disparity>0.67720056</disparity></itemMetadata>
+  <assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p0 imsqti_v2p0.xsd" identifier="choice" title="Concept translation from English into French Nigeria" adaptive="false" timeDependent="false">
+    <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+      <correctResponse>
+        <value>cf59115c-b6c1-4d4d-b370-b5e466fc30d3</value>
+      </correctResponse>
+    </responseDeclaration>
+    <outcomeDeclaration identifier="SCORE" cardinality="single" baseType="integer">
+      <defaultValue>
+        <value>0</value>
+      </defaultValue>
+    </outcomeDeclaration>
+    <itemBody>
+      <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+        <prompt>What is the translation of Nigeria into French?</prompt>
+        <simpleChoice identifier="cf59115c-b6c1-4d4d-b370-b5e466fc30d3">Nigeria</simpleChoice>
+        <simpleChoice identifier="eeb8c28a-d290-489f-8ba7-2c0d461c0fec">Kirghizistan</simpleChoice>
+        <simpleChoice identifier="4eb83a9f-38fc-4562-8e91-1620e9c29b28">Fédération des Indes occidentales</simpleChoice>
+      </choiceInteraction>
+    </itemBody>
+    <responseProcessing template="http://www.imsglobal.org/question/qti_v2p0/rptemplates/match_correct" />
+  </assessmentItem>
+</layer>
+
+
+<layer>
+  <itemMetadata>
+    <dummyData>This is dummy data!</dummyData>
+    <dummyVariable>Nigeria</dummyVariable>
+  <disparity>0.6840449</disparity></itemMetadata>
+  <assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p0 imsqti_v2p0.xsd" identifier="choice" title="Concept translation from English into French Nigeria" adaptive="false" timeDependent="false">
+    <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+      <correctResponse>
+        <value>cf59115c-b6c1-4d4d-b370-b5e466fc30d3</value>
+      </correctResponse>
+    </responseDeclaration>
+    <outcomeDeclaration identifier="SCORE" cardinality="single" baseType="integer">
+      <defaultValue>
+        <value>0</value>
+      </defaultValue>
+    </outcomeDeclaration>
+    <itemBody>
+      <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+        <prompt>What is the translation of Nigeria into French?</prompt>
+        <simpleChoice identifier="cf59115c-b6c1-4d4d-b370-b5e466fc30d3">Nigeria</simpleChoice>
+        <simpleChoice identifier="2c886f7c-b10b-45bc-8418-e2255f39787c">Colonie britannique de Chypre</simpleChoice>
+        <simpleChoice identifier="11f20178-700e-4767-8dbd-763b024cb19f">Sierra Leone</simpleChoice>
+      </choiceInteraction>
+    </itemBody>
+    <responseProcessing template="http://www.imsglobal.org/question/qti_v2p0/rptemplates/match_correct" />
+  </assessmentItem>
+</layer>
+
+
+<layer>
+  <itemMetadata>
+    <dummyData>This is dummy data!</dummyData>
+    <dummyVariable>Nigeria</dummyVariable>
+  <disparity>0.6874542</disparity></itemMetadata>
+  <assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p0 imsqti_v2p0.xsd" identifier="choice" title="Concept translation from English into French Nigeria" adaptive="false" timeDependent="false">
+    <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+      <correctResponse>
+        <value>cf59115c-b6c1-4d4d-b370-b5e466fc30d3</value>
+      </correctResponse>
+    </responseDeclaration>
+    <outcomeDeclaration identifier="SCORE" cardinality="single" baseType="integer">
+      <defaultValue>
+        <value>0</value>
+      </defaultValue>
+    </outcomeDeclaration>
+    <itemBody>
+      <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+        <prompt>What is the translation of Nigeria into French?</prompt>
+        <simpleChoice identifier="cf59115c-b6c1-4d4d-b370-b5e466fc30d3">Nigeria</simpleChoice>
+        <simpleChoice identifier="77184a7f-ddba-4943-a942-894e07dbb73e">Géorgie (pays)</simpleChoice>
+        <simpleChoice identifier="74f274bf-c42c-4e90-b0f9-271ea728346c">Guinée-Bissau</simpleChoice>
+      </choiceInteraction>
+    </itemBody>
+    <responseProcessing template="http://www.imsglobal.org/question/qti_v2p0/rptemplates/match_correct" />
+  </assessmentItem>
+</layer>
+
+
+<layer>
+  <itemMetadata>
+    <dummyData>This is dummy data!</dummyData>
+    <dummyVariable>Nigeria</dummyVariable>
+  <disparity>0.68849206</disparity></itemMetadata>
+  <assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p0 imsqti_v2p0.xsd" identifier="choice" title="Concept translation from English into French Nigeria" adaptive="false" timeDependent="false">
+    <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+      <correctResponse>
+        <value>cf59115c-b6c1-4d4d-b370-b5e466fc30d3</value>
+      </correctResponse>
+    </responseDeclaration>
+    <outcomeDeclaration identifier="SCORE" cardinality="single" baseType="integer">
+      <defaultValue>
+        <value>0</value>
+      </defaultValue>
+    </outcomeDeclaration>
+    <itemBody>
+      <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+        <prompt>What is the translation of Nigeria into French?</prompt>
+        <simpleChoice identifier="cf59115c-b6c1-4d4d-b370-b5e466fc30d3">Nigeria</simpleChoice>
+        <simpleChoice identifier="67a8eb33-69d4-4a8b-97fe-a7f01c2cce19">Italie</simpleChoice>
+        <simpleChoice identifier="1ac0c730-f488-4cd7-bf27-7aa8475e1d63">Zambie</simpleChoice>
+      </choiceInteraction>
+    </itemBody>
+    <responseProcessing template="http://www.imsglobal.org/question/qti_v2p0/rptemplates/match_correct" />
+  </assessmentItem>
+</layer>
+
+
+<layer>
+  <itemMetadata>
+    <dummyData>This is dummy data!</dummyData>
+    <dummyVariable>Nigeria</dummyVariable>
+  <disparity>0.68849206</disparity></itemMetadata>
+  <assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p0 imsqti_v2p0.xsd" identifier="choice" title="Concept translation from English into French Nigeria" adaptive="false" timeDependent="false">
+    <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+      <correctResponse>
+        <value>cf59115c-b6c1-4d4d-b370-b5e466fc30d3</value>
+      </correctResponse>
+    </responseDeclaration>
+    <outcomeDeclaration identifier="SCORE" cardinality="single" baseType="integer">
+      <defaultValue>
+        <value>0</value>
+      </defaultValue>
+    </outcomeDeclaration>
+    <itemBody>
+      <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+        <prompt>What is the translation of Nigeria into French?</prompt>
+        <simpleChoice identifier="cf59115c-b6c1-4d4d-b370-b5e466fc30d3">Nigeria</simpleChoice>
+        <simpleChoice identifier="8aef6c91-3124-441c-b95b-33772343a51d">Belize</simpleChoice>
+        <simpleChoice identifier="a78d4cd5-18a4-4ce4-a4c2-3d9e5561ba34">Gambie</simpleChoice>
+      </choiceInteraction>
+    </itemBody>
+    <responseProcessing template="http://www.imsglobal.org/question/qti_v2p0/rptemplates/match_correct" />
+  </assessmentItem>
+</layer>
+
+
+<layer>
+  <itemMetadata>
+    <dummyData>This is dummy data!</dummyData>
+    <dummyVariable>Nigeria</dummyVariable>
+  <disparity>0.6904762</disparity></itemMetadata>
+  <assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p0 imsqti_v2p0.xsd" identifier="choice" title="Concept translation from English into French Nigeria" adaptive="false" timeDependent="false">
+    <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+      <correctResponse>
+        <value>cf59115c-b6c1-4d4d-b370-b5e466fc30d3</value>
+      </correctResponse>
+    </responseDeclaration>
+    <outcomeDeclaration identifier="SCORE" cardinality="single" baseType="integer">
+      <defaultValue>
+        <value>0</value>
+      </defaultValue>
+    </outcomeDeclaration>
+    <itemBody>
+      <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+        <prompt>What is the translation of Nigeria into French?</prompt>
+        <simpleChoice identifier="cf59115c-b6c1-4d4d-b370-b5e466fc30d3">Nigeria</simpleChoice>
+        <simpleChoice identifier="f724b353-1c5b-4a09-b6d7-72a1b76385e4">Berbice</simpleChoice>
+        <simpleChoice identifier="e750a738-1ff9-418f-8e70-f3a98676aca9">Hongrie</simpleChoice>
+      </choiceInteraction>
+    </itemBody>
+    <responseProcessing template="http://www.imsglobal.org/question/qti_v2p0/rptemplates/match_correct" />
+  </assessmentItem>
+</layer>
+
+
+<layer>
+  <itemMetadata>
+    <dummyData>This is dummy data!</dummyData>
+    <dummyVariable>Nigeria</dummyVariable>
+  <disparity>0.69345236</disparity></itemMetadata>
+  <assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p0 imsqti_v2p0.xsd" identifier="choice" title="Concept translation from English into French Nigeria" adaptive="false" timeDependent="false">
+    <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+      <correctResponse>
+        <value>cf59115c-b6c1-4d4d-b370-b5e466fc30d3</value>
+      </correctResponse>
+    </responseDeclaration>
+    <outcomeDeclaration identifier="SCORE" cardinality="single" baseType="integer">
+      <defaultValue>
+        <value>0</value>
+      </defaultValue>
+    </outcomeDeclaration>
+    <itemBody>
+      <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+        <prompt>What is the translation of Nigeria into French?</prompt>
+        <simpleChoice identifier="cf59115c-b6c1-4d4d-b370-b5e466fc30d3">Nigeria</simpleChoice>
+        <simpleChoice identifier="2446f2ef-7d7d-4311-9e6c-22660641403f">Bulgarie</simpleChoice>
+        <simpleChoice identifier="d3569963-b7e0-4a85-a45b-395a15bb4b93">Algérie</simpleChoice>
+      </choiceInteraction>
+    </itemBody>
+    <responseProcessing template="http://www.imsglobal.org/question/qti_v2p0/rptemplates/match_correct" />
+  </assessmentItem>
+</layer>
+
+
+<layer>
+  <itemMetadata>
+    <dummyData>This is dummy data!</dummyData>
+    <dummyVariable>Nigeria</dummyVariable>
+  <disparity>0.69642854</disparity></itemMetadata>
+  <assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p0 imsqti_v2p0.xsd" identifier="choice" title="Concept translation from English into French Nigeria" adaptive="false" timeDependent="false">
+    <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+      <correctResponse>
+        <value>cf59115c-b6c1-4d4d-b370-b5e466fc30d3</value>
+      </correctResponse>
+    </responseDeclaration>
+    <outcomeDeclaration identifier="SCORE" cardinality="single" baseType="integer">
+      <defaultValue>
+        <value>0</value>
+      </defaultValue>
+    </outcomeDeclaration>
+    <itemBody>
+      <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+        <prompt>What is the translation of Nigeria into French?</prompt>
+        <simpleChoice identifier="cf59115c-b6c1-4d4d-b370-b5e466fc30d3">Nigeria</simpleChoice>
+        <simpleChoice identifier="7cc17b6a-2bbd-4f7a-9b91-42302bc3f571">Bahreïn</simpleChoice>
+        <simpleChoice identifier="d5e72744-6419-4bac-b7d4-ec446b35b903">Birmanie</simpleChoice>
+      </choiceInteraction>
+    </itemBody>
+    <responseProcessing template="http://www.imsglobal.org/question/qti_v2p0/rptemplates/match_correct" />
+  </assessmentItem>
+</layer>
+
+
+<layer>
+  <itemMetadata>
+    <dummyData>This is dummy data!</dummyData>
+    <dummyVariable>Nigeria</dummyVariable>
+  <disparity>0.70238096</disparity></itemMetadata>
+  <assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p0 imsqti_v2p0.xsd" identifier="choice" title="Concept translation from English into French Nigeria" adaptive="false" timeDependent="false">
+    <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+      <correctResponse>
+        <value>cf59115c-b6c1-4d4d-b370-b5e466fc30d3</value>
+      </correctResponse>
+    </responseDeclaration>
+    <outcomeDeclaration identifier="SCORE" cardinality="single" baseType="integer">
+      <defaultValue>
+        <value>0</value>
+      </defaultValue>
+    </outcomeDeclaration>
+    <itemBody>
+      <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+        <prompt>What is the translation of Nigeria into French?</prompt>
+        <simpleChoice identifier="cf59115c-b6c1-4d4d-b370-b5e466fc30d3">Nigeria</simpleChoice>
+        <simpleChoice identifier="8b8fb829-202a-41e8-ae31-6133b29c9116">Roumanie</simpleChoice>
+        <simpleChoice identifier="f97fac8e-a6ed-4c7a-b56e-f19db7e29263">Tasmanie</simpleChoice>
+      </choiceInteraction>
+    </itemBody>
+    <responseProcessing template="http://www.imsglobal.org/question/qti_v2p0/rptemplates/match_correct" />
+  </assessmentItem>
+</layer>
+
+
+<layer>
+  <itemMetadata>
+    <dummyData>This is dummy data!</dummyData>
+    <dummyVariable>Nigeria</dummyVariable>
+  <disparity>0.70357144</disparity></itemMetadata>
+  <assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p0 imsqti_v2p0.xsd" identifier="choice" title="Concept translation from English into French Nigeria" adaptive="false" timeDependent="false">
+    <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+      <correctResponse>
+        <value>cf59115c-b6c1-4d4d-b370-b5e466fc30d3</value>
+      </correctResponse>
+    </responseDeclaration>
+    <outcomeDeclaration identifier="SCORE" cardinality="single" baseType="integer">
+      <defaultValue>
+        <value>0</value>
+      </defaultValue>
+    </outcomeDeclaration>
+    <itemBody>
+      <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+        <prompt>What is the translation of Nigeria into French?</prompt>
+        <simpleChoice identifier="cf59115c-b6c1-4d4d-b370-b5e466fc30d3">Nigeria</simpleChoice>
+        <simpleChoice identifier="9c054e21-1d86-434c-89bf-c2c695224f9f">République islamique</simpleChoice>
+        <simpleChoice identifier="c1254c3b-0bec-4f47-b7ef-3606bcd0b816">Autriche</simpleChoice>
+      </choiceInteraction>
+    </itemBody>
+    <responseProcessing template="http://www.imsglobal.org/question/qti_v2p0/rptemplates/match_correct" />
+  </assessmentItem>
+</layer>
+
+
+<layer>
+  <itemMetadata>
+    <dummyData>This is dummy data!</dummyData>
+    <dummyVariable>Nigeria</dummyVariable>
+  <disparity>0.7058201</disparity></itemMetadata>
+  <assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p0 imsqti_v2p0.xsd" identifier="choice" title="Concept translation from English into French Nigeria" adaptive="false" timeDependent="false">
+    <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+      <correctResponse>
+        <value>cf59115c-b6c1-4d4d-b370-b5e466fc30d3</value>
+      </correctResponse>
+    </responseDeclaration>
+    <outcomeDeclaration identifier="SCORE" cardinality="single" baseType="integer">
+      <defaultValue>
+        <value>0</value>
+      </defaultValue>
+    </outcomeDeclaration>
+    <itemBody>
+      <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+        <prompt>What is the translation of Nigeria into French?</prompt>
+        <simpleChoice identifier="cf59115c-b6c1-4d4d-b370-b5e466fc30d3">Nigeria</simpleChoice>
+        <simpleChoice identifier="4b1f87fc-4e19-4661-ad1e-45059294c429">Géorgie (États-Unis)</simpleChoice>
+        <simpleChoice identifier="08e130e1-6d55-470c-a6c5-36d17ef4724a">Argentine</simpleChoice>
+      </choiceInteraction>
+    </itemBody>
+    <responseProcessing template="http://www.imsglobal.org/question/qti_v2p0/rptemplates/match_correct" />
+  </assessmentItem>
+</layer>
+
+
+<layer>
+  <itemMetadata>
+    <dummyData>This is dummy data!</dummyData>
+    <dummyVariable>Nigeria</dummyVariable>
+  <disparity>0.7061905</disparity></itemMetadata>
+  <assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p0 imsqti_v2p0.xsd" identifier="choice" title="Concept translation from English into French Nigeria" adaptive="false" timeDependent="false">
+    <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+      <correctResponse>
+        <value>cf59115c-b6c1-4d4d-b370-b5e466fc30d3</value>
+      </correctResponse>
+    </responseDeclaration>
+    <outcomeDeclaration identifier="SCORE" cardinality="single" baseType="integer">
+      <defaultValue>
+        <value>0</value>
+      </defaultValue>
+    </outcomeDeclaration>
+    <itemBody>
+      <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+        <prompt>What is the translation of Nigeria into French?</prompt>
+        <simpleChoice identifier="cf59115c-b6c1-4d4d-b370-b5e466fc30d3">Nigeria</simpleChoice>
+        <simpleChoice identifier="7607e452-64c3-4a81-869c-0d0b11b48f70">Singapour</simpleChoice>
+        <simpleChoice identifier="bd7377bf-6b00-4c8c-8219-73eb432b840d">Îles Vierges britanniques</simpleChoice>
+      </choiceInteraction>
+    </itemBody>
+    <responseProcessing template="http://www.imsglobal.org/question/qti_v2p0/rptemplates/match_correct" />
+  </assessmentItem>
+</layer>
+
+
+<layer>
+  <itemMetadata>
+    <dummyData>This is dummy data!</dummyData>
+    <dummyVariable>Nigeria</dummyVariable>
+  <disparity>0.7092532</disparity></itemMetadata>
+  <assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p0 imsqti_v2p0.xsd" identifier="choice" title="Concept translation from English into French Nigeria" adaptive="false" timeDependent="false">
+    <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+      <correctResponse>
+        <value>cf59115c-b6c1-4d4d-b370-b5e466fc30d3</value>
+      </correctResponse>
+    </responseDeclaration>
+    <outcomeDeclaration identifier="SCORE" cardinality="single" baseType="integer">
+      <defaultValue>
+        <value>0</value>
+      </defaultValue>
+    </outcomeDeclaration>
+    <itemBody>
+      <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+        <prompt>What is the translation of Nigeria into French?</prompt>
+        <simpleChoice identifier="cf59115c-b6c1-4d4d-b370-b5e466fc30d3">Nigeria</simpleChoice>
+        <simpleChoice identifier="d5648830-fd53-435e-959f-5ea9ff8b0858">Mozambique</simpleChoice>
+        <simpleChoice identifier="d7a8c052-c543-480c-8afd-67271efa30b8">Antilles néerlandaises</simpleChoice>
+      </choiceInteraction>
+    </itemBody>
+    <responseProcessing template="http://www.imsglobal.org/question/qti_v2p0/rptemplates/match_correct" />
+  </assessmentItem>
+</layer>
+
+
+<layer>
+  <itemMetadata>
+    <dummyData>This is dummy data!</dummyData>
+    <dummyVariable>Nigeria</dummyVariable>
+  <disparity>0.7110714</disparity></itemMetadata>
+  <assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p0 imsqti_v2p0.xsd" identifier="choice" title="Concept translation from English into French Nigeria" adaptive="false" timeDependent="false">
+    <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+      <correctResponse>
+        <value>cf59115c-b6c1-4d4d-b370-b5e466fc30d3</value>
+      </correctResponse>
+    </responseDeclaration>
+    <outcomeDeclaration identifier="SCORE" cardinality="single" baseType="integer">
+      <defaultValue>
+        <value>0</value>
+      </defaultValue>
+    </outcomeDeclaration>
+    <itemBody>
+      <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+        <prompt>What is the translation of Nigeria into French?</prompt>
+        <simpleChoice identifier="cf59115c-b6c1-4d4d-b370-b5e466fc30d3">Nigeria</simpleChoice>
+        <simpleChoice identifier="89c16ccb-8736-49fc-ad5f-7b8489b0bafc">République centrafricaine</simpleChoice>
+        <simpleChoice identifier="b433af0b-e585-401f-80e5-86b465481a3b">Costa Rica</simpleChoice>
+      </choiceInteraction>
+    </itemBody>
+    <responseProcessing template="http://www.imsglobal.org/question/qti_v2p0/rptemplates/match_correct" />
+  </assessmentItem>
+</layer>
+
+
+<layer>
+  <itemMetadata>
+    <dummyData>This is dummy data!</dummyData>
+    <dummyVariable>Nigeria</dummyVariable>
+  <disparity>0.7125</disparity></itemMetadata>
+  <assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p0 imsqti_v2p0.xsd" identifier="choice" title="Concept translation from English into French Nigeria" adaptive="false" timeDependent="false">
+    <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+      <correctResponse>
+        <value>cf59115c-b6c1-4d4d-b370-b5e466fc30d3</value>
+      </correctResponse>
+    </responseDeclaration>
+    <outcomeDeclaration identifier="SCORE" cardinality="single" baseType="integer">
+      <defaultValue>
+        <value>0</value>
+      </defaultValue>
+    </outcomeDeclaration>
+    <itemBody>
+      <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+        <prompt>What is the translation of Nigeria into French?</prompt>
+        <simpleChoice identifier="cf59115c-b6c1-4d4d-b370-b5e466fc30d3">Nigeria</simpleChoice>
+        <simpleChoice identifier="15edca36-bea9-4f8b-9183-a2c6a3c348a0">Heligoland</simpleChoice>
+        <simpleChoice identifier="d838384e-fdc2-4d4a-ac34-750f15ed804b">Angleterre</simpleChoice>
+      </choiceInteraction>
+    </itemBody>
+    <responseProcessing template="http://www.imsglobal.org/question/qti_v2p0/rptemplates/match_correct" />
+  </assessmentItem>
+</layer>
+
+
+<layer>
+  <itemMetadata>
+    <dummyData>This is dummy data!</dummyData>
+    <dummyVariable>Nigeria</dummyVariable>
+  <disparity>0.7146561</disparity></itemMetadata>
+  <assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p0 imsqti_v2p0.xsd" identifier="choice" title="Concept translation from English into French Nigeria" adaptive="false" timeDependent="false">
+    <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+      <correctResponse>
+        <value>cf59115c-b6c1-4d4d-b370-b5e466fc30d3</value>
+      </correctResponse>
+    </responseDeclaration>
+    <outcomeDeclaration identifier="SCORE" cardinality="single" baseType="integer">
+      <defaultValue>
+        <value>0</value>
+      </defaultValue>
+    </outcomeDeclaration>
+    <itemBody>
+      <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+        <prompt>What is the translation of Nigeria into French?</prompt>
+        <simpleChoice identifier="cf59115c-b6c1-4d4d-b370-b5e466fc30d3">Nigeria</simpleChoice>
+        <simpleChoice identifier="5b26e309-d4b5-406a-8bc7-cbff67fa3334">Saint-Christophe-et-Niévès</simpleChoice>
+        <simpleChoice identifier="2e063663-07b5-4129-800c-fc45454c82d5">Royaume-Uni</simpleChoice>
+      </choiceInteraction>
+    </itemBody>
+    <responseProcessing template="http://www.imsglobal.org/question/qti_v2p0/rptemplates/match_correct" />
+  </assessmentItem>
+</layer>
+
+
+<layer>
+  <itemMetadata>
+    <dummyData>This is dummy data!</dummyData>
+    <dummyVariable>Nigeria</dummyVariable>
+  <disparity>0.71600896</disparity></itemMetadata>
+  <assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p0 imsqti_v2p0.xsd" identifier="choice" title="Concept translation from English into French Nigeria" adaptive="false" timeDependent="false">
+    <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+      <correctResponse>
+        <value>cf59115c-b6c1-4d4d-b370-b5e466fc30d3</value>
+      </correctResponse>
+    </responseDeclaration>
+    <outcomeDeclaration identifier="SCORE" cardinality="single" baseType="integer">
+      <defaultValue>
+        <value>0</value>
+      </defaultValue>
+    </outcomeDeclaration>
+    <itemBody>
+      <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+        <prompt>What is the translation of Nigeria into French?</prompt>
+        <simpleChoice identifier="cf59115c-b6c1-4d4d-b370-b5e466fc30d3">Nigeria</simpleChoice>
+        <simpleChoice identifier="d5eeb182-5138-4fe3-86b9-9d7212d4cb1a">Tadjikistan</simpleChoice>
+        <simpleChoice identifier="596aa2c0-e037-407c-81d0-5d29c541f01c">Colonie de la rivière Swan</simpleChoice>
+      </choiceInteraction>
+    </itemBody>
+    <responseProcessing template="http://www.imsglobal.org/question/qti_v2p0/rptemplates/match_correct" />
+  </assessmentItem>
+</layer>
+
+
+<layer>
+  <itemMetadata>
+    <dummyData>This is dummy data!</dummyData>
+    <dummyVariable>Nigeria</dummyVariable>
+  <disparity>0.7181499</disparity></itemMetadata>
+  <assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p0 imsqti_v2p0.xsd" identifier="choice" title="Concept translation from English into French Nigeria" adaptive="false" timeDependent="false">
+    <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+      <correctResponse>
+        <value>cf59115c-b6c1-4d4d-b370-b5e466fc30d3</value>
+      </correctResponse>
+    </responseDeclaration>
+    <outcomeDeclaration identifier="SCORE" cardinality="single" baseType="integer">
+      <defaultValue>
+        <value>0</value>
+      </defaultValue>
+    </outcomeDeclaration>
+    <itemBody>
+      <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+        <prompt>What is the translation of Nigeria into French?</prompt>
+        <simpleChoice identifier="cf59115c-b6c1-4d4d-b370-b5e466fc30d3">Nigeria</simpleChoice>
+        <simpleChoice identifier="353a7a11-d18c-493a-81a9-e8c2746e5e07">Eco (monnaie)</simpleChoice>
+        <simpleChoice identifier="89ccbf1e-e95b-40d5-b734-0557523a09b8">Colonie et Protectorat du Nigeria</simpleChoice>
+      </choiceInteraction>
+    </itemBody>
+    <responseProcessing template="http://www.imsglobal.org/question/qti_v2p0/rptemplates/match_correct" />
+  </assessmentItem>
+</layer>
+
+
+<layer>
+  <itemMetadata>
+    <dummyData>This is dummy data!</dummyData>
+    <dummyVariable>Nigeria</dummyVariable>
+  <disparity>0.71936625</disparity></itemMetadata>
+  <assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p0 imsqti_v2p0.xsd" identifier="choice" title="Concept translation from English into French Nigeria" adaptive="false" timeDependent="false">
+    <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+      <correctResponse>
+        <value>cf59115c-b6c1-4d4d-b370-b5e466fc30d3</value>
+      </correctResponse>
+    </responseDeclaration>
+    <outcomeDeclaration identifier="SCORE" cardinality="single" baseType="integer">
+      <defaultValue>
+        <value>0</value>
+      </defaultValue>
+    </outcomeDeclaration>
+    <itemBody>
+      <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+        <prompt>What is the translation of Nigeria into French?</prompt>
+        <simpleChoice identifier="cf59115c-b6c1-4d4d-b370-b5e466fc30d3">Nigeria</simpleChoice>
+        <simpleChoice identifier="6bd00291-1d4e-4652-a767-993ccfd175d5">République socialiste tchécoslovaque</simpleChoice>
+        <simpleChoice identifier="0b20e8ff-dc31-4ecf-9c68-481e113442c7">Saint-Marin</simpleChoice>
+      </choiceInteraction>
+    </itemBody>
+    <responseProcessing template="http://www.imsglobal.org/question/qti_v2p0/rptemplates/match_correct" />
+  </assessmentItem>
+</layer>
+
+
+<layer>
+  <itemMetadata>
+    <dummyData>This is dummy data!</dummyData>
+    <dummyVariable>Nigeria</dummyVariable>
+  <disparity>0.72003967</disparity></itemMetadata>
+  <assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p0 imsqti_v2p0.xsd" identifier="choice" title="Concept translation from English into French Nigeria" adaptive="false" timeDependent="false">
+    <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+      <correctResponse>
+        <value>cf59115c-b6c1-4d4d-b370-b5e466fc30d3</value>
+      </correctResponse>
+    </responseDeclaration>
+    <outcomeDeclaration identifier="SCORE" cardinality="single" baseType="integer">
+      <defaultValue>
+        <value>0</value>
+      </defaultValue>
+    </outcomeDeclaration>
+    <itemBody>
+      <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+        <prompt>What is the translation of Nigeria into French?</prompt>
+        <simpleChoice identifier="cf59115c-b6c1-4d4d-b370-b5e466fc30d3">Nigeria</simpleChoice>
+        <simpleChoice identifier="fe60f08f-7ed3-478d-bfab-3c02a7fc63a1">Turkménistan</simpleChoice>
+        <simpleChoice identifier="338736e3-92e5-456c-9189-6f0214d1db14">Territoire fédéral d'Islamabad</simpleChoice>
+      </choiceInteraction>
+    </itemBody>
+    <responseProcessing template="http://www.imsglobal.org/question/qti_v2p0/rptemplates/match_correct" />
+  </assessmentItem>
+</layer>
+
+
+<layer>
+  <itemMetadata>
+    <dummyData>This is dummy data!</dummyData>
+    <dummyVariable>Nigeria</dummyVariable>
+  <disparity>0.72090775</disparity></itemMetadata>
+  <assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p0 imsqti_v2p0.xsd" identifier="choice" title="Concept translation from English into French Nigeria" adaptive="false" timeDependent="false">
+    <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+      <correctResponse>
+        <value>cf59115c-b6c1-4d4d-b370-b5e466fc30d3</value>
+      </correctResponse>
+    </responseDeclaration>
+    <outcomeDeclaration identifier="SCORE" cardinality="single" baseType="integer">
+      <defaultValue>
+        <value>0</value>
+      </defaultValue>
+    </outcomeDeclaration>
+    <itemBody>
+      <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+        <prompt>What is the translation of Nigeria into French?</prompt>
+        <simpleChoice identifier="cf59115c-b6c1-4d4d-b370-b5e466fc30d3">Nigeria</simpleChoice>
+        <simpleChoice identifier="0aba0c45-1810-43c7-a687-159c46625c4b">République démocratique du Congo</simpleChoice>
+        <simpleChoice identifier="84b1d93d-51ad-45d6-8b5b-7a30b15b99f0">Pays de Galles</simpleChoice>
+      </choiceInteraction>
+    </itemBody>
+    <responseProcessing template="http://www.imsglobal.org/question/qti_v2p0/rptemplates/match_correct" />
+  </assessmentItem>
+</layer>
+
+
+<layer>
+  <itemMetadata>
+    <dummyData>This is dummy data!</dummyData>
+    <dummyVariable>Nigeria</dummyVariable>
+  <disparity>0.7251984</disparity></itemMetadata>
+  <assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p0 imsqti_v2p0.xsd" identifier="choice" title="Concept translation from English into French Nigeria" adaptive="false" timeDependent="false">
+    <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+      <correctResponse>
+        <value>cf59115c-b6c1-4d4d-b370-b5e466fc30d3</value>
+      </correctResponse>
+    </responseDeclaration>
+    <outcomeDeclaration identifier="SCORE" cardinality="single" baseType="integer">
+      <defaultValue>
+        <value>0</value>
+      </defaultValue>
+    </outcomeDeclaration>
+    <itemBody>
+      <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+        <prompt>What is the translation of Nigeria into French?</prompt>
+        <simpleChoice identifier="cf59115c-b6c1-4d4d-b370-b5e466fc30d3">Nigeria</simpleChoice>
+        <simpleChoice identifier="fc76be42-2189-4603-b09f-ea96ddbc2050">Colonie du Cap</simpleChoice>
+        <simpleChoice identifier="a36722dc-8b6c-48ee-a0ac-2e9a7630fe78">Îles Nicobar</simpleChoice>
+      </choiceInteraction>
+    </itemBody>
+    <responseProcessing template="http://www.imsglobal.org/question/qti_v2p0/rptemplates/match_correct" />
+  </assessmentItem>
+</layer>
+
+
+<layer>
+  <itemMetadata>
+    <dummyData>This is dummy data!</dummyData>
+    <dummyVariable>Nigeria</dummyVariable>
+  <disparity>0.7266447</disparity></itemMetadata>
+  <assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p0 imsqti_v2p0.xsd" identifier="choice" title="Concept translation from English into French Nigeria" adaptive="false" timeDependent="false">
+    <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+      <correctResponse>
+        <value>cf59115c-b6c1-4d4d-b370-b5e466fc30d3</value>
+      </correctResponse>
+    </responseDeclaration>
+    <outcomeDeclaration identifier="SCORE" cardinality="single" baseType="integer">
+      <defaultValue>
+        <value>0</value>
+      </defaultValue>
+    </outcomeDeclaration>
+    <itemBody>
+      <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+        <prompt>What is the translation of Nigeria into French?</prompt>
+        <simpleChoice identifier="cf59115c-b6c1-4d4d-b370-b5e466fc30d3">Nigeria</simpleChoice>
+        <simpleChoice identifier="b58ade9b-374f-46cd-ae03-1adffae6a5db">Territoire britannique de l'océan Indien</simpleChoice>
+        <simpleChoice identifier="12cd9b02-174c-4b5c-b404-f36d88fd2c20">Essequibo (colonie)</simpleChoice>
+      </choiceInteraction>
+    </itemBody>
+    <responseProcessing template="http://www.imsglobal.org/question/qti_v2p0/rptemplates/match_correct" />
+  </assessmentItem>
+</layer>
+
+
+<layer>
+  <itemMetadata>
+    <dummyData>This is dummy data!</dummyData>
+    <dummyVariable>Nigeria</dummyVariable>
+  <disparity>0.7304067</disparity></itemMetadata>
+  <assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p0 imsqti_v2p0.xsd" identifier="choice" title="Concept translation from English into French Nigeria" adaptive="false" timeDependent="false">
+    <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+      <correctResponse>
+        <value>cf59115c-b6c1-4d4d-b370-b5e466fc30d3</value>
+      </correctResponse>
+    </responseDeclaration>
+    <outcomeDeclaration identifier="SCORE" cardinality="single" baseType="integer">
+      <defaultValue>
+        <value>0</value>
+      </defaultValue>
+    </outcomeDeclaration>
+    <itemBody>
+      <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+        <prompt>What is the translation of Nigeria into French?</prompt>
+        <simpleChoice identifier="cf59115c-b6c1-4d4d-b370-b5e466fc30d3">Nigeria</simpleChoice>
+        <simpleChoice identifier="3e773333-e2ed-4a89-874b-36dab9dbf820">Colonie du Natal</simpleChoice>
+        <simpleChoice identifier="6266640f-457f-48d1-b6dc-b69b5741e632">Angola</simpleChoice>
+      </choiceInteraction>
+    </itemBody>
+    <responseProcessing template="http://www.imsglobal.org/question/qti_v2p0/rptemplates/match_correct" />
+  </assessmentItem>
+</layer>
+
+
+<layer>
+  <itemMetadata>
+    <dummyData>This is dummy data!</dummyData>
+    <dummyVariable>Nigeria</dummyVariable>
+  <disparity>0.73139876</disparity></itemMetadata>
+  <assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p0 imsqti_v2p0.xsd" identifier="choice" title="Concept translation from English into French Nigeria" adaptive="false" timeDependent="false">
+    <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+      <correctResponse>
+        <value>cf59115c-b6c1-4d4d-b370-b5e466fc30d3</value>
+      </correctResponse>
+    </responseDeclaration>
+    <outcomeDeclaration identifier="SCORE" cardinality="single" baseType="integer">
+      <defaultValue>
+        <value>0</value>
+      </defaultValue>
+    </outcomeDeclaration>
+    <itemBody>
+      <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+        <prompt>What is the translation of Nigeria into French?</prompt>
+        <simpleChoice identifier="cf59115c-b6c1-4d4d-b370-b5e466fc30d3">Nigeria</simpleChoice>
+        <simpleChoice identifier="00dd45eb-6bd7-4697-840f-99a896f8d6d8">Surigao du Sud</simpleChoice>
+        <simpleChoice identifier="a4d9cc05-2cfe-44ec-9940-58c8244d1ee1">Colonie de Lagos</simpleChoice>
+      </choiceInteraction>
+    </itemBody>
+    <responseProcessing template="http://www.imsglobal.org/question/qti_v2p0/rptemplates/match_correct" />
+  </assessmentItem>
+</layer>
+
+
+<layer>
+  <itemMetadata>
+    <dummyData>This is dummy data!</dummyData>
+    <dummyVariable>Nigeria</dummyVariable>
+  <disparity>0.73472226</disparity></itemMetadata>
+  <assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p0 imsqti_v2p0.xsd" identifier="choice" title="Concept translation from English into French Nigeria" adaptive="false" timeDependent="false">
+    <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+      <correctResponse>
+        <value>cf59115c-b6c1-4d4d-b370-b5e466fc30d3</value>
+      </correctResponse>
+    </responseDeclaration>
+    <outcomeDeclaration identifier="SCORE" cardinality="single" baseType="integer">
+      <defaultValue>
+        <value>0</value>
+      </defaultValue>
+    </outcomeDeclaration>
+    <itemBody>
+      <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+        <prompt>What is the translation of Nigeria into French?</prompt>
+        <simpleChoice identifier="cf59115c-b6c1-4d4d-b370-b5e466fc30d3">Nigeria</simpleChoice>
+        <simpleChoice identifier="9b028c1b-c28c-4843-86d8-e51a108f6ee8">Surigao du Nord</simpleChoice>
+        <simpleChoice identifier="c3b59624-7638-4b77-b481-a1a19580f835">Guinée équatoriale</simpleChoice>
+      </choiceInteraction>
+    </itemBody>
+    <responseProcessing template="http://www.imsglobal.org/question/qti_v2p0/rptemplates/match_correct" />
+  </assessmentItem>
+</layer>
+
+
+<layer>
+  <itemMetadata>
+    <dummyData>This is dummy data!</dummyData>
+    <dummyVariable>Nigeria</dummyVariable>
+  <disparity>0.73558897</disparity></itemMetadata>
+  <assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p0 imsqti_v2p0.xsd" identifier="choice" title="Concept translation from English into French Nigeria" adaptive="false" timeDependent="false">
+    <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+      <correctResponse>
+        <value>cf59115c-b6c1-4d4d-b370-b5e466fc30d3</value>
+      </correctResponse>
+    </responseDeclaration>
+    <outcomeDeclaration identifier="SCORE" cardinality="single" baseType="integer">
+      <defaultValue>
+        <value>0</value>
+      </defaultValue>
+    </outcomeDeclaration>
+    <itemBody>
+      <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+        <prompt>What is the translation of Nigeria into French?</prompt>
+        <simpleChoice identifier="cf59115c-b6c1-4d4d-b370-b5e466fc30d3">Nigeria</simpleChoice>
+        <simpleChoice identifier="384b98a0-83da-4e4b-826a-d6280673b40a">Colonie du Delaware</simpleChoice>
+        <simpleChoice identifier="28987ebc-f307-4460-814f-638de898f8bc">République autonome</simpleChoice>
+      </choiceInteraction>
+    </itemBody>
+    <responseProcessing template="http://www.imsglobal.org/question/qti_v2p0/rptemplates/match_correct" />
+  </assessmentItem>
+</layer>
+
+
+<layer>
+  <itemMetadata>
+    <dummyData>This is dummy data!</dummyData>
+    <dummyVariable>Nigeria</dummyVariable>
+  <disparity>0.73684216</disparity></itemMetadata>
+  <assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p0 imsqti_v2p0.xsd" identifier="choice" title="Concept translation from English into French Nigeria" adaptive="false" timeDependent="false">
+    <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+      <correctResponse>
+        <value>cf59115c-b6c1-4d4d-b370-b5e466fc30d3</value>
+      </correctResponse>
+    </responseDeclaration>
+    <outcomeDeclaration identifier="SCORE" cardinality="single" baseType="integer">
+      <defaultValue>
+        <value>0</value>
+      </defaultValue>
+    </outcomeDeclaration>
+    <itemBody>
+      <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+        <prompt>What is the translation of Nigeria into French?</prompt>
+        <simpleChoice identifier="cf59115c-b6c1-4d4d-b370-b5e466fc30d3">Nigeria</simpleChoice>
+        <simpleChoice identifier="3357ad88-228a-420f-a322-141dbdce4302">Sénégal</simpleChoice>
+        <simpleChoice identifier="cbabf488-9ee5-4a96-9f9f-0162fc295d59">Colonie de Virginie</simpleChoice>
+      </choiceInteraction>
+    </itemBody>
+    <responseProcessing template="http://www.imsglobal.org/question/qti_v2p0/rptemplates/match_correct" />
+  </assessmentItem>
+</layer>
+
+
+<layer>
+  <itemMetadata>
+    <dummyData>This is dummy data!</dummyData>
+    <dummyVariable>Nigeria</dummyVariable>
+  <disparity>0.7380953</disparity></itemMetadata>
+  <assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p0 imsqti_v2p0.xsd" identifier="choice" title="Concept translation from English into French Nigeria" adaptive="false" timeDependent="false">
+    <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+      <correctResponse>
+        <value>cf59115c-b6c1-4d4d-b370-b5e466fc30d3</value>
+      </correctResponse>
+    </responseDeclaration>
+    <outcomeDeclaration identifier="SCORE" cardinality="single" baseType="integer">
+      <defaultValue>
+        <value>0</value>
+      </defaultValue>
+    </outcomeDeclaration>
+    <itemBody>
+      <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+        <prompt>What is the translation of Nigeria into French?</prompt>
+        <simpleChoice identifier="cf59115c-b6c1-4d4d-b370-b5e466fc30d3">Nigeria</simpleChoice>
+        <simpleChoice identifier="6cbcef33-736b-44f7-9d9b-05bde504bef1">Dominique (pays)</simpleChoice>
+        <simpleChoice identifier="e09cbea4-0f18-4f09-93a8-bef765f66a5e">Montserrat (Antilles)</simpleChoice>
+      </choiceInteraction>
+    </itemBody>
+    <responseProcessing template="http://www.imsglobal.org/question/qti_v2p0/rptemplates/match_correct" />
+  </assessmentItem>
+</layer>
+
+
+<layer>
+  <itemMetadata>
+    <dummyData>This is dummy data!</dummyData>
+    <dummyVariable>Nigeria</dummyVariable>
+  <disparity>0.7380953</disparity></itemMetadata>
+  <assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p0 imsqti_v2p0.xsd" identifier="choice" title="Concept translation from English into French Nigeria" adaptive="false" timeDependent="false">
+    <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+      <correctResponse>
+        <value>cf59115c-b6c1-4d4d-b370-b5e466fc30d3</value>
+      </correctResponse>
+    </responseDeclaration>
+    <outcomeDeclaration identifier="SCORE" cardinality="single" baseType="integer">
+      <defaultValue>
+        <value>0</value>
+      </defaultValue>
+    </outcomeDeclaration>
+    <itemBody>
+      <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+        <prompt>What is the translation of Nigeria into French?</prompt>
+        <simpleChoice identifier="cf59115c-b6c1-4d4d-b370-b5e466fc30d3">Nigeria</simpleChoice>
+        <simpleChoice identifier="9ca72a67-c876-4b0e-a268-0b65f0274e58">Barbade</simpleChoice>
+        <simpleChoice identifier="6bd5bcd0-97e8-4e38-8319-8e54993f7657">Burundi</simpleChoice>
+      </choiceInteraction>
+    </itemBody>
+    <responseProcessing template="http://www.imsglobal.org/question/qti_v2p0/rptemplates/match_correct" />
+  </assessmentItem>
+</layer>
+

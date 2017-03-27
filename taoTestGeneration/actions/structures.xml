@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE structures SYSTEM "../../tao/doc/structures.dtd">
+<structures>
+	<structure id="tests" name="Tests" level="1" group="main">
+		<description>Combine a selection of items into tests.</description>
+		<icon id="icon-test" src="" />
+		<sections>
+			<section id="manage_tests" name="Manage tests" url="/taoTests/Tests/index">
+				<actions>
+					<action id="test-authoring" name="Select Existing Item" url="/taoTests/Tests/authoring"
+						group="content" context="instance" binding="launchEditor">
+						<icon id="icon-edit" />
+					</action>
+					<action id="author-new-item" name="Author New Item"
+						url="/taoQtiItem/QtiCreator/createItem" group="content" context="instance"
+						binding="instanciate">
+						<icon id="icon-edit" />
+					</action>
+					<action id="generate-test" name="Generate Test"
+						url="/taoTestGeneration/AutomatedTestGenerator/generateTest"
+						group="content" context="instance">
+						<icon id="icon-edit" />
+					</action>
+				</actions>
+			</section>
+		</sections>
+	</structure>
+</structures>

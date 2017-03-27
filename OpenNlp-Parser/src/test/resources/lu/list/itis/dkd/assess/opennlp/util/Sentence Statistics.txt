@@ -1,0 +1,150 @@
+Number of sentences: 5
+Sentence Statistics (1 - 2)
+
+Sentence 1: A_DT computer_NN is_VBZ a_DT general-purpose_JJ device_NN that_WDT can_MD be_VB programmed_VBN to_TO carry_VB out_RP a_DT set_NN of_IN arithmetic_NN or_CC logical_JJ operations_NNS automatically_RB . ( 21)
+
+Sentence 2: Since_IN a_DT sequence_NN of_IN operations_NNS can_MD be_VB readily_RB changed_VBN , the_DT computer_NN can_MD solve_VB more_JJR than_IN one_CD kind_NN of_IN problem_NN ! ( 19)
+
+Length difference: 2.0
+Tags in common with sentence 2: [DT, NN, JJ, MD, VB, VBN, IN, NNS, RB] (9 / 14)
+
+Common sequences with sentence 2: DT NN 
+
+Common sequences with sentence 2: MD VB 
+
+Common sequences with sentence 2: NN IN NN 
+
+Levensthein Distance between sentence 1 and sentence 2: 7 --> 0.6666666666666667
+
+
+
+Sentence Statistics (1 - 3)
+
+Sentence 1: A_DT computer_NN is_VBZ a_DT general-purpose_JJ device_NN that_WDT can_MD be_VB programmed_VBN to_TO carry_VB out_RP a_DT set_NN of_IN arithmetic_NN or_CC logical_JJ operations_NNS automatically_RB . ( 21)
+
+Sentence 3: Conventionally_RB , a_DT computer_NN consists_VBZ of_IN at_IN least_JJS one_CD processing_NN element_NN , typically_RB a_DT central_JJ processing_NN unit_NN  CPU_NN  , and_CC some_DT form_NN of_IN memory_NN . ( 21)
+
+Length difference: 0.0
+Tags in common with sentence 3: [DT, NN, VBZ, JJ, VB, IN, CC, RB] (8 / 14)
+
+Common sequences with sentence 3: DT NN VBZ 
+
+Common sequences with sentence 3: DT JJ NN 
+
+Common sequences with sentence 3: DT NN IN NN 
+
+Levensthein Distance between sentence 1 and sentence 3: 9 --> 0.5714285714285714
+
+
+
+Sentence Statistics (1 - 4)
+
+Sentence 1: A_DT computer_NN is_VBZ a_DT general-purpose_JJ device_NN that_WDT can_MD be_VB programmed_VBN to_TO carry_VB out_RP a_DT set_NN of_IN arithmetic_NN or_CC logical_JJ operations_NNS automatically_RB . ( 21)
+
+Sentence 4: The_DT processing_NN element_NN carries_VBZ out_RP arithmetic_NN and_CC logic_NN operations_NNS , and_CC a_DT sequencing_NN and_CC control_NN unit_NN can_MD change_VB the_DT order_NN of_IN operations_NNS in_IN response_NN to_TO stored_VBN information_NN . ( 26)
+
+Length difference: 5.0
+Tags in common with sentence 4: [DT, NN, VBZ, MD, VB, VBN, TO, RP, IN, CC, NNS] (11 / 14)
+
+Common sequences with sentence 4: DT NN 
+
+Common sequences with sentence 4: MD VB 
+
+Levensthein Distance between sentence 1 and sentence 4: 8 --> 0.6923076923076923
+
+
+
+Sentence Statistics (1 - 5)
+
+Sentence 1: A_DT computer_NN is_VBZ a_DT general-purpose_JJ device_NN that_WDT can_MD be_VB programmed_VBN to_TO carry_VB out_RP a_DT set_NN of_IN arithmetic_NN or_CC logical_JJ operations_NNS automatically_RB . ( 21)
+
+Sentence 5: Peripheral_JJ devices_NNS allow_VBP information_NN to_TO be_VB retrieved_VBN from_IN an_DT external_JJ source_NN , and_CC the_DT result_NN of_IN operations_NNS saved_VBN and_CC retrieved_VBN . ( 19)
+
+Length difference: 2.0
+Tags in common with sentence 5: [DT, NN, JJ, VB, VBN, TO, IN, CC, NNS] (9 / 14)
+
+Levensthein Distance between sentence 1 and sentence 5: 7 --> 0.6666666666666667
+
+
+
+Sentence Statistics (2 - 3)
+
+Sentence 2: Since_IN a_DT sequence_NN of_IN operations_NNS can_MD be_VB readily_RB changed_VBN , the_DT computer_NN can_MD solve_VB more_JJR than_IN one_CD kind_NN of_IN problem_NN ! ( 19)
+
+Sentence 3: Conventionally_RB , a_DT computer_NN consists_VBZ of_IN at_IN least_JJS one_CD processing_NN element_NN , typically_RB a_DT central_JJ processing_NN unit_NN  CPU_NN  , and_CC some_DT form_NN of_IN memory_NN . ( 21)
+
+Length difference: 2.0
+Tags in common with sentence 3: [IN, DT, NN, VB, RB, CD] (6 / 10)
+
+Levensthein Distance between sentence 2 and sentence 3: 7 --> 0.6666666666666667
+
+
+
+Sentence Statistics (2 - 4)
+
+Sentence 2: Since_IN a_DT sequence_NN of_IN operations_NNS can_MD be_VB readily_RB changed_VBN , the_DT computer_NN can_MD solve_VB more_JJR than_IN one_CD kind_NN of_IN problem_NN ! ( 19)
+
+Sentence 4: The_DT processing_NN element_NN carries_VBZ out_RP arithmetic_NN and_CC logic_NN operations_NNS , and_CC a_DT sequencing_NN and_CC control_NN unit_NN can_MD change_VB the_DT order_NN of_IN operations_NNS in_IN response_NN to_TO stored_VBN information_NN . ( 26)
+
+Length difference: 7.0
+Tags in common with sentence 4: [IN, DT, NN, NNS, MD, VB, VBN] (7 / 10)
+
+Levensthein Distance between sentence 2 and sentence 4: 10 --> 0.6153846153846154
+
+
+
+Sentence Statistics (2 - 5)
+
+Sentence 2: Since_IN a_DT sequence_NN of_IN operations_NNS can_MD be_VB readily_RB changed_VBN , the_DT computer_NN can_MD solve_VB more_JJR than_IN one_CD kind_NN of_IN problem_NN ! ( 19)
+
+Sentence 5: Peripheral_JJ devices_NNS allow_VBP information_NN to_TO be_VB retrieved_VBN from_IN an_DT external_JJ source_NN , and_CC the_DT result_NN of_IN operations_NNS saved_VBN and_CC retrieved_VBN . ( 19)
+
+Length difference: 0.0
+Tags in common with sentence 5: [IN, DT, NN, NNS, VB, VBN] (6 / 10)
+
+Common sequences with sentence 5: IN DT 
+
+Common sequences with sentence 5: IN NNS 
+
+Levensthein Distance between sentence 2 and sentence 5: 9 --> 0.5263157894736843
+
+
+
+Sentence Statistics (3 - 4)
+
+Sentence 3: Conventionally_RB , a_DT computer_NN consists_VBZ of_IN at_IN least_JJS one_CD processing_NN element_NN , typically_RB a_DT central_JJ processing_NN unit_NN  CPU_NN  , and_CC some_DT form_NN of_IN memory_NN . ( 21)
+
+Sentence 4: The_DT processing_NN element_NN carries_VBZ out_RP arithmetic_NN and_CC logic_NN operations_NNS , and_CC a_DT sequencing_NN and_CC control_NN unit_NN can_MD change_VB the_DT order_NN of_IN operations_NNS in_IN response_NN to_TO stored_VBN information_NN . ( 26)
+
+Length difference: 5.0
+Tags in common with sentence 4: [DT, NN, VBZ, IN, CC] (5 / 9)
+
+Common sequences with sentence 4: DT NN 
+
+Levensthein Distance between sentence 3 and sentence 4: 11 --> 0.5769230769230769
+
+
+
+Sentence Statistics (3 - 5)
+
+Sentence 3: Conventionally_RB , a_DT computer_NN consists_VBZ of_IN at_IN least_JJS one_CD processing_NN element_NN , typically_RB a_DT central_JJ processing_NN unit_NN  CPU_NN  , and_CC some_DT form_NN of_IN memory_NN . ( 21)
+
+Sentence 5: Peripheral_JJ devices_NNS allow_VBP information_NN to_TO be_VB retrieved_VBN from_IN an_DT external_JJ source_NN , and_CC the_DT result_NN of_IN operations_NNS saved_VBN and_CC retrieved_VBN . ( 19)
+
+Length difference: 2.0
+Tags in common with sentence 5: [DT, NN, IN, JJ, CC] (5 / 9)
+
+Levensthein Distance between sentence 3 and sentence 5: 11 --> 0.47619047619047616
+
+
+
+Sentence Statistics (4 - 5)
+
+Sentence 4: The_DT processing_NN element_NN carries_VBZ out_RP arithmetic_NN and_CC logic_NN operations_NNS , and_CC a_DT sequencing_NN and_CC control_NN unit_NN can_MD change_VB the_DT order_NN of_IN operations_NNS in_IN response_NN to_TO stored_VBN information_NN . ( 26)
+
+Sentence 5: Peripheral_JJ devices_NNS allow_VBP information_NN to_TO be_VB retrieved_VBN from_IN an_DT external_JJ source_NN , and_CC the_DT result_NN of_IN operations_NNS saved_VBN and_CC retrieved_VBN . ( 19)
+
+Length difference: 7.0
+Tags in common with sentence 5: [DT, NN, CC, NNS, VB, IN, TO, VBN] (8 / 11)
+
+Levensthein Distance between sentence 4 and sentence 5: 9 --> 0.6538461538461539

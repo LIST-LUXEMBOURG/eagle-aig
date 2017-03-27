@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE xml>
+<itemRequest language="fr-FR" itemsPerConcept="2"
+	conceptsPerItem="1" itemTemplate="twist" itemCategory="unitTest"
+	parentClass="" referrer="http://hermes:8086/taoAigFacade/demo/itemGeneration/">
+	<word
+		uri="http://www.list.lu/ontologies/2015/hermes/1.0.0#aufgabe_milestone_entscheid_zur_ausschreibung_treffen" />
+	<word
+		uri="http://www.list.lu/ontologies/2015/hermes/1.0.0#aufgabe_geschaeftsorganisation_realisieren" />
+</itemRequest>

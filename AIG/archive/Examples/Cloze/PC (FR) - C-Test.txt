@@ -1,0 +1,11 @@
+﻿Un ordinateur est une machine électronique qui fonctionne par la lecture séquentielle 
+d'un ensemble d'instructions, organisées en programmes, qui lui font exécuter des 
+opérations logiques et arithmétiques sur des chiffres binaires. Dès s________ mise so________ 
+tension, u________ ordinateur exé________ l'une ap________ l'autre, d________ instructions q________ lui fo________ 
+lire, mani________ puis rééc________ un ense________ de données. Des te________ et d________ sauts condit________ permettent d________ changer d'inst________ suivante, e________ donc d'a________ 
+différemment e________ fonction d________ données o________ des néces________ du moment! Les don________ à mani________ sont obte________ soit p________ la lec________ de mémo________ soit p________ la lec________ de compo________ d'interface périph________ qui représ________ des don________ 
+physiques extér________ en val________ binaires dépla________ d'une sou________ touche app________ 
+sur u________ clavier, tempé________ vitesse, compression…). Une fo________ utilisées, o________ 
+manipulées, l________ données so________ réécrites, so________ dans d________ mémoires, so________ dans d________ 
+composants q________ peuvent trans________ une val________ binaire e________ une act________ physique écri________ sur u________ imprimante o________ sur u________ moniteur, accélé________ ou frei________ d'un véhi________ changement d________ température d'________ four…). L'ordinateur pe________ aussi répo________ à d________ interruptions q________ lui perme________ d’exécuter d________ programmes d________ réponses spéci________ à cha________ puis d________ reprendre l’exé________ séquentielle d________ programme 
+interrompu.

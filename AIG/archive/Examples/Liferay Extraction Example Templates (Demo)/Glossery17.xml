@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" adaptive="false" identifier="mcqDefinition" timeDependent="false" title="Glossary for Change Management" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p1  http://www.imsglobal.org/xsd/qti/qtiv2p1/imsqti_v2p1.xsd">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="id1">
+    <correctResponse>
+      <value>optionCode1</value>
+    </correctResponse>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK_CORRECT"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK_INCORRECT"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction maxChoices="1" minChoices="0" responseIdentifier="id1" shuffle="true">
+      <prompt>Often referred to as â $ œthe way things are done around hereâ $.</prompt>
+      <simpleChoice identifier="optionCode1">Organisational culture</simpleChoice>
+      <simpleChoice identifier="optionCode2">Incremental change</simpleChoice>
+      <simpleChoice identifier="optionCode3">Radical change</simpleChoice>
+      <simpleChoice identifier="optionCode4">Change</simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <responseProcessing>
+    <responseCondition>
+      <responseIf>
+        <match>
+          <variable identifier="id1"/>
+          <correct identifier="id1"/>
+        </match>
+        <setOutcomeValue identifier="SCORE">
+          <variable identifier="MAXSCORE"/>
+        </setOutcomeValue>
+        <setOutcomeValue identifier="FEEDBACK_CORRECT">
+          <baseValue baseType="identifier">correctFeedback</baseValue>
+        </setOutcomeValue>
+      </responseIf>
+      <responseElse>
+        <setOutcomeValue identifier="FEEDBACK_INCORRECT">
+          <baseValue baseType="identifier">incorrectFeedback</baseValue>
+        </setOutcomeValue>
+      </responseElse>
+    </responseCondition>
+  </responseProcessing>
+  <modalFeedback identifier="correctFeedback" outcomeIdentifier="FEEDBACK_CORRECT" showHide="show">Correct!</modalFeedback>
+  <modalFeedback identifier="incorrectFeedback" outcomeIdentifier="FEEDBACK_INCORRECT" showHide="show">Incorrect!</modalFeedback>
+</assessmentItem>

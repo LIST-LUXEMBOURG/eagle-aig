@@ -1,0 +1,111 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>lu.list.itis.dkd.aig</groupId>
+	<artifactId>SIREN</artifactId>
+	<packaging>war</packaging>
+	<version>1.3.3</version>
+	<name>SIREN Maven Webapp</name>
+	<url>http://maven.apache.org</url>
+	<properties>
+		<maven.compiler.target>1.8</maven.compiler.target>
+		<maven.compiler.source>1.8</maven.compiler.source>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+	</properties>
+	<pluginRepositories>
+		<pluginRepository>
+			<id>Alfresco Public Repository</id>
+			<name>Alfresco Public Repository</name>
+			<url>https://artifacts.alfresco.com/nexus/content/repositories/public/</url>
+		</pluginRepository>
+	</pluginRepositories>
+	<dependencies>
+		<dependency>
+			<groupId>junit</groupId>
+			<artifactId>junit</artifactId>
+			<version>4.12</version>
+			<scope>test</scope>
+		</dependency>
+		<dependency>
+			<groupId>org.glassfish.jersey.containers</groupId>
+			<artifactId>jersey-container-servlet</artifactId>
+			<version>2.7</version>
+		</dependency>
+		<dependency>
+			<groupId>lu.list.itis.dkd.aig</groupId>
+			<artifactId>Automatic-Item-Generation</artifactId>
+			<version>0.8.2</version>
+		</dependency>
+		<dependency>
+			<groupId>com.google.guava</groupId>
+			<artifactId>guava</artifactId>
+			<version>18.0</version>
+		</dependency>
+		<dependency>
+			<groupId>com.google.code.gson</groupId>
+			<artifactId>gson</artifactId>
+			<version>2.3.1</version>
+		</dependency>
+		<dependency>
+			<groupId>lu.list.itis.dkd.dbc.annotation</groupId>
+			<artifactId>dbc-annotation</artifactId>
+			<version>1.2</version>
+		</dependency>
+		<dependency>
+			<groupId>javax.servlet</groupId>
+			<artifactId>javax.servlet-api</artifactId>
+			<version>3.1.0</version>
+			<scope>provided</scope>
+		</dependency>
+	</dependencies>
+	<build>
+		<finalName>SIREN</finalName>
+		<plugins>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-surefire-plugin</artifactId>
+				<version>2.19.1</version>
+				<configuration>
+					<includes>
+						<include>lu.list.itis.dkd.assess.connectives.questions*</include>
+					</includes>
+				</configuration>
+			</plugin>
+			<plugin>
+				<artifactId>maven-compiler-plugin</artifactId>
+				<version>3.1</version>
+			</plugin>
+			<plugin>
+				<groupId>org.apache.tomcat.maven</groupId>
+				<artifactId>tomcat7-maven-plugin</artifactId>
+				<version>2.2</version>
+				<configuration>
+					<path>/SIREN</path>
+					<!-- <update>true</update> <url>http://hermes.aig.list.lu:8080/manager/text</url> <username>tomcat</username> <password>tomcat</password> 
+						<url>http://eagle.list.lu:8080/manager/text</url> <username>admin</username> <password></password> -->
+				</configuration>
+			</plugin>
+			<plugin>
+				<groupId>org.apache.tomcat.maven</groupId>
+				<artifactId>tomcat8-maven-plugin</artifactId>
+				<version>3.0-r1655215</version>
+				<configuration>
+					<path>/SIREN</path>
+				</configuration>
+			</plugin>
+
+
+			<!-- <plugin> <groupId>org.glassfish.embedded</groupId> <artifactId>maven-embedded-glassfish-plugin</artifactId> <version>4.0</version> 
+				<configuration> <app>target/${project.artifactId}.war</app> <port>8585</port> <contextRoot>${project.artifactId}</contextRoot> 
+				</configuration> <executions> <execution> <goals> <goal>deploy</goal> </goals> </execution> </executions> </plugin> -->
+		</plugins>
+	</build>
+	<!-- TODO move this repository in LIST repository when it will be available -->
+	<repositories>
+		<repository>
+			<id>ProjectRepository</id>
+			<name>ProjectRepository</name>
+			<url>file://${project.basedir}/project_m2</url>
+		</repository>
+	</repositories>
+</project>

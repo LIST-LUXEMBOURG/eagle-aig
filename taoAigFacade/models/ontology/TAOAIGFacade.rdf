@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rdf:RDF [
+    <!ENTITY rdf 'http://www.w3.org/1999/02/22-rdf-syntax-ns#'>
+    <!ENTITY rdfs 'http://www.w3.org/TR/WD-rdf-schema#'>
+]>
+<!-- 
+ * Copyright (c) 2016-2017  Luxembourg Institute of Science and Technology (LIST).
+ * 
+ * This software is licensed under the Apache License, Version 2.0 (the "License") ; you
+ * may not use this file except in compliance with the License. You may obtain a copy of the License
+ * at : http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing, software distributed under the License
+ * is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express
+ * or implied. See the License for the specific language governing permissions and limitations under
+ * the License.
+ * 
+ * for more information about the software, please contact info@list.lu
+ *
+-->
+
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xml:base="http://www.tao.lu/Ontologies/TAOAIGFacade.rdf#"
+	xmlns:generis="http://www.tao.lu/Ontologies/generis.rdf#" xmlns:tao="http://www.tao.lu/Ontologies/TAO.rdf#"
+	xmlns:item="http://www.tao.lu/Ontologies/TAOItem.rdf#" xmlns:widget="http://www.tao.lu/datatypes/WidgetDefinitions.rdf#">
+
+	<!-- Management Role -->
+	<rdf:Description
+		rdf:about="http://www.tao.lu/Ontologies/TAOAIGFacade.rdf#AigFacadeManagerRole">
+		<rdf:type rdf:resource="http://www.tao.lu/Ontologies/TAO.rdf#ManagementRole" />
+		<generis:includesRole
+			rdf:resource="http://www.tao.lu/Ontologies/TAO.rdf#BackOfficeRole" />
+		<rdfs:label xml:lang="en-US"><![CDATA[Facade Manager]]></rdfs:label>
+		<rdfs:comment xml:lang="en-US"><![CDATA[The Facade Manager Role]]></rdfs:comment>
+	</rdf:Description>
+	<rdf:Description
+		rdf:about="http://www.tao.lu/Ontologies/TAOSubject.rdf#SubjectsManagerRole">
+		<generis:includesRole
+			rdf:resource="http://www.tao.lu/Ontologies/TAOAIGFacade.rdf#AigFacadeManagerRole" />
+	</rdf:Description>
+
+	<!-- AIG Item Class -->
+	<!-- <rdf:Description rdf:about="http://www.tao.lu/Ontologies/TAOAIGFacade.rdf#ItemClass"> 
+		<rdfs:label xml:lang="en-US"><![CDATA[AIG]]></rdfs:label> <rdfs:subClassOf><![CDATA[http://www.tao.lu/Ontologies/TAOItem.rdf#Item]]></rdfs:subClassOf> 
+		</rdf:Description> -->
+
+	<!-- Test Report Item Class -->
+	<rdf:Description
+		rdf:about="http://www.tao.lu/Ontologies/TAOAIGFacade.rdf#TestReportClass">
+		<rdfs:label xml:lang="en-US"><![CDATA[AIG_TEST_REPORT]]></rdfs:label>
+		<rdfs:subClassOf><![CDATA[http://www.tao.lu/Ontologies/TAOItem.rdf#Item]]></rdfs:subClassOf>
+	</rdf:Description>
+
+	<!-- Item Properties - Creation Date -->
+	<rdf:Description
+		rdf:about="http://www.tao.lu/Ontologies/TAOAIGFacade.rdf#CreationDate">
+		<rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" />
+		<rdfs:label xml:lang="en-US"><![CDATA[Creation Date]]></rdfs:label>
+		<rdfs:comment xml:lang="en-US"><![CDATA[Creation Date]]></rdfs:comment>
+		<rdfs:domain rdf:resource="http://www.tao.lu/Ontologies/TAOItem.rdf#Item" />
+		<widget:widget
+			rdf:resource="http://www.tao.lu/datatypes/WidgetDefinitions.rdf#TextBox" />
+		<rdfs:range rdf:resource="http://www.w3.org/2000/01/rdf-schema#Literal" />
+		<generis:is_language_dependent
+			rdf:resource="http://www.tao.lu/Ontologies/generis.rdf#False" />
+		<generis:Multiple rdf:resource="http://www.tao.lu/Ontologies/generis.rdf#False" />
+		<tao:TAOGUIOrder />
+	</rdf:Description>
+
+	<!-- Item Properties - Source Template -->
+	<rdf:Description
+		rdf:about="http://www.tao.lu/Ontologies/TAOAIGFacade.rdf#SourceTemplate">
+		<rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" />
+		<rdfs:label xml:lang="en-US"><![CDATA[Source Template]]></rdfs:label>
+		<rdfs:comment xml:lang="en-US"><![CDATA[Source Template]]></rdfs:comment>
+		<rdfs:domain rdf:resource="http://www.tao.lu/Ontologies/TAOItem.rdf#Item" />
+		<widget:widget
+			rdf:resource="http://www.tao.lu/datatypes/WidgetDefinitions.rdf#TextBox" />
+		<rdfs:range rdf:resource="http://www.w3.org/2000/01/rdf-schema#Literal" />
+		<generis:is_language_dependent
+			rdf:resource="http://www.tao.lu/Ontologies/generis.rdf#False" />
+		<generis:Multiple rdf:resource="http://www.tao.lu/Ontologies/generis.rdf#False" />
+		<tao:TAOGUIOrder />
+	</rdf:Description>
+
+
+	<!-- Item Properties - Related Construct -->
+	<rdf:Description
+		rdf:about="http://www.tao.lu/Ontologies/TAOAIGFacade.rdf#RelatedConstruct">
+		<rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" />
+		<rdfs:label xml:lang="en-US"><![CDATA[Related Construct]]></rdfs:label>
+		<rdfs:comment xml:lang="en-US"><![CDATA[Related Construct]]>
+		</rdfs:comment>
+		<rdfs:domain rdf:resource="http://www.tao.lu/Ontologies/TAOItem.rdf#Item" />
+		<widget:widget
+			rdf:resource="http://www.tao.lu/datatypes/WidgetDefinitions.rdf#TextBox" />
+		<rdfs:range rdf:resource="http://www.w3.org/2000/01/rdf-schema#Literal" />
+		<generis:is_language_dependent
+			rdf:resource="http://www.tao.lu/Ontologies/generis.rdf#False" />
+		<generis:Multiple rdf:resource="http://www.tao.lu/Ontologies/generis.rdf#False" />
+		<tao:TAOGUIOrder />
+	</rdf:Description>
+
+	<!-- Item Properties - Item Title -->
+	<rdf:Description
+		rdf:about="http://www.tao.lu/Ontologies/TAOAIGFacade.rdf#ItemTitle">
+		<rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" />
+		<rdfs:label xml:lang="en-US"><![CDATA[Item Title]]></rdfs:label>
+		<rdfs:comment xml:lang="en-US"><![CDATA[Item Title]]></rdfs:comment>
+		<rdfs:domain rdf:resource="http://www.tao.lu/Ontologies/TAOItem.rdf#Item" />
+		<widget:widget
+			rdf:resource="http://www.tao.lu/datatypes/WidgetDefinitions.rdf#TextBox" />
+		<rdfs:range rdf:resource="http://www.w3.org/2000/01/rdf-schema#Literal" />
+		<generis:is_language_dependent
+			rdf:resource="http://www.tao.lu/Ontologies/generis.rdf#False" />
+		<generis:Multiple rdf:resource="http://www.tao.lu/Ontologies/generis.rdf#False" />
+		<tao:TAOGUIOrder />
+	</rdf:Description>
+
+	<!-- Item Properties - Item Category -->
+	<rdf:Description
+		rdf:about="http://www.tao.lu/Ontologies/TAOAIGFacade.rdf#ItemCategory">
+		<rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" />
+		<rdfs:label xml:lang="en-US"><![CDATA[Item Category]]></rdfs:label>
+		<rdfs:comment xml:lang="en-US"><![CDATA[Item Category]]></rdfs:comment>
+		<rdfs:domain rdf:resource="http://www.tao.lu/Ontologies/TAOItem.rdf#Item" />
+		<widget:widget
+			rdf:resource="http://www.tao.lu/datatypes/WidgetDefinitions.rdf#TextBox" />
+		<rdfs:range rdf:resource="http://www.w3.org/2000/01/rdf-schema#Literal" />
+		<generis:is_language_dependent
+			rdf:resource="http://www.tao.lu/Ontologies/generis.rdf#False" />
+		<generis:Multiple rdf:resource="http://www.tao.lu/Ontologies/generis.rdf#False" />
+		<tao:TAOGUIOrder />
+	</rdf:Description>
+
+	<!-- Item Properties - Item CorrectResponse -->
+	<rdf:Description
+		rdf:about="http://www.tao.lu/Ontologies/TAOAIGFacade.rdf#ItemCorrectResponse">
+		<rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" />
+		<rdfs:label xml:lang="en-US"><![CDATA[Item CorrectResponse]]></rdfs:label>
+		<rdfs:comment xml:lang="en-US"><![CDATA[Item CorrectResponse]]></rdfs:comment>
+		<rdfs:domain rdf:resource="http://www.tao.lu/Ontologies/TAOItem.rdf#Item" />
+		<widget:widget
+			rdf:resource="http://www.tao.lu/datatypes/WidgetDefinitions.rdf#TextBox" />
+		<rdfs:range rdf:resource="http://www.w3.org/2000/01/rdf-schema#Literal" />
+		<generis:is_language_dependent
+			rdf:resource="http://www.tao.lu/Ontologies/generis.rdf#False" />
+		<generis:Multiple rdf:resource="http://www.tao.lu/Ontologies/generis.rdf#False" />
+		<tao:TAOGUIOrder />
+	</rdf:Description>
+	
+	<!-- Delivery Properties - Creation Date -->
+	<rdf:Description
+		rdf:about="http://www.tao.lu/Ontologies/TAOAIGFacade.rdf#CreationDate">
+		<rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" />
+		<rdfs:label xml:lang="en-US"><![CDATA[Creation Date]]></rdfs:label>
+		<rdfs:comment xml:lang="en-US"><![CDATA[Creation Date]]></rdfs:comment>
+    	<rdfs:domain rdf:resource="http://www.tao.lu/Ontologies/TAODelivery.rdf#Delivery"/>
+    	<widget:widget rdf:resource="http://www.tao.lu/datatypes/WidgetDefinitions.rdf#Calendar"/>
+		<rdfs:range rdf:resource="http://www.w3.org/2000/01/rdf-schema#Literal" />
+		<generis:is_language_dependent rdf:resource="http://www.tao.lu/Ontologies/generis.rdf#False" />
+		<generis:Multiple rdf:resource="http://www.tao.lu/Ontologies/generis.rdf#False" />
+		<tao:TAOGUIOrder />
+	</rdf:Description>
+	
+	<!-- Delivery Properties - Creator -->
+	<rdf:Description
+		rdf:about="http://www.tao.lu/Ontologies/TAOAIGFacade.rdf#Creator">
+		<rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" />
+		<rdfs:label xml:lang="en-US"><![CDATA[Creator]]></rdfs:label>
+		<rdfs:comment xml:lang="en-US"><![CDATA[Creator]]></rdfs:comment>
+    	<rdfs:domain rdf:resource="http://www.tao.lu/Ontologies/TAODelivery.rdf#Delivery"/>
+		<widget:widget rdf:resource="http://www.tao.lu/datatypes/WidgetDefinitions.rdf#TextBox" />
+		<rdfs:range rdf:resource="http://www.w3.org/2000/01/rdf-schema#Literal" />
+		<generis:is_language_dependent rdf:resource="http://www.tao.lu/Ontologies/generis.rdf#False" />
+		<generis:Multiple rdf:resource="http://www.tao.lu/Ontologies/generis.rdf#False" />
+		<tao:TAOGUIOrder />
+	</rdf:Description>
+	
+	<!-- Delivery Properties - Session -->
+	<rdf:Description
+		rdf:about="http://www.tao.lu/Ontologies/TAOAIGFacade.rdf#Session">
+		<rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" />
+		<rdfs:label xml:lang="en-US"><![CDATA[Creator]]></rdfs:label>
+		<rdfs:comment xml:lang="en-US"><![CDATA[Creator]]></rdfs:comment>
+    	<rdfs:domain rdf:resource="http://www.tao.lu/Ontologies/TAODelivery.rdf#Delivery"/>
+		<widget:widget rdf:resource="http://www.tao.lu/datatypes/WidgetDefinitions.rdf#TextBox" />
+		<rdfs:range rdf:resource="http://www.w3.org/2000/01/rdf-schema#Literal" />
+		<generis:is_language_dependent rdf:resource="http://www.tao.lu/Ontologies/generis.rdf#False" />
+		<generis:Multiple rdf:resource="http://www.tao.lu/Ontologies/generis.rdf#False" />
+		<tao:TAOGUIOrder />
+	</rdf:Description>
+	
+
+</rdf:RDF>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE structures SYSTEM "../../tao/doc/structures.dtd">
+<structures>
+	<!-- modify the taoOutcomeUi extension -->
+	<structure id="results" name="Results" level="5" group="main">
+		<description>View and format the collected results.</description>
+		<icon id="icon-result" src="" />
+		<sections>
+			<!-- <section id="manage_results_taoAigFacade_by_users" name="By Users" url="/taoAigFacade/UserResults/index"> <trees> 
+				<tree name="Test takers library" className="Test Taker" dataUrl="/taoAigFacade/UserResults/getOntologyData" rootNode="http://www.tao.lu/Ontologies/TAOSubject.rdf#Subject" 
+				selectClass="testtaker-class-properties" selectInstance="testtaker-properties" /> </trees> <actions> <action id="testtaker-class-properties" 
+				name="Properties" url="/taoAigFacade/UserResults/editTestTakerClass" group="content" context="class"> <icon id="icon-edit" 
+				/> </action> <action id="testtaker-properties" name="Properties" url="/taoAigFacade/UserResults/editTestTaker" group="content" 
+				context="instance"> <icon id="icon-edit" /> </action> </actions> </section> <section id="manage_results" name="Manage Results" 
+				url="/taoOutcomeUi/Results/index"> <actions> <action id="results-taoAigFacade" name="Export Excel" url="/taoAigFacade/DeliveryResults/index" 
+				group="content" context="class"> <icon id="icon-result-small" /> </action> </actions> </section> -->
+		</sections>
+	</structure>
+</structures>

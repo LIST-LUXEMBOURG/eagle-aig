@@ -1,0 +1,87 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>lu.list.itis.dkd.assess</groupId>
+	<artifactId>OpenNLP_Parser</artifactId>
+	<version>2.1.2</version>
+	<properties>
+		<maven.compiler.target>1.8</maven.compiler.target>
+		<maven.compiler.source>1.8</maven.compiler.source>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+	</properties>
+	<build>
+		<plugins>
+			<plugin>
+				<artifactId>maven-compiler-plugin</artifactId>
+				<version>3.3</version>
+			</plugin>
+		</plugins>
+	</build>
+	<!-- TODO move this repository in LIST repository when it will be available -->
+	<repositories>
+		<repository>
+			<id>ProjectRepository</id>
+			<name>ProjectRepository</name>
+			<url>file://${project.basedir}/project_m2</url>
+		</repository>
+	</repositories>
+	<dependencies>
+		<dependency>
+			<groupId>junit</groupId>
+			<artifactId>junit</artifactId>
+			<version>4.12</version>
+			<scope>test</scope>
+		</dependency>
+		<dependency>
+			<groupId>net.sf.hfst</groupId>
+			<artifactId>hfst-optimized-lookup</artifactId>
+			<version>1.0-LIST</version>
+		</dependency>
+		<!-- https://mvnrepository.com/artifact/com.cybozu.labs/langdetect -->
+		<dependency>
+			<groupId>com.cybozu.labs</groupId>
+			<artifactId>langdetect</artifactId>
+			<version>1.1-20120112</version>
+		</dependency>
+		<dependency>
+			<groupId>org.apache.lucene</groupId>
+			<artifactId>lucene-snowball</artifactId>
+			<version>3.0.3</version>
+		</dependency>
+		<dependency>
+			<groupId>com.hp.hpl.jena</groupId>
+			<artifactId>jena</artifactId>
+			<version>2.6.4</version>
+		</dependency>
+		<dependency>
+			<groupId>org.apache.opennlp</groupId>
+			<artifactId>opennlp-tools</artifactId>
+			<version>1.6.0</version>
+		</dependency>
+		<dependency>
+			<groupId>org.mariadb.jdbc</groupId>
+			<artifactId>mariadb-java-client</artifactId>
+			<version>1.5.8</version>
+		</dependency>
+		<dependency>
+			<groupId>net.arnx</groupId>
+			<artifactId>jsonic</artifactId>
+			<version>1.3.0</version>
+		</dependency>
+		<dependency>
+			<groupId>org.jdom</groupId>
+			<artifactId>jdom2</artifactId>
+			<version>2.0.6</version>
+		</dependency>
+		<dependency>
+			<groupId>org.maltparser</groupId>
+			<artifactId>maltparser</artifactId>
+			<version>1.9.0</version>
+		</dependency>
+		<!-- <dependency> -->
+		<!-- <groupId>com.googlecode.mate-tools</groupId> -->
+		<!-- <artifactId>anna</artifactId> -->
+		<!-- <version>3.5</version> -->
+		<!-- </dependency> -->
+	</dependencies>
+</project>

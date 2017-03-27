@@ -1,0 +1,8 @@
+<html>
+<body>
+	<a href="javascript:void(0);"
+		onclick="javascript:var baseDoc = window.parent.parent.parent.document; function runReportTimeOut(){setTimeout(function(){ if(newWin.document.getElementsByTagName('body')[0] === undefined){runReportTimeOut();return;} newWin.print();newWin.close(); }, 200);}baseDoc.getElementById('qti-rubrics').getElementsByTagName('link')[0].setAttribute('media', 'all'); var link = document.createElement('link');link.setAttribute('href', 'http://diagcomp:8086/tao/views/css/tao-main-style.css');link.setAttribute('type', 'text/css');link.setAttribute('rel', 'stylesheet');baseDoc.getElementsByTagName('head')[0].appendChild(link); var newWin=window.open(); newWin.document.write(baseDoc.getElementById('qti-rubrics').innerHTML);link.parentNode.removeChild(link);baseDoc.getElementById('qti-rubrics').getElementsByTagName('link')[0].setAttribute('media', 'screen');runReportTimeOut();newWin.document.close();newWin.focus();">
+		<img src="printReport.png" alt="printReport button" />
+	</a>
+</body>
+</html>

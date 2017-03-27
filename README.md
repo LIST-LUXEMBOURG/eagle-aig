@@ -7,7 +7,7 @@ More information on the EAGLE project are available here:
 This repository contains all AIG related modules developed or customed for the [EAGLE FP7 project](http://www.eagle-learning.eu/en/project/objectives). Theses modules are providing automatic test generation facilities by generating and storing Items.
 
 ## Modules overview
-![Modules overview](EAGLE AIG modules overview.png)
+![Modules overview](aig_modules_overview.png)
 
 ## Copyright
   Copyright (c) 2016-2017  Luxembourg Institute of Science and Technology (LIST).
